@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react'
 import type { ButtonHTMLAttributes, ReactNode } from 'react'
 import type { Item, Fuente } from '../types'
 
@@ -68,4 +69,11 @@ export function AreaTexto(p: { value: string; onChange: (s: string) => void; eti
 }
 export function Enlace({ href, children, className = '' }: { href: string; children: ReactNode; className?: string }) {
   return <a href={`#${href}`} className={`underline text-blue-800 dark:text-blue-300 ${className}`}>{children}</a>
+}
+
+/** Botón con confirmación en dos toques (reemplaza confirm(), que no funciona en todos los navegadores embebidos) */
+export function BotonConfirmar({ onConfirmar, children, aviso = 'Tocá de nuevo para confirmar', ...p }: ButtonHTMLAttributes<HTMLButtonElement> & { v?: Var; onConfirmar: () => void; aviso?: string }) {
+  const [armado, setArmado] = useState(false)
+  useEffect(() => { if (!armado) return; const t = setTimeout(() => setArmado(false), 4000); return () => clearTimeout(t) }, [armado])
+  return <Boton {...p} onClick={() => (armado ? (setArmado(false), onConfirmar()) : setArmado(true))} aria-live="polite">{armado ? `⚠ ${aviso}` : children}</Boton>
 }

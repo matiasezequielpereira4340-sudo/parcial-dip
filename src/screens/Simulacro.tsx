@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { CARGADAS, ITEMS } from '../data'
 import type { Item, Tipo } from '../types'
-import { AreaTexto, Boton, Chip, Etiquetas, Explicacion, Tarjeta, Titulo } from '../components/ui'
+import { AreaTexto, Boton, BotonConfirmar, Chip, Etiquetas, Explicacion, Tarjeta, Titulo } from '../components/ui'
 import { useProgreso } from '../lib/progreso'
 import { calificacionPorPorcentaje } from '../lib/leitner'
 import { hoyISO } from '../lib/fechas'
@@ -105,7 +105,7 @@ export default function Simulacro() {
         </Tarjeta>
         <div className="grid grid-cols-2 gap-2">
           <Boton v="secundario" disabled={i === 0} onClick={() => setI(i - 1)}>← Anterior</Boton>
-          {i < items.length - 1 ? <Boton onClick={() => setI(i + 1)}>Siguiente →</Boton> : <Boton v="exito" onClick={() => confirm('¿Entregar el simulacro?') && setFase('autoeval')}>Entregar</Boton>}
+          {i < items.length - 1 ? <Boton onClick={() => setI(i + 1)}>Siguiente →</Boton> : <BotonConfirmar v="exito" aviso="¿Entregar? Tocá de nuevo" onConfirmar={() => setFase('autoeval')}>Entregar</BotonConfirmar>}
         </div>
         <nav aria-label="Ir a pregunta" className="flex flex-wrap gap-1 pt-2">
           {items.map((x, k) => <button key={x.id} onClick={() => setI(k)} className={`size-9 rounded-lg text-sm border ${k === i ? 'bg-blue-800 text-white' : resp[x.id] ? 'bg-slate-200 dark:bg-slate-700' : 'border-slate-300 dark:border-slate-600'}`}>{k + 1}</button>)}

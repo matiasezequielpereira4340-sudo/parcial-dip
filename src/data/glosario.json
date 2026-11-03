@@ -2,9 +2,9 @@
  {
   "sigla": "ACNUR",
   "nombre": "Alto Comisionado de las Naciones Unidas para los Refugiados",
-  "definicion": "Pendiente. Confusable: asilo vs refugio.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Creado por la AG el 14/12/1950. Supervisa la Convención de 1951 y su Protocolo (art. 35); preparó el Pacto Mundial sobre los Refugiados (2018).",
+  "unidad": 9,
+  "fuente": "Oyarzábal"
  },
  {
   "sigla": "ACR",
@@ -70,6 +70,13 @@
   "fuente": "Complemento"
  },
  {
+  "sigla": "CADH",
+  "nombre": "Convención Americana sobre Derechos Humanos (1969)",
+  "definicion": "Art. 20: derecho a la nacionalidad (y a la del Estado de nacimiento si no se tiene otra); art. 22: non-refoulement.",
+  "unidad": 9,
+  "fuente": "Oyarzábal"
+ },
+ {
   "sigla": "CAN",
   "nombre": "Comunidad Andina",
   "definicion": "Decisión 291 de la Comisión del Acuerdo de Cartagena (1991): definición restrictiva de IED, transferencias con límites, requisitos de desempeño permitidos.",
@@ -103,6 +110,13 @@
   "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
   "unidad": null,
   "fuente": "Complemento"
+ },
+ {
+  "sigla": "CDN",
+  "nombre": "Convención sobre los Derechos del Niño (1989)",
+  "definicion": "Art. 7: derecho del niño a adquirir una nacionalidad, para evitar la apatridia.",
+  "unidad": 9,
+  "fuente": "Oyarzábal"
  },
  {
   "sigla": "CEF",
@@ -159,6 +173,20 @@
   "definicion": "Acuerdo de inversiones de 2007, liberalizador: TN desde 2010, incluso en el establecimiento.",
   "unidad": 7,
   "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "CONARE",
+  "nombre": "Comisión Nacional para los Refugiados (Argentina)",
+  "definicion": "Creada por la Ley 26.165; resuelve sobre el reconocimiento de la condición de refugiado.",
+  "unidad": 9,
+  "fuente": "Oyarzábal"
+ },
+ {
+  "sigla": "DUDH",
+  "nombre": "Declaración Universal de Derechos Humanos (1948)",
+  "definicion": "Art. 13.2: derecho a salir de cualquier país; art. 14: derecho a buscar asilo; art. 15: derecho a una nacionalidad.",
+  "unidad": 9,
+  "fuente": "Oyarzábal"
  },
  {
   "sigla": "EIA",
@@ -254,9 +282,9 @@
  {
   "sigla": "OIM",
   "nombre": "Organización Internacional para las Migraciones",
-  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Única institución sobre migraciones fuera del ámbito de los refugiados; según Juste Ruiz, de competencias muy limitadas y sin capacidad de imposición sobre los Estados.",
+  "unidad": 9,
+  "fuente": "Juste Ruiz"
  },
  {
   "sigla": "OSD",
@@ -264,6 +292,13 @@
   "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
   "unidad": null,
   "fuente": "Complemento"
+ },
+ {
+  "sigla": "PIDCP",
+  "nombre": "Pacto Internacional de Derechos Civiles y Políticos (1966)",
+  "definicion": "Art. 12: libre circulación, derecho a salir de cualquier país y a entrar al propio; art. 24.3: derecho del niño a una nacionalidad.",
+  "unidad": 9,
+  "fuente": "Juste Ruiz"
  },
  {
   "sigla": "PNUMA",

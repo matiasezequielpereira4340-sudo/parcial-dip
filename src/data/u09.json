@@ -1,11 +1,2539 @@
 {
  "unidad": 9,
- "titulo": "Título pendiente de carga",
- "estado": "pendiente",
- "nota": "Material pendiente de carga. Para sumarlo: completá este archivo siguiendo CONTENIDO.md, cambiá 'estado' a 'cargado' y corré npm run validar.",
- "temas": [],
- "cuadros": [],
- "esquemas": [],
- "lineaDeTiempo": [],
- "items": []
+ "titulo": "Nacionalidad, asilo, refugio y migraciones",
+ "estado": "cargado",
+ "nota": "Fuentes: Oyarzábal, «Nacionalidad, asilo y refugio» (cap. 42, Lecciones de Derecho Internacional Público) y Juste Ruiz, «El Derecho internacional de las migraciones: entre la crisis y la renovación» (AEDI vol. 35, 2019). Los pasajes ilegibles del escaneo no se usaron: ver scripts/fuentes/REVISAR_OCR.md.",
+ "temas": [
+  {
+   "id": "u09-t1",
+   "titulo": "Nacionalidad: concepto",
+   "ideaClave": "Vínculo jurídico entre una persona y un Estado, con derechos y deberes recíprocos fijados primariamente por el derecho interno; para la Corte IDH es también un derecho humano.",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "id": "u09-t2",
+   "titulo": "Nacionalidad y ciudadanía",
+   "ideaClave": "La ciudadanía es la titularidad de derechos políticos; para el derecho internacional la nacionalidad es unitaria: solo importa la distinción entre nacionales y extranjeros.",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "id": "u09-t3",
+   "titulo": "Adquisición y pérdida de la nacionalidad",
+   "ideaClave": "Cada Estado decide quiénes son sus nacionales (jus soli, jus sanguinis, naturalización); el único límite general es no privar arbitrariamente de la nacionalidad.",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "id": "u09-t4",
+   "titulo": "Efectos internacionales y vínculo efectivo",
+   "ideaClave": "Para oponerse internacionalmente, la nacionalidad debe ser 'genuina', con un vínculo efectivo (Nottebohm, CIJ 1955).",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "id": "u09-t5",
+   "titulo": "Doble nacionalidad",
+   "ideaClave": "Nace de la discordancia entre leyes nacionales; entre los Estados de las dos nacionalidades no hay protección diplomática, salvo prioridad de la nacionalidad efectiva.",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "id": "u09-t6",
+   "titulo": "Apatridia",
+   "ideaClave": "Conflicto negativo de leyes: nadie considera a la persona su nacional; Convenciones de 1954 (Estatuto) y 1961 (Reducción).",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "id": "u09-t7",
+   "titulo": "Asilo territorial y diplomático",
+   "ideaClave": "El asilo es un derecho del Estado, no del individuo; el diplomático es una institución regional latinoamericana (Caracas 1954; Haya de la Torre, CIJ 1950).",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "id": "u09-t8",
+   "titulo": "Estatuto de los refugiados",
+   "ideaClave": "Convención de 1951 y Protocolo de 1967, non-refoulement (art. 33), definición ampliada de Cartagena (1984) y ACNUR.",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "id": "u09-t9",
+   "titulo": "Insuficiencia del régimen de migraciones",
+   "ideaClave": "Colisión entre el derecho a salir de cualquier país y el derecho soberano del Estado a rechazar la entrada: hay derecho a emigrar, pero no a inmigrar.",
+   "fuente": "Juste Ruiz"
+  },
+  {
+   "id": "u09-t10",
+   "titulo": "Pactos Mundiales de 2018",
+   "ideaClave": "Declaración de Nueva York (2016) → Pacto Mundial sobre los Refugiados y Pacto Mundial para la Migración Segura, Ordenada y Regular (2018), ambos no vinculantes y sin consenso pleno.",
+   "fuente": "Juste Ruiz"
+  }
+ ],
+ "cuadros": [
+  {
+   "titulo": "Asilo territorial vs asilo diplomático vs refugio (confusables)",
+   "fuente": "Oyarzábal",
+   "columnas": [
+    "",
+    "Asilo territorial",
+    "Asilo diplomático",
+    "Refugio"
+   ],
+   "filas": [
+    [
+     "Dónde",
+     "En el territorio del Estado",
+     "En los locales de una misión diplomática",
+     "En el Estado de acogida"
+    ],
+    [
+     "Fuentes",
+     "DUDH art. 14; Declaración 1967; Caracas 1954 (territorial)",
+     "Montevideo 1889, La Habana 1928, Montevideo 1939, Caracas 1954",
+     "Convención 1951 y Protocolo 1967; Cartagena 1984"
+    ],
+    [
+     "Naturaleza",
+     "Derecho del Estado; acto graciable",
+     "Práctica regional latinoamericana",
+     "Estatuto convencional; non-refoulement"
+    ],
+    [
+     "Caso clave",
+     "—",
+     "Haya de la Torre (CIJ 1950); Assange (2012)",
+     "—"
+    ]
+   ]
+  },
+  {
+   "titulo": "Doble nacionalidad: reglas de protección diplomática",
+   "fuente": "Oyarzábal",
+   "columnas": [
+    "Situación",
+    "Regla",
+    "Fuente"
+   ],
+   "filas": [
+    [
+     "Reclamo entre los dos Estados de la nacionalidad",
+     "En principio no (igualdad soberana); prioridad de la efectiva si se puede elegir",
+     "La Haya 1930 art. 4; Mergé"
+    ],
+    [
+     "Reclamo contra un tercer Estado",
+     "Inoponibilidad: el tercero no puede alegar la otra nacionalidad",
+     "Salem; Flegenheimer; La Haya 1930 art. 5"
+    ],
+    [
+     "Nacionalidad sin vínculo efectivo",
+     "No oponible internacionalmente",
+     "Nottebohm (CIJ 1955)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Pacto de Refugiados vs Pacto de Migración (2018)",
+   "fuente": "Juste Ruiz",
+   "columnas": [
+    "",
+    "Pacto Mundial sobre los Refugiados",
+    "Pacto Mundial para la Migración"
+   ],
+   "filas": [
+    [
+     "Origen",
+     "Preparado por el ACNUR (Declaración de Nueva York)",
+     "Negociación intergubernamental 2016-2018"
+    ],
+    [
+     "Contenido",
+     "4 objetivos; Marco de Respuesta Integral + Programa de Acción",
+     "10 principios rectores; 23 objetivos"
+    ],
+    [
+     "Adopción",
+     "AG, 17/12/2018: 181-2-3",
+     "Marrakech (10-11/12) y AG (19/12/2018): 152-5-12"
+    ],
+    [
+     "Naturaleza",
+     "No vinculante",
+     "No vinculante; procedimiento de diálogo"
+    ]
+   ]
+  },
+  {
+   "titulo": "Nacionalidad argentina: nativa vs por naturalización",
+   "fuente": "Oyarzábal",
+   "columnas": [
+    "",
+    "Nativa / por opción",
+    "Por naturalización"
+   ],
+   "filas": [
+    [
+     "¿Se pierde?",
+     "No (surge de la Constitución)",
+     "Revocable por causales razonables (fraude, Eerenstein)"
+    ],
+    [
+     "¿Se renuncia?",
+     "No (Padilla)",
+     "No: la ley no lo prevé"
+    ],
+    [
+     "Doble nacionalidad",
+     "Acumulativa",
+     "Los convenios con España e Italia se aplican a los naturalizados"
+    ]
+   ]
+  }
+ ],
+ "esquemas": [
+  {
+   "titulo": "Ante una solicitud de refugio (Oyarzábal)",
+   "fuente": "Oyarzábal",
+   "pasos": [
+    "Detección prima facie de las condiciones",
+    "El Estado debe tramitar la solicitud",
+    "Verificación: Convención 1951, Cartagena y ley local",
+    "Si se cumplen y no hay exclusión → debe reconocer el estatuto",
+    "Si no se cumplen → el Estado conserva la facultad de asilar",
+    "Siempre: non-refoulement (art. 33)"
+   ]
+  },
+  {
+   "titulo": "El círculo vicioso migratorio (Juste Ruiz)",
+   "fuente": "Juste Ruiz",
+   "pasos": [
+    "Derecho a salir (PIDCP 12)",
+    "El Estado de destino rechaza la admisión",
+    "Sin vías regulares → migración irregular",
+    "Situaciones dramáticas (rescates, vallas, devoluciones)",
+    "Respuesta ONU: Pactos Mundiales 2018 (no vinculantes)"
+   ]
+  }
+ ],
+ "lineaDeTiempo": [
+  {
+   "fecha": "1889",
+   "texto": "Tratado de Montevideo (asilo)",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1928",
+   "texto": "Convención de La Habana",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1930",
+   "texto": "Convención de La Haya sobre nacionalidad",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1939",
+   "texto": "Tratado de Montevideo sobre asilo",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1948",
+   "texto": "DUDH",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1950",
+   "texto": "ACNUR / Haya de la Torre",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1951",
+   "texto": "Convención sobre Refugiados",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1954",
+   "texto": "Caracas / Estatuto de los Apátridas",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1955",
+   "texto": "Nottebohm",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1961",
+   "texto": "Convención para Reducir la Apatridia",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1966",
+   "texto": "PIDCP",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1967",
+   "texto": "Protocolo / Declaración sobre Asilo Territorial",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "1984",
+   "texto": "Cartagena / OC-4/84",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "2003",
+   "texto": "OC-18/03 (Corte IDH)",
+   "fuente": "Juste Ruiz"
+  },
+  {
+   "fecha": "2004",
+   "texto": "Res. 59/241",
+   "fuente": "Juste Ruiz"
+  },
+  {
+   "fecha": "2012",
+   "texto": "Asilo a Assange (Ecuador)",
+   "fuente": "Oyarzábal"
+  },
+  {
+   "fecha": "2015",
+   "texto": "Agenda 2030",
+   "fuente": "Juste Ruiz"
+  },
+  {
+   "fecha": "2016",
+   "texto": "Declaración de Nueva York",
+   "fuente": "Juste Ruiz"
+  },
+  {
+   "fecha": "2018",
+   "texto": "Pactos Mundiales",
+   "fuente": "Juste Ruiz"
+  }
+ ],
+ "items": [
+  {
+   "id": "u09-f01",
+   "unidad": 9,
+   "tema": "Nacionalidad: concepto",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo define Oyarzábal la nacionalidad?",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "Como el vínculo jurídico que une a una persona con un Estado, del que derivan derechos y deberes para ambos, determinados primariamente por la legislación interna de cada Estado.",
+   "explicacion": "Es un concepto jurídico: no indica el origen étnico de la persona (su nacionalidad 'sociológica')."
+  },
+  {
+   "id": "u09-f02",
+   "unidad": 9,
+   "tema": "Nacionalidad: concepto",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo concibió la CIJ la nacionalidad en Nottebohm (1955)?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Como un vínculo jurídico que tiene por base un hecho social de adhesión, una conexión genuina de existencia, intereses y sentimientos, junto con derechos y deberes recíprocos.",
+   "explicacion": "Es la expresión jurídica de que la persona está más estrechamente vinculada con la población del Estado que le da la nacionalidad que con la de cualquier otro (Liechtenstein c. Guatemala, 6/04/1955)."
+  },
+  {
+   "id": "u09-f03",
+   "unidad": 9,
+   "tema": "Nacionalidad: concepto",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué dijo la Corte IDH en la OC-4/84 sobre la nacionalidad?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Que se evolucionó desde una concepción en la que era un atributo que el Estado otorgaba a sus súbditos hacia una en la que, además de ser competencia del Estado, es un derecho de la persona humana.",
+   "explicacion": "Opinión consultiva sobre la propuesta de modificación a la Constitución de Costa Rica relacionada con la naturalización (11/01/1984)."
+  },
+  {
+   "id": "u09-f04",
+   "unidad": 9,
+   "tema": "Nacionalidad: concepto",
+   "tipo": "flashcard",
+   "pregunta": "¿En qué doble aspecto recoge el art. 20 de la CADH el derecho a la nacionalidad?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "a) El derecho a tener una nacionalidad, que da al individuo un mínimo de amparo jurídico en las relaciones internacionales; b) la protección contra la privación arbitraria, que lo dejaría sin sus derechos políticos y sin los civiles que dependen de la nacionalidad.",
+   "explicacion": "Según la Corte IDH (OC-4/84)."
+  },
+  {
+   "id": "u09-f05",
+   "unidad": 9,
+   "tema": "Nacionalidad y ciudadanía",
+   "tipo": "flashcard",
+   "pregunta": "¿En qué se diferencia la nacionalidad de la ciudadanía?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "La ciudadanía es la titularidad de derechos políticos (votar y ser elegido), que suele adquirirse con la mayoría de edad. Puede haber nacionalidad sin ciudadanía y cierta ciudadanía sin nacionalidad: en la Argentina, el extranjero residente puede votar en elecciones municipales en la Ciudad de Buenos Aires y en varias provincias.",
+   "explicacion": "Con la Ley 26.774, en la Argentina los derechos políticos se gozan desde los 16 años."
+  },
+  {
+   "id": "u09-f06",
+   "unidad": 9,
+   "tema": "Nacionalidad y ciudadanía",
+   "tipo": "flashcard",
+   "pregunta": "Para el derecho internacional, ¿importa la distinción entre nacionales ciudadanos y no ciudadanos?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "No: para el derecho de gentes la nacionalidad es unitaria. La única distinción jurídica que importa es entre nacionales y extranjeros.",
+   "explicacion": "Por eso muchos instrumentos usan 'nationality' y 'citizenship' indistintamente."
+  },
+  {
+   "id": "u09-f07",
+   "unidad": 9,
+   "tema": "Adquisición y pérdida de la nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿A quién corresponde determinar quiénes son nacionales de un Estado?",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "Al derecho interno de cada Estado, con sujeción a sus obligaciones internacionales; no al derecho internacional.",
+   "explicacion": "Es un principio firmemente arraigado en la práctica internacional."
+  },
+  {
+   "id": "u09-f08",
+   "unidad": 9,
+   "tema": "Adquisición y pérdida de la nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuáles son los criterios para atribuir la nacionalidad?",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "El lugar de nacimiento (jus soli), la filiación (jus sanguinis) y la voluntad del individuo sumada a la residencia durante un tiempo (naturalización).",
+   "explicacion": "Tienen tal generalidad que se los caracteriza como 'principios generales'."
+  },
+  {
+   "id": "u09-f09",
+   "unidad": 9,
+   "tema": "Adquisición y pérdida de la nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuál es el único principio general del derecho internacional sobre la pérdida de la nacionalidad?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Que el Estado no puede privar a un individuo de su nacionalidad arbitrariamente.",
+   "explicacion": "Los casos más frecuentes de pérdida en el derecho comparado son adquirir voluntariamente otra nacionalidad y los actos de traición de los naturalizados."
+  },
+  {
+   "id": "u09-f10",
+   "unidad": 9,
+   "tema": "Adquisición y pérdida de la nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Se puede perder o renunciar la nacionalidad argentina nativa?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "No. Surge directamente de la Constitución, así que ninguna ley puede fijar causales de pérdida, y la renuncia equivaldría a una causal de pérdida inconstitucional (CSJN, Padilla, Fallos 330:1436).",
+   "explicacion": "El caso Padilla se refería a la doble nacionalidad del ministro de la Corte Eugenio Zaffaroni."
+  },
+  {
+   "id": "u09-f11",
+   "unidad": 9,
+   "tema": "Adquisición y pérdida de la nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Se puede revocar o renunciar la nacionalidad argentina por naturalización?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Es revocable por causales razonablemente previstas en la ley, por ejemplo si se obtuvo por fraude (CSJN, Eerenstein); pero no es renunciable por el interesado, porque la ley no lo prevé.",
+   "explicacion": "Contraste con la nativa, que no se pierde."
+  },
+  {
+   "id": "u09-f12",
+   "unidad": 9,
+   "tema": "Adquisición y pérdida de la nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué hizo la Ley de facto 21.795 y cómo terminó?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Rigió entre 1978 y 1984 y estableció que los argentinos nativos perdían su nacionalidad al naturalizarse en el extranjero. La Ley 23.059 (1984) la derogó, restituyó la Ley 346 y dispuso que quienes la habían perdido la recuperaran ipso iure.",
+   "explicacion": "Hoy no hay ninguna norma que haga perder la nacionalidad argentina por naturalizarse afuera."
+  },
+  {
+   "id": "u09-f13",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "flashcard",
+   "pregunta": "Según Nottebohm, ¿dónde tiene la nacionalidad sus efectos más inmediatos?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Dentro del orden jurídico del Estado que la concedió: derecho a vivir en el territorio, derechos políticos, civiles, sociales y laborales, y cargas públicas como el servicio militar.",
+   "explicacion": "Para la mayoría de las personas, son sus únicos efectos."
+  },
+  {
+   "id": "u09-f14",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué efectos tiene la nacionalidad en el orden internacional?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Es la condición para que el Estado ejerza la protección diplomática, para gozar de derechos convencionales (como la libre circulación en la UE o el MERCOSUR) y para la prohibición de expulsar a los nacionales, con la consiguiente obligación de recibirlos siempre.",
+   "explicacion": "Para que surta estos efectos, la nacionalidad debe ser 'genuina'."
+  },
+  {
+   "id": "u09-f15",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué se requiere para que la nacionalidad otorgada por un derecho interno surta efectos en el plano internacional?",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "Que sea una nacionalidad 'genuina', con un vínculo efectivo (effective link) entre la persona y el Estado.",
+   "explicacion": "Lo desarrolló la CIJ en Nottebohm."
+  },
+  {
+   "id": "u09-f16",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "flashcard",
+   "pregunta": "Nottebohm: ¿qué se discutía y qué resolvió la CIJ?",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "Liechtenstein reclamaba daños porque Guatemala se había apoderado de los bienes de Nottebohm. La CIJ aplicó la doctrina del vínculo efectivo y declaró inadmisible el reclamo: Guatemala no estaba obligada a reconocer una nacionalidad otorgada en esas condiciones.",
+   "explicacion": "Nottebohm se naturalizó en Liechtenstein en 1939 para sustituir su estatus de nacional de un país beligerante por el de un Estado neutral."
+  },
+  {
+   "id": "u09-f17",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "flashcard",
+   "pregunta": "Según la CIJ en Nottebohm, ¿qué factores muestran un vínculo efectivo?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "La residencia habitual (factor importante), el centro de intereses, los lazos familiares, la participación en la vida pública y el apego mostrado e inculcado a los hijos.",
+   "explicacion": "Su importancia varía según el caso."
+  },
+  {
+   "id": "u09-f18",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué consecuencia práctica tiene Nottebohm para los tribunales?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "La afirmación de un Estado de que alguien es su nacional no es prueba concluyente: un tribunal puede investigar la nacionalidad, aunque es un poder excepcional que solo procede ante dudas serias.",
+   "explicacion": "Otro elemento: la Corte pareció aceptar, sin nombrarla, la doctrina del fraude a la ley."
+  },
+  {
+   "id": "u09-f19",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué principios sobre nacionalidad se aceptan a nivel mundial desde la Segunda Guerra Mundial?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Toda persona tiene derecho a una nacionalidad y a cambiarla, a no ser privada arbitrariamente de ella, a que no haya distinción por sexo, y la apatridia debe evitarse.",
+   "explicacion": "La competencia exclusiva de los Estados queda restringida por sus obligaciones de derechos humanos."
+  },
+  {
+   "id": "u09-f20",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuál es la causa principal de la nacionalidad múltiple?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "La discordancia entre las normas con que cada Estado determina a sus nacionales. Como no hay normas internacionales generales sobre adquisición y pérdida, la acumulación es en principio irreductible, salvo que exista un tratado.",
+   "explicacion": "También influye que la mujer casada ya no adquiere automáticamente la nacionalidad del marido, y que muchas naturalizaciones no hacen perder la de origen."
+  },
+  {
+   "id": "u09-f21",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo cambió la visión doctrinaria sobre la doble nacionalidad?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Antes de la Segunda Guerra se la veía como una anomalía ilógica, y la meta era una sola nacionalidad por persona. Hoy se tiende a admitir naturalizarse sin perder la de origen, incluso para votar (por ejemplo, Italia, Ley 91/1992, y España, art. 11.3 de su Constitución).",
+   "explicacion": "En la Argentina, parte de la doctrina todavía la llama 'absurdo jurídico'."
+  },
+  {
+   "id": "u09-f22",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Puede un Estado ejercer la protección diplomática de un binacional contra el otro Estado de su nacionalidad?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "En principio no, porque el otro Estado también lo considera su nacional (igualdad soberana; art. 4 de la Convención de La Haya de 1930). Pero si es posible elegir, debe darse prioridad a la nacionalidad efectiva (caso Mergé).",
+   "explicacion": "La CIJ aludió a esa práctica en la opinión consultiva sobre Reparación de perjuicios (1949)."
+  },
+  {
+   "id": "u09-f23",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué dice el principio de inoponibilidad frente a un tercer Estado?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Que un tercer Estado no puede rechazar el reclamo de uno de los Estados de la nacionalidad del binacional alegando que la otra nacionalidad es la dominante (casos Salem y Flegenheimer; art. 5 de la Convención de La Haya de 1930).",
+   "explicacion": "La doctrina se pregunta si no debería aplicarse igual la nacionalidad efectiva."
+  },
+  {
+   "id": "u09-f24",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Para qué sirve el Protocolo Facultativo sobre Adquisición de Nacionalidad de Viena (1961)?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Para evitar que los hijos de agentes diplomáticos sean binacionales por nacer en el Estado donde trabaja uno de sus padres, cuando la ley del agente sigue el jus sanguinis.",
+   "explicacion": "La Argentina es parte del de relaciones diplomáticas, pero no del de relaciones consulares."
+  },
+  {
+   "id": "u09-f25",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué cambiaron los Protocolos Adicionales (2001 con España, 2005 con Italia) a los convenios de doble nacionalidad?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Los binacionales quedan sometidos a la legislación del país que otorga la nueva nacionalidad para los actos con efectos directos allí, y a la de su nacionalidad de origen en lo que no sea incompatible; pueden tener pasaporte de ambos países, y los derechos políticos se rigen por la ley de cada uno.",
+   "explicacion": "Antes, los convenios buscaban que no quedaran sometidos a ambas legislaciones a la vez."
+  },
+  {
+   "id": "u09-f26",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿A quiénes NO se aplican los convenios de doble nacionalidad con España e Italia?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "A los argentinos por jus soli que también son españoles o italianos por jus sanguinis: estos gozan de todos los derechos en ambos Estados. Los convenios solo alcanzan a los argentinos de origen naturalizados españoles o italianos, y viceversa.",
+   "explicacion": "Es una distinción que suele confundirse."
+  },
+  {
+   "id": "u09-f27",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿La Constitución argentina rechaza la doble nacionalidad?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "No. Sus únicos puntos rígidos son el jus soli, el derecho de opción y, según la interpretación predominante, la imposibilidad de perder la nacionalidad nativa. Por eso la nacionalidad argentina es 'acumulativa'.",
+   "explicacion": "Pero la CSJN en 1938 (Mari Mas; Dos Santos) dijo que la Ley 346 no admitía la doble nacionalidad, y esa jurisprudencia llegó hasta 1984."
+  },
+  {
+   "id": "u09-f28",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se considera en la Argentina a un binacional que es argentino?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Exclusivamente como argentino: si la persona tiene la nacionalidad argentina, la autoridad no tiene que investigar si tiene otras (CSJN, Delis c. Artemetal).",
+   "explicacion": "Los binacionales argentinos por jus soli u opción gozan plenamente de sus derechos políticos."
+  },
+  {
+   "id": "u09-f29",
+   "unidad": 9,
+   "tema": "Apatridia",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es la apatridia y en qué se diferencia de la doble nacionalidad?",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "La doble nacionalidad surge de un conflicto 'positivo' (las leyes de más de un país consideran nacional a la persona); la apatridia, de un conflicto 'negativo' (ningún país la considera su nacional).",
+   "explicacion": "También puede resultar de la renuncia a una nacionalidad sin adquirir otra, o de un acto que la cancele."
+  },
+  {
+   "id": "u09-f30",
+   "unidad": 9,
+   "tema": "Apatridia",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué problemas enfrenta un apátrida?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "No puede votar ni ejercer cargos electivos, le cuesta obtener pasaporte, a menudo no puede trabajar legalmente ni acceder a educación o salud, sufre detenciones prolongadas y no puede registrar un matrimonio o un nacimiento.",
+   "explicacion": "Su situación puede llevarlo a la desesperación."
+  },
+  {
+   "id": "u09-f31",
+   "unidad": 9,
+   "tema": "Apatridia",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué tratados globales hay sobre apatridia y cuál ratificó la Argentina?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "La Convención sobre el Estatuto de los Apátridas (1954) y la Convención para Reducir los Casos de Apatridia (1961). La Argentina adhirió a la de 1954 el 1/06/1972 (Ley 19.510), pero no es parte de la de 1961.",
+   "explicacion": "Son los únicos tratados globales de su tipo."
+  },
+  {
+   "id": "u09-f32",
+   "unidad": 9,
+   "tema": "Apatridia",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuál es la premisa de la Convención de 1954 y qué garantiza?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Que ningún apátrida debe ser tratado peor que cualquier extranjero con nacionalidad. Garantiza documentos de identidad y de viaje (arts. 27 y 28), asistencia administrativa (art. 25) y que los Estados faciliten su naturalización (art. 32).",
+   "explicacion": "Aun sin ser parte de la de 1961, la obligación de evitar la apatridia es hoy derecho consuetudinario."
+  },
+  {
+   "id": "u09-f33",
+   "unidad": 9,
+   "tema": "Apatridia",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué normas de derechos humanos protegen contra la apatridia?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "La CDN (art. 7: derecho del niño a una nacionalidad); la CADH (art. 20.2: derecho a la nacionalidad del Estado en cuyo territorio nació si no tiene otra); la CEDAW (art. 9: ni el matrimonio con un extranjero ni el cambio de nacionalidad del marido deben dejar a la mujer apátrida).",
+   "explicacion": "La CEDAW responde a que en el siglo XX muchas mujeres perdían su nacionalidad por casarse con extranjeros."
+  },
+  {
+   "id": "u09-f34",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué dice la DUDH sobre el asilo y qué límites tiene?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Su art. 14 dice que, en caso de persecución, toda persona tiene derecho a buscar asilo y a disfrutar de él en cualquier país, pero no puede invocarse ante acciones originadas por delitos comunes o actos contrarios a los propósitos de la ONU. Nada dice de una obligación de los Estados de concederlo.",
+   "explicacion": "Ojo: Juste Ruiz cita esta norma como art. 13.1."
+  },
+  {
+   "id": "u09-f35",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "flashcard",
+   "pregunta": "¿Es consuetudinario el derecho de asilo?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "En general no, salvo probablemente en América, donde se consagró en La Habana (1928), Montevideo (1939) y la Convención sobre Asilo Territorial de Caracas (1954). La Argentina ratificó la de Caracas (Ley 24.055) y el Tratado de Derecho Penal Internacional de Montevideo (1889).",
+   "explicacion": "Fracasaron los intentos de una convención multilateral universal."
+  },
+  {
+   "id": "u09-f36",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué estructura del asilo fija la Declaración sobre Asilo Territorial de la ONU (Res. 2312, 14/12/1967)?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "a) Es un derecho del Estado, que deben respetar los demás; b) su concesión es un acto graciable, no un derecho personal; c) quedan excluidos quienes cometieron crímenes contra la paz, de guerra o contra la humanidad; d) está limitado por el principio de no devolución.",
+   "explicacion": "Aunque no es vinculante, estructura el 'derecho de asilo' actual."
+  },
+  {
+   "id": "u09-f37",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es el asilo diplomático?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "La protección que un Estado da a perseguidos por motivos políticos en los locales de su misión diplomática, que son inviolables. Tuvo auge en el siglo XVIII y la primera mitad del XIX, decayó en Europa y hoy es una práctica convencional y consuetudinaria regional latinoamericana.",
+   "explicacion": "Tratados: Montevideo 1889, La Habana 1928, Montevideo 1939 y Caracas 1954 (Argentina: Ley 20.054)."
+  },
+  {
+   "id": "u09-f38",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué dijo la CIJ en el caso Haya de la Torre (Colombia c. Perú, 1950) sobre el asilo diplomático?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Que, a diferencia del territorial, el refugiado está en el territorio del Estado donde cometió el delito, así que conceder asilo diplomático deroga la soberanía territorial; esa excepción solo se reconoce si hay un sustento legal en el caso.",
+   "explicacion": "Sin tratado o costumbre, el asilado debe ser entregado si el Estado territorial lo pide."
+  },
+  {
+   "id": "u09-f39",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "flashcard",
+   "pregunta": "¿Existe un asilo diplomático por razones humanitarias? ¿Qué caso reciente cita Oyarzábal?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Se ha sugerido un derecho excepcional por razones humanitarias imperiosas y urgentes, como un riesgo para la vida. El caso más reciente: Ecuador concedió asilo a Julian Assange en su embajada en Londres el 16/08/2012.",
+   "explicacion": "Como sacar por la fuerza a alguien de una embajada es ilegal, el asilado puede quedarse años en ella."
+  },
+  {
+   "id": "u09-f40",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "flashcard",
+   "pregunta": "Según la Convención de Caracas de 1954, ¿quién califica el delito y cuándo procede el asilo diplomático?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "El Estado asilante califica la naturaleza del delito o de los motivos de la persecución (art. 4). Procede en casos de urgencia y por el tiempo indispensable para que el asilado salga del país con seguridad (art. 5), y se da a perseguidos por delitos políticos sin distinción de nacionalidad (art. 3).",
+   "explicacion": "Es un derecho del Estado: no tiene obligación de concederlo ni de justificar la denegación."
+  },
+  {
+   "id": "u09-f41",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "flashcard",
+   "pregunta": "Asilo diplomático: ¿qué obligaciones tienen el Estado asilante y el territorial?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "El asilante debe comunicarlo de inmediato al Estado territorial; este debe permitir la salida y dar el salvoconducto cuando se lo pidan (arts. 11-13). El asilante elige el destino; el asilado no puede desembarcar en el Estado territorial ni cerca (art. 16); los terceros Estados deben facilitar el traslado (art. 15).",
+   "explicacion": "Si se anuncia un pedido de extradición, el asilado debe quedar en el Estado asilante hasta 30 días (art. 17)."
+  },
+  {
+   "id": "u09-f42",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "flashcard",
+   "pregunta": "¿En qué se diferencian refugiados, apátridas y desplazados?",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Apátrida: ningún Estado lo considera su nacional. Refugiado: extranjero protegido en otro Estado por ser víctima de persecución en su país. Desplazado: huye pero sin cruzar la frontera, dentro de su propio país.",
+   "explicacion": "La situación de los desplazados es en principio interna, sin perjuicio del DIH y del DIDH."
+  },
+  {
+   "id": "u09-f43",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué instrumentos universales regulan el estatuto de refugiado y es parte la Argentina?",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "La Convención sobre el Estatuto de los Refugiados (1951) y su Protocolo (1967). La Argentina es parte de ambos (Leyes 23.160 y 17.468).",
+   "explicacion": "El Protocolo de 1967 extendió el alcance territorial y personal de la Convención (Juste Ruiz)."
+  },
+  {
+   "id": "u09-f44",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué establece el principio de non-refoulement (art. 33.1 de la Convención de 1951)?",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "Que ningún Estado puede expulsar o devolver a un refugiado a las fronteras de territorios donde su vida o su libertad peligren por su raza, religión, nacionalidad, pertenencia a un grupo social u opiniones políticas.",
+   "explicacion": "Excepción (art. 33.2): el refugiado peligroso para la seguridad del país o condenado por un delito particularmente grave."
+  },
+  {
+   "id": "u09-f45",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "flashcard",
+   "pregunta": "Convención de 1951: ¿en qué derechos da trato nacional y en cuáles el de la nación más favorecida?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Trato nacional: libertad religiosa (art. 4), acceso a la justicia (16), educación elemental (22.1), asistencia pública (23), legislación del trabajo y seguros sociales (24) y gravámenes (29). Trato de la nación más favorecida: asociación (15) y actividades lucrativas (17-19).",
+   "explicacion": "Sus disposiciones son un mínimo que el Estado puede mejorar (art. 5)."
+  },
+  {
+   "id": "u09-f46",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es la Declaración de Cartagena (1984) y qué amplió?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Un instrumento regional (no es tratado) adoptado en un coloquio sobre refugiados en Centroamérica, México y Panamá. Amplió la definición de refugiado a quienes huyen porque su vida, seguridad o libertad están amenazadas por la violencia generalizada, la agresión extranjera, los conflictos internos, la violación masiva de derechos humanos u otras circunstancias que perturben gravemente el orden público.",
+   "explicacion": "Para Oyarzábal hoy es fuente de una costumbre internacional regional."
+  },
+  {
+   "id": "u09-f47",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es el ACNUR?",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "El Alto Comisionado de las Naciones Unidas para los Refugiados, creado por la Asamblea General el 14/12/1950. Supervisa la aplicación de la Convención y el Protocolo (art. 35) y debe dirigir y coordinar la acción internacional para proteger a los refugiados.",
+   "explicacion": "Soluciones: repatriación voluntaria, integración local y reasentamiento en un tercer país."
+  },
+  {
+   "id": "u09-f48",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "flashcard",
+   "pregunta": "Ante una solicitud de refugio, ¿qué obligación tiene el Estado según Oyarzábal?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Ante la detección prima facie de las condiciones, debe tramitar la solicitud; si se verifican los requisitos (Ginebra, Cartagena, ley local) y no hay causales de exclusión, debe reconocer el estatuto. Las convenciones de asilo nunca pueden servir para restringir el derecho humano al refugio.",
+   "explicacion": "El Estado conserva la facultad de asilar cuando no se cumplen los requisitos del refugio."
+  },
+  {
+   "id": "u09-f49",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué prevé la Ley de Migraciones 25.871 para refugiados y asilados?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Residencia temporaria por 2 años, prorrogable (art. 23, inc. k); quienes son reconocidos como refugiados o asilados pueden obtener el DNI (art. 31).",
+   "explicacion": "La Ley 26.165 creó la Comisión Nacional para los Refugiados (CONARE)."
+  },
+  {
+   "id": "u09-f50",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuántos migrantes y refugiados hay según Juste Ruiz?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Más de 250 millones de migrantes (el 3 % de la población mundial), de los cuales 24,5 millones son refugiados, según el texto (2019).",
+   "explicacion": "Cifra con fecha: citala como 'según el texto (2019)'."
+  },
+  {
+   "id": "u09-f51",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué tipos de migrantes distingue Juste Ruiz?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Por su motivación: forzados (huyen de la persecución o de conflictos armados), económicos (huyen de la pobreza) y ecológicos (huyen de desastres naturales, degradación ambiental, desertificación y cambio climático). También regulares e irregulares.",
+   "explicacion": "Los económicos y los ecológicos no están protegidos por el non-refoulement."
+  },
+  {
+   "id": "u09-f52",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuál es la paradoja de la globalización en materia migratoria?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Se eliminaron las barreras a la circulación de mercancías, servicios, capitales e información, pero no las que impiden la libre circulación de las personas.",
+   "explicacion": "El derecho humano 'a ir y venir' no tiene reconocimiento efectivo."
+  },
+  {
+   "id": "u09-f53",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Entre qué dos postulados antagónicos se sitúa el régimen internacional de las migraciones?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "El derecho de las personas a moverse libremente a través de las fronteras y el derecho de los Estados a rechazar la entrada de migrantes.",
+   "explicacion": "La tensión se manifiesta en todas las fases del proceso migratorio."
+  },
+  {
+   "id": "u09-f54",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Dónde se reconoce el derecho a salir de cualquier país?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "En la DUDH (art. 13.2) y en el PIDCP (art. 12): libre circulación interna, derecho a salir de cualquier país, incluso del propio, restricciones solo legales y necesarias, y prohibición de privar arbitrariamente del derecho a entrar al propio país.",
+   "explicacion": "Según el Comité de Derechos Humanos (Observación General 27), incluye la emigración permanente y elegir el Estado de destino."
+  },
+  {
+   "id": "u09-f55",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Por qué el derecho a salir incluye el pasaporte?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Porque, según el Comité de Derechos Humanos, el derecho a salir del Estado debe incluir el de obtener los documentos de viaje necesarios: emitir el pasaporte es una obligación del Estado.",
+   "explicacion": "El derecho a salir no es absoluto, pero solo admite condiciones razonables."
+  },
+  {
+   "id": "u09-f56",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Por qué se dice que hay derecho a emigrar pero no a inmigrar?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Porque el Estado de destino tiene el derecho soberano de decidir la admisión: el migrante solo entra con el consentimiento del soberano territorial. Scovazzi lo lleva al absurdo: si nadie lo admite, ¿dónde vivirá? ¿En alta mar, en la Antártida, en la Luna?",
+   "explicacion": "Cançado Trindade (OC-18/03, 2003) criticó que los Estados no reconozcan el derecho correlativo a inmigrar."
+  },
+  {
+   "id": "u09-f57",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué normas rigen el rescate de migrantes en el mar?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "La obligación de los capitanes de prestar auxilio (CONVEMAR 1982, art. 98; Convenios SOLAS de 1974 y SAR de 1979) y las Directrices de la OMI (Res. MSC.167(78), 2004) sobre su conducción a un lugar seguro. Pero son soft law, y el desembarco sigue sin resolverse.",
+   "explicacion": "A menudo los Estados costeros rechazan admitir a los rescatados."
+  },
+  {
+   "id": "u09-f58",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿A quiénes protege el non-refoulement según Juste Ruiz?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "A los refugiados de la Convención de 1951 y también a quienes sufren persecución por otros motivos o huyen de conflictos armados. No protege a los migrantes económicos ni a los ecológicos, que pueden ser rechazados y devueltos.",
+   "explicacion": "Hoy el non-refoulement de los perseguidos forma parte del derecho internacional general o consuetudinario."
+  },
+  {
+   "id": "u09-f59",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué son los 'refugiados en órbita'?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Refugiados enviados de un país a otro hasta que alguno los admita. Pasa porque la Convención y el Protocolo no regulan el procedimiento para determinar la condición de refugiado, que cada Estado regula discrecionalmente.",
+   "explicacion": "La Convención tampoco garantiza obtener el estatuto: solo obliga a no devolver."
+  },
+  {
+   "id": "u09-f60",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué límites del DIDH debe respetar el Estado al decidir sobre la admisión de migrantes?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Además del non-refoulement: no discriminación, prohibición de la detención arbitraria, acceso a las autoridades consulares, prohibición de las devoluciones en caliente y de las expulsiones colectivas, y reagrupamiento familiar de los niños.",
+   "explicacion": "Problema: estas garantías rigen recién cuando el migrante está en el territorio, de ahí las vallas y los muros."
+  },
+  {
+   "id": "u09-f61",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué errores de planteamiento tiene el régimen migratorio según Juste Ruiz?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Dar soluciones nacionales a un problema internacional (confundir migración con extranjería); el unilateralismo del 'sálvese quien pueda', aunque todos los Estados son a la vez de salida, tránsito y recepción; plantearlo como una colisión de derechos que siempre gana el Estado; y regular solo aspectos aislados de un fenómeno poliédrico.",
+   "explicacion": "La relación no es triangular (persona, Estado de origen, Estado de destino) sino poliédrica."
+  },
+  {
+   "id": "u09-f62",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué instituciones internacionales se ocupan de las migraciones?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Además de las que atienden a los refugiados, como el ACNUR, solo la OIM, 'cuyas competencias son muy limitadas y su capacidad decisoria y de imposición sobre los Estados inexistente'.",
+   "explicacion": "No hay un corpus acabado de reglas sobre la cooperación migratoria."
+  },
+  {
+   "id": "u09-f63",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuáles fueron los primeros pasos de la ONU hacia una nueva gobernanza migratoria?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "La Res. AG 59/241 'Migración internacional y desarrollo' (22/12/2004), que destaca los beneficios de las migraciones, y la Agenda 2030 (25/09/2015, párr. 29), que reconoce la contribución positiva de los migrantes al desarrollo sostenible.",
+   "explicacion": "Hubo también procesos de diálogo: Iniciativa de Berna (2001), Diálogo de la OIM (2001), Iniciativa Nansen (2015)."
+  },
+  {
+   "id": "u09-f64",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es la Declaración de Nueva York para los Refugiados y los Migrantes?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "Adoptada el 19/09/2016 (A/RES/71/1) en una reunión de alto nivel de la AG: fija compromisos para refugiados y migrantes y un criterio de responsabilidad compartida. Su Anexo I es el Marco de Respuesta Integral para los Refugiados y su Anexo II inicia la negociación del pacto sobre migración.",
+   "explicacion": "Párr. 68: repartir más equitativamente la carga de acoger a los refugiados."
+  },
+  {
+   "id": "u09-f65",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "flashcard",
+   "pregunta": "Pacto Mundial sobre los Refugiados: ¿quién lo preparó, qué naturaleza tiene y cuáles son sus objetivos?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "Lo preparó el ACNUR y dice no ser jurídicamente vinculante. Objetivos: i) aliviar las presiones sobre los países de acogida; ii) promover la autosuficiencia de los refugiados; iii) ampliar las soluciones en terceros países; iv) favorecer el retorno seguro y digno.",
+   "explicacion": "Contiene el Marco de Respuesta Integral y un Programa de Acción."
+  },
+  {
+   "id": "u09-f66",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se aprobó el Pacto Mundial sobre los Refugiados?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Por la Asamblea General el 17/12/2018: 181 votos a favor, 2 en contra (Estados Unidos y Hungría) y 3 abstenciones (República Dominicana, Eritrea y Libia).",
+   "explicacion": "Contraste con el de Migración, mucho más discutido."
+  },
+  {
+   "id": "u09-f67",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "flashcard",
+   "pregunta": "Pacto Mundial para la Migración: ¿qué naturaleza tiene y cuántos objetivos contiene?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "Dice ser 'no vinculante jurídicamente', respetuoso de la soberanía: es más un procedimiento de diálogo que un instrumento normativo. Tiene 23 objetivos y mecanismos de aplicación y seguimiento (Foro de Examen de la Migración Internacional cada 4 años desde 2022).",
+   "explicacion": "Sus 10 principios rectores están en el párr. 15."
+  },
+  {
+   "id": "u09-f68",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuáles son los principios rectores del Pacto Mundial para la Migración (párr. 15)?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Centrarse en las personas; cooperación internacional; soberanía del Estado para su política migratoria; Estado de derecho y garantías procesales; contribución al desarrollo sostenible; derechos humanos, no regresión y no discriminación; perspectiva de género; perspectiva infantil; enfoque intergubernamental; enfoque pansocial.",
+   "explicacion": "Ojo: reafirma la soberanía estatal."
+  },
+  {
+   "id": "u09-f69",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se adoptó el Pacto Mundial para la Migración?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "En la Conferencia de Marrakech (10-11/12/2018), con 162 de los 194 miembros, y la AG lo 'hizo suyo' el 19/12/2018: 152 a favor, 5 en contra (Estados Unidos, Hungría, Israel, Polonia y República Checa) y 12 abstenciones (entre ellas Australia, Italia, Chile, Rumania y Suiza).",
+   "explicacion": "Estados Unidos abandonó la negociación en el otoño de 2017."
+  },
+  {
+   "id": "u09-f70",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué argumentaron los Estados a favor y en contra del Pacto de Migración?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "A favor: es el primer acuerdo global sobre cooperación migratoria, ningún Estado puede resolver el problema solo y no es obligatorio. En contra: afecta la soberanía, no distingue bien entre regulares e irregulares, puede tener un 'efecto llamada' y aumentar la inseguridad, y no podrá generar costumbre.",
+   "explicacion": "Es la 'falta de consenso' que subraya Juste Ruiz."
+  },
+  {
+   "id": "u09-f71",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuál es la conclusión de Juste Ruiz?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "El régimen vigente es manifiestamente insuficiente y su colisión de derechos genera un círculo vicioso: más migración irregular y más situaciones dramáticas. Los muros y el rechazo de desembarcos no frenarán un fenómeno sistémico; los dos Pactos son piedras angulares de un sistema más eficaz y justo por construir.",
+   "explicacion": "Espera que la solidaridad se imponga a los reflejos nacionalistas."
+  },
+  {
+   "id": "u09-m01",
+   "unidad": 9,
+   "tema": "Nacionalidad: concepto",
+   "tipo": "mcq",
+   "pregunta": "Para Oyarzábal, la nacionalidad 'jurídica':",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "No indica el origen étnico de la persona",
+    "Coincide con la nacionalidad sociológica",
+    "Depende primariamente del derecho internacional",
+    "Equivale a la titularidad de derechos políticos"
+   ],
+   "correcta": "No indica el origen étnico de la persona",
+   "respuesta": "No indica el origen étnico de la persona",
+   "explicacion": "Es el vínculo jurídico con un Estado, regulado primariamente por el derecho interno; los derechos políticos son la ciudadanía."
+  },
+  {
+   "id": "u09-m02",
+   "unidad": 9,
+   "tema": "Nacionalidad: concepto",
+   "tipo": "mcq",
+   "pregunta": "En la OC-4/84, la Corte IDH sostuvo que la nacionalidad:",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Además de ser competencia del Estado, es un derecho de la persona humana",
+    "Es solo un atributo que el Estado otorga a sus súbditos",
+    "No admite límites internacionales",
+    "Depende exclusivamente de la residencia"
+   ],
+   "correcta": "Además de ser competencia del Estado, es un derecho de la persona humana",
+   "respuesta": "Además de ser competencia del Estado, es un derecho de la persona humana",
+   "explicacion": "Describe la evolución desde la concepción clásica hacia la de derecho humano."
+  },
+  {
+   "id": "u09-m03",
+   "unidad": 9,
+   "tema": "Nacionalidad y ciudadanía",
+   "tipo": "mcq",
+   "pregunta": "La ciudadanía, a diferencia de la nacionalidad, se refiere a:",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "La titularidad de derechos políticos",
+    "El vínculo jurídico con el Estado",
+    "El origen étnico",
+    "El derecho a la protección diplomática"
+   ],
+   "correcta": "La titularidad de derechos políticos",
+   "respuesta": "La titularidad de derechos políticos",
+   "explicacion": "En el plano internacional, solo importa la distinción entre nacionales y extranjeros."
+  },
+  {
+   "id": "u09-m04",
+   "unidad": 9,
+   "tema": "Adquisición y pérdida de la nacionalidad",
+   "tipo": "mcq",
+   "pregunta": "¿Quién determina quiénes son nacionales de un Estado?",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "opciones": [
+    "El derecho interno de cada Estado, con sujeción a sus obligaciones internacionales",
+    "El derecho internacional, mediante un tratado universal",
+    "La CIJ, en caso de duda",
+    "El Estado de residencia"
+   ],
+   "correcta": "El derecho interno de cada Estado, con sujeción a sus obligaciones internacionales",
+   "respuesta": "El derecho interno de cada Estado, con sujeción a sus obligaciones internacionales",
+   "explicacion": "Principio firmemente arraigado en la práctica internacional."
+  },
+  {
+   "id": "u09-m05",
+   "unidad": 9,
+   "tema": "Adquisición y pérdida de la nacionalidad",
+   "tipo": "mcq",
+   "pregunta": "El único principio general de derecho internacional sobre la pérdida de la nacionalidad es:",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Que el Estado no puede privar a un individuo de ella arbitrariamente",
+    "Que nadie puede renunciar a su nacionalidad",
+    "Que la naturalización en el extranjero hace perder la de origen",
+    "Que la traición implica pérdida automática"
+   ],
+   "correcta": "Que el Estado no puede privar a un individuo de ella arbitrariamente",
+   "respuesta": "Que el Estado no puede privar a un individuo de ella arbitrariamente",
+   "explicacion": "Las causales concretas dependen del derecho interno."
+  },
+  {
+   "id": "u09-m06",
+   "unidad": 9,
+   "tema": "Adquisición y pérdida de la nacionalidad",
+   "tipo": "mcq",
+   "pregunta": "La nacionalidad argentina nativa:",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "No puede perderse ni renunciarse",
+    "Se pierde al naturalizarse en el extranjero",
+    "Puede renunciarse ante la Cámara Electoral",
+    "Se pierde por fraude"
+   ],
+   "correcta": "No puede perderse ni renunciarse",
+   "respuesta": "No puede perderse ni renunciarse",
+   "explicacion": "Surge directamente de la Constitución (Padilla). La revocable por fraude es la obtenida por naturalización."
+  },
+  {
+   "id": "u09-m07",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "mcq",
+   "pregunta": "En Nottebohm, la CIJ declaró inadmisible el reclamo de Liechtenstein porque:",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "opciones": [
+    "No existía un vínculo efectivo entre Nottebohm y Liechtenstein",
+    "Nottebohm era apátrida",
+    "Guatemala no era parte del Estatuto de la CIJ",
+    "No se habían agotado los recursos internos"
+   ],
+   "correcta": "No existía un vínculo efectivo entre Nottebohm y Liechtenstein",
+   "respuesta": "No existía un vínculo efectivo entre Nottebohm y Liechtenstein",
+   "explicacion": "Guatemala no estaba obligada a reconocer una nacionalidad otorgada en esas condiciones."
+  },
+  {
+   "id": "u09-m08",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "mcq",
+   "pregunta": "¿Cuál de estos NO es un efecto internacional de la nacionalidad?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "El derecho a votar en las elecciones municipales de otro país",
+    "La protección diplomática",
+    "La prohibición de expulsar a los propios nacionales",
+    "El derecho a la libre circulación en un espacio integrado como el MERCOSUR"
+   ],
+   "correcta": "El derecho a votar en las elecciones municipales de otro país",
+   "respuesta": "El derecho a votar en las elecciones municipales de otro país",
+   "explicacion": "Los derechos políticos son efectos internos (y en algunos casos se reconocen a extranjeros residentes)."
+  },
+  {
+   "id": "u09-m09",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "mcq",
+   "pregunta": "Según Nottebohm, ¿qué factor es especialmente importante para el vínculo efectivo?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "La residencia habitual",
+    "El idioma oficial del Estado",
+    "El lugar de casamiento",
+    "La cantidad de bienes en el país"
+   ],
+   "correcta": "La residencia habitual",
+   "respuesta": "La residencia habitual",
+   "explicacion": "Junto al centro de intereses, los lazos familiares y la participación en la vida pública."
+  },
+  {
+   "id": "u09-m10",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "mcq",
+   "pregunta": "La causa principal de la nacionalidad múltiple es:",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "La discordancia entre las normas de los distintos Estados sobre a quién consideran nacional",
+    "La Convención de La Haya de 1930",
+    "La prohibición internacional de la apatridia",
+    "El matrimonio"
+   ],
+   "correcta": "La discordancia entre las normas de los distintos Estados sobre a quién consideran nacional",
+   "respuesta": "La discordancia entre las normas de los distintos Estados sobre a quién consideran nacional",
+   "explicacion": "Por eso la acumulación es en principio irreductible, salvo tratado."
+  },
+  {
+   "id": "u09-m11",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "mcq",
+   "pregunta": "Un binacional italo-argentino reclama contra Italia. ¿Puede la Argentina ejercer la protección diplomática?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "En principio no, salvo que pueda darse prioridad a la nacionalidad efectiva",
+    "Sí, siempre",
+    "Sí, si lo autoriza un tercer Estado",
+    "No, porque los binacionales no tienen protección diplomática en ningún caso"
+   ],
+   "correcta": "En principio no, salvo que pueda darse prioridad a la nacionalidad efectiva",
+   "respuesta": "En principio no, salvo que pueda darse prioridad a la nacionalidad efectiva",
+   "explicacion": "Igualdad soberana (La Haya 1930, art. 4) y prioridad de la nacionalidad efectiva cuando es posible elegir (Mergé)."
+  },
+  {
+   "id": "u09-m12",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "mcq",
+   "pregunta": "Ante un tercer Estado, el principio de inoponibilidad significa que:",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "El tercer Estado no puede rechazar el reclamo alegando que la otra nacionalidad es la dominante",
+    "Ninguno de los dos Estados puede reclamar",
+    "Solo puede reclamar el Estado de la nacionalidad más antigua",
+    "El tercer Estado elige qué nacionalidad reconocer"
+   ],
+   "correcta": "El tercer Estado no puede rechazar el reclamo alegando que la otra nacionalidad es la dominante",
+   "respuesta": "El tercer Estado no puede rechazar el reclamo alegando que la otra nacionalidad es la dominante",
+   "explicacion": "Casos Salem y Flegenheimer; art. 5 de la Convención de La Haya de 1930."
+  },
+  {
+   "id": "u09-m13",
+   "unidad": 9,
+   "tema": "Apatridia",
+   "tipo": "mcq",
+   "pregunta": "La apatridia resulta de:",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Un conflicto negativo de leyes",
+    "Un conflicto positivo de leyes",
+    "La aplicación simultánea del jus soli y del jus sanguinis",
+    "La naturalización en el extranjero"
+   ],
+   "correcta": "Un conflicto negativo de leyes",
+   "respuesta": "Un conflicto negativo de leyes",
+   "explicacion": "El conflicto positivo genera doble nacionalidad."
+  },
+  {
+   "id": "u09-m14",
+   "unidad": 9,
+   "tema": "Apatridia",
+   "tipo": "mcq",
+   "pregunta": "Respecto de los tratados sobre apatridia, la Argentina:",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Es parte de la Convención de 1954, pero no de la de 1961",
+    "Es parte de ambas",
+    "Es parte solo de la de 1961",
+    "No es parte de ninguna"
+   ],
+   "correcta": "Es parte de la Convención de 1954, pero no de la de 1961",
+   "respuesta": "Es parte de la Convención de 1954, pero no de la de 1961",
+   "explicacion": "Adhirió a la de 1954 el 1/06/1972 (Ley 19.510)."
+  },
+  {
+   "id": "u09-m15",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "mcq",
+   "pregunta": "Según la Declaración sobre Asilo Territorial de 1967, el asilo es:",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Un derecho del Estado, cuya concesión es un acto graciable",
+    "Un derecho humano exigible frente a cualquier Estado",
+    "Una obligación consuetudinaria universal",
+    "Un derecho que solo puede concederse en embajadas"
+   ],
+   "correcta": "Un derecho del Estado, cuya concesión es un acto graciable",
+   "respuesta": "Un derecho del Estado, cuya concesión es un acto graciable",
+   "explicacion": "Para el individuo no aparece como un derecho personal, aunque se tiende a encuadrarlo como derecho humano."
+  },
+  {
+   "id": "u09-m16",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "mcq",
+   "pregunta": "El asilo diplomático es hoy:",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Una práctica convencional y consuetudinaria regional latinoamericana",
+    "Una institución del derecho internacional general",
+    "Una práctica exclusivamente europea",
+    "Una obligación de la Convención de 1951"
+   ],
+   "correcta": "Una práctica convencional y consuetudinaria regional latinoamericana",
+   "respuesta": "Una práctica convencional y consuetudinaria regional latinoamericana",
+   "explicacion": "Haya de la Torre (CIJ, 1950) exige un sustento legal en el caso."
+  },
+  {
+   "id": "u09-m17",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "mcq",
+   "pregunta": "En el asilo diplomático, según la Convención de Caracas, la naturaleza del delito la califica:",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "El Estado asilante",
+    "El Estado territorial",
+    "La CIJ",
+    "El ACNUR"
+   ],
+   "correcta": "El Estado asilante",
+   "respuesta": "El Estado asilante",
+   "explicacion": "Art. 4 de la Convención de Caracas de 1954."
+  },
+  {
+   "id": "u09-m18",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "mcq",
+   "pregunta": "En Haya de la Torre (1950), la CIJ sostuvo que el asilo diplomático:",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "opciones": [
+    "Deroga la soberanía territorial y requiere un sustento legal en el caso",
+    "Es una costumbre universal",
+    "Es un derecho humano del perseguido",
+    "Obliga siempre al Estado territorial a dar salvoconducto"
+   ],
+   "correcta": "Deroga la soberanía territorial y requiere un sustento legal en el caso",
+   "respuesta": "Deroga la soberanía territorial y requiere un sustento legal en el caso",
+   "explicacion": "Sin tratado o costumbre, el asilado debe ser entregado si el Estado territorial lo pide."
+  },
+  {
+   "id": "u09-m19",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "mcq",
+   "pregunta": "Una persona huye de la violencia pero permanece dentro de su país. Es:",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Un desplazado interno",
+    "Un refugiado de la Convención de 1951",
+    "Un apátrida",
+    "Un asilado diplomático"
+   ],
+   "correcta": "Un desplazado interno",
+   "respuesta": "Un desplazado interno",
+   "explicacion": "Los desplazados no cruzaron la frontera; su situación es en principio interna."
+  },
+  {
+   "id": "u09-m20",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "mcq",
+   "pregunta": "La Declaración de Cartagena (1984):",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Amplió la definición de refugiado a quienes huyen de la violencia generalizada, los conflictos internos o la violación masiva de derechos humanos",
+    "Es un tratado vinculante de la OEA",
+    "Creó el ACNUR",
+    "Reemplazó a la Convención de 1951 en América"
+   ],
+   "correcta": "Amplió la definición de refugiado a quienes huyen de la violencia generalizada, los conflictos internos o la violación masiva de derechos humanos",
+   "respuesta": "Amplió la definición de refugiado a quienes huyen de la violencia generalizada, los conflictos internos o la violación masiva de derechos humanos",
+   "explicacion": "No es tratado; Oyarzábal la ve como fuente de costumbre regional."
+  },
+  {
+   "id": "u09-m21",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "mcq",
+   "pregunta": "El órgano encargado de supervisar la Convención de 1951 es:",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "El ACNUR",
+    "La OIM",
+    "El Comité de Derechos Humanos",
+    "La CONARE"
+   ],
+   "correcta": "El ACNUR",
+   "respuesta": "El ACNUR",
+   "explicacion": "Art. 35. La CONARE es el órgano nacional argentino (Ley 26.165)."
+  },
+  {
+   "id": "u09-m22",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "mcq",
+   "pregunta": "Según Juste Ruiz, el non-refoulement NO protege a:",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Los migrantes económicos y ecológicos",
+    "Los refugiados de la Convención de 1951",
+    "Quienes huyen de conflictos armados",
+    "Quienes sufren persecución por otros motivos"
+   ],
+   "correcta": "Los migrantes económicos y ecológicos",
+   "respuesta": "Los migrantes económicos y ecológicos",
+   "explicacion": "Los económicos y ecológicos pueden ser declarados no admisibles y devueltos."
+  },
+  {
+   "id": "u09-m23",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "mcq",
+   "pregunta": "El derecho a salir de cualquier país, incluso del propio, está en:",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "El art. 12 del PIDCP",
+    "El art. 33 de la Convención de 1951",
+    "La Res. 59/241",
+    "El art. 20 de la CADH"
+   ],
+   "correcta": "El art. 12 del PIDCP",
+   "respuesta": "El art. 12 del PIDCP",
+   "explicacion": "También en la DUDH (art. 13.2)."
+  },
+  {
+   "id": "u09-m24",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "mcq",
+   "pregunta": "Para Juste Ruiz, el problema metodológico del régimen migratorio es:",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Dar soluciones nacionales a un problema esencialmente internacional",
+    "La falta de ratificación de la Convención de 1951",
+    "La existencia de la OIM",
+    "El exceso de normas vinculantes"
+   ],
+   "correcta": "Dar soluciones nacionales a un problema esencialmente internacional",
+   "respuesta": "Dar soluciones nacionales a un problema esencialmente internacional",
+   "explicacion": "Confunde migración con extranjería y favorece el unilateralismo."
+  },
+  {
+   "id": "u09-m25",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "mcq",
+   "pregunta": "El Pacto Mundial sobre los Refugiados fue preparado por:",
+   "fuente": "Juste Ruiz",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "El ACNUR",
+    "La OIM",
+    "El Secretario General en Marrakech",
+    "El Comité de Derechos Humanos"
+   ],
+   "correcta": "El ACNUR",
+   "respuesta": "El ACNUR",
+   "explicacion": "Por mandato de la Declaración de Nueva York de 2016."
+  },
+  {
+   "id": "u09-m26",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "mcq",
+   "pregunta": "¿Cuántos objetivos tiene el Pacto Mundial para la Migración Segura, Ordenada y Regular?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "23",
+    "10",
+    "17",
+    "4"
+   ],
+   "correcta": "23",
+   "respuesta": "23",
+   "explicacion": "Los 10 son sus principios rectores (párr. 15) y los 4, los objetivos del Pacto sobre los Refugiados."
+  },
+  {
+   "id": "u09-m27",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "mcq",
+   "pregunta": "¿Qué país votó en contra de AMBOS Pactos Mundiales en la Asamblea General?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 3,
+   "etiquetas": [],
+   "opciones": [
+    "Estados Unidos",
+    "Chile",
+    "Australia",
+    "Libia"
+   ],
+   "correcta": "Estados Unidos",
+   "respuesta": "Estados Unidos",
+   "explicacion": "Estados Unidos y Hungría votaron contra los dos; Chile y Australia se abstuvieron en el de Migración."
+  },
+  {
+   "id": "u09-m28",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "mcq",
+   "pregunta": "El Pacto Mundial para la Migración fue adoptado en una conferencia celebrada en:",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Marrakech, en diciembre de 2018",
+    "Nueva York, en septiembre de 2016",
+    "Ginebra, en 1951",
+    "Cartagena, en 1984"
+   ],
+   "correcta": "Marrakech, en diciembre de 2018",
+   "respuesta": "Marrakech, en diciembre de 2018",
+   "explicacion": "La AG lo hizo suyo el 19/12/2018."
+  },
+  {
+   "id": "u09-v01",
+   "unidad": 9,
+   "tema": "Nacionalidad: concepto",
+   "tipo": "vf",
+   "pregunta": "Para el derecho internacional, la distinción entre nacionales ciudadanos y no ciudadanos es relevante.",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Para el derecho de gentes la nacionalidad es unitaria: solo importa la distinción entre nacionales y extranjeros.",
+    "Es verdadero: los no ciudadanos no tienen protección diplomática.",
+    "Es verdadero porque lo dispone la CADH."
+   ],
+   "justificacionCorrecta": "Para el derecho de gentes la nacionalidad es unitaria: solo importa la distinción entre nacionales y extranjeros.",
+   "respuesta": "Falso. Para el derecho de gentes la nacionalidad es unitaria: solo importa la distinción entre nacionales y extranjeros.",
+   "explicacion": "Por eso muchos textos usan 'nacionalidad' y 'ciudadanía' como sinónimos."
+  },
+  {
+   "id": "u09-v02",
+   "unidad": 9,
+   "tema": "Adquisición y pérdida de la nacionalidad",
+   "tipo": "vf",
+   "pregunta": "El derecho internacional fija las reglas generales para adquirir la nacionalidad.",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Corresponde al derecho interno de cada Estado, con sujeción a sus obligaciones internacionales.",
+    "Es verdadero: lo hace la Convención de La Haya de 1930.",
+    "Es verdadero: lo hizo la CIJ en Nottebohm."
+   ],
+   "justificacionCorrecta": "Corresponde al derecho interno de cada Estado, con sujeción a sus obligaciones internacionales.",
+   "respuesta": "Falso. Corresponde al derecho interno de cada Estado, con sujeción a sus obligaciones internacionales.",
+   "explicacion": "Por eso es irreductible la doble nacionalidad, salvo tratado."
+  },
+  {
+   "id": "u09-v03",
+   "unidad": 9,
+   "tema": "Adquisición y pérdida de la nacionalidad",
+   "tipo": "vf",
+   "pregunta": "La nacionalidad argentina obtenida por naturalización puede ser revocada si se obtuvo por fraude.",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Verdadero",
+   "justificaciones": [
+    "Es revocable por causales razonablemente previstas en la ley, como el fraude (CSJN, Eerenstein).",
+    "Es falso: ninguna nacionalidad argentina puede revocarse.",
+    "Es verdadero porque el naturalizado puede renunciarla libremente."
+   ],
+   "justificacionCorrecta": "Es revocable por causales razonablemente previstas en la ley, como el fraude (CSJN, Eerenstein).",
+   "respuesta": "Verdadero. Es revocable por causales razonablemente previstas en la ley, como el fraude (CSJN, Eerenstein).",
+   "explicacion": "Pero no es renunciable por el interesado."
+  },
+  {
+   "id": "u09-v04",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "vf",
+   "pregunta": "En Nottebohm, la CIJ resolvió que Liechtenstein podía ejercer la protección diplomática porque la naturalización era válida según su derecho interno.",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Declaró inadmisible el reclamo por falta de vínculo efectivo: la validez interna no basta para oponer la nacionalidad a Guatemala.",
+    "Es verdadero: el derecho interno es definitivo.",
+    "Es falso porque Nottebohm era apátrida."
+   ],
+   "justificacionCorrecta": "Declaró inadmisible el reclamo por falta de vínculo efectivo: la validez interna no basta para oponer la nacionalidad a Guatemala.",
+   "respuesta": "Falso. Declaró inadmisible el reclamo por falta de vínculo efectivo: la validez interna no basta para oponer la nacionalidad a Guatemala.",
+   "explicacion": "La afirmación de un Estado no es prueba concluyente."
+  },
+  {
+   "id": "u09-v05",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "vf",
+   "pregunta": "La Constitución argentina prohíbe la doble nacionalidad.",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "La acepta: solo exige respetar el jus soli, la opción y que no se pierda la nacionalidad nativa.",
+    "Es verdadero: lo dice el art. 75 inc. 12.",
+    "Es verdadero según la jurisprudencia actual de la CSJN."
+   ],
+   "justificacionCorrecta": "La acepta: solo exige respetar el jus soli, la opción y que no se pierda la nacionalidad nativa.",
+   "respuesta": "Falso. La acepta: solo exige respetar el jus soli, la opción y que no se pierda la nacionalidad nativa.",
+   "explicacion": "La CSJN de 1938 sí lo sostuvo respecto de la Ley 346, criterio que llegó hasta 1984."
+  },
+  {
+   "id": "u09-v06",
+   "unidad": 9,
+   "tema": "Apatridia",
+   "tipo": "vf",
+   "pregunta": "La Argentina es parte de la Convención para Reducir los Casos de Apatridia de 1961.",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "No es parte de la de 1961; sí adhirió a la de 1954 sobre el Estatuto de los Apátridas.",
+    "Es verdadero: la ratificó con la reforma de 1994.",
+    "Es falso porque no existe una convención de 1961."
+   ],
+   "justificacionCorrecta": "No es parte de la de 1961; sí adhirió a la de 1954 sobre el Estatuto de los Apátridas.",
+   "respuesta": "Falso. No es parte de la de 1961; sí adhirió a la de 1954 sobre el Estatuto de los Apátridas.",
+   "explicacion": "Igual, evitar la apatridia es hoy una obligación consuetudinaria."
+  },
+  {
+   "id": "u09-v07",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "vf",
+   "pregunta": "El derecho de asilo es una costumbre internacional universal.",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "No tiene valor consuetudinario general; probablemente solo en el continente americano.",
+    "Es verdadero: lo prueba la DUDH.",
+    "Es verdadero porque existe una convención universal de asilo."
+   ],
+   "justificacionCorrecta": "No tiene valor consuetudinario general; probablemente solo en el continente americano.",
+   "respuesta": "Falso. No tiene valor consuetudinario general; probablemente solo en el continente americano.",
+   "explicacion": "Fracasaron los intentos de adoptar una convención multilateral."
+  },
+  {
+   "id": "u09-v08",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "vf",
+   "pregunta": "En el asilo diplomático, el Estado territorial puede calificar unilateralmente si el delito es político.",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Según la Convención de Caracas (art. 4), califica el Estado asilante.",
+    "Es verdadero: es su territorio.",
+    "Es verdadero según el caso Haya de la Torre."
+   ],
+   "justificacionCorrecta": "Según la Convención de Caracas (art. 4), califica el Estado asilante.",
+   "respuesta": "Falso. Según la Convención de Caracas (art. 4), califica el Estado asilante.",
+   "explicacion": "El asilante también decide si concede el asilo."
+  },
+  {
+   "id": "u09-v09",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "vf",
+   "pregunta": "La Convención de 1951 garantiza a la persona perseguida la obtención del estatuto de refugiado.",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "No lo garantiza: solo obliga a no devolverla a donde su vida o libertad peligren (Juste Ruiz).",
+    "Es verdadero: el art. 33 obliga a otorgar el estatuto.",
+    "Es falso porque la Convención no prevé el non-refoulement."
+   ],
+   "justificacionCorrecta": "No lo garantiza: solo obliga a no devolverla a donde su vida o libertad peligren (Juste Ruiz).",
+   "respuesta": "Falso. No lo garantiza: solo obliga a no devolverla a donde su vida o libertad peligren (Juste Ruiz).",
+   "explicacion": "Tampoco regula el procedimiento de determinación: de ahí los 'refugiados en órbita'."
+  },
+  {
+   "id": "u09-v10",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "vf",
+   "pregunta": "La Declaración de Cartagena es un tratado internacional.",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "No es tratado, aunque su importancia se reiteró en foros internacionales y la mayoría de los países latinoamericanos la incluyó en su legislación.",
+    "Es verdadero: es un tratado de la OEA de 1984.",
+    "Es verdadero porque fue ratificado por la Argentina."
+   ],
+   "justificacionCorrecta": "No es tratado, aunque su importancia se reiteró en foros internacionales y la mayoría de los países latinoamericanos la incluyó en su legislación.",
+   "respuesta": "Falso. No es tratado, aunque su importancia se reiteró en foros internacionales y la mayoría de los países latinoamericanos la incluyó en su legislación.",
+   "explicacion": "Para Oyarzábal funda una costumbre regional."
+  },
+  {
+   "id": "u09-v11",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "vf",
+   "pregunta": "El non-refoulement de las personas perseguidas es hoy parte del derecho internacional consuetudinario.",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Verdadero",
+   "justificaciones": [
+    "Según Juste Ruiz, ha pasado a formar parte del derecho internacional general o consuetudinario.",
+    "Es falso: solo obliga a los Estados parte de la Convención de 1951.",
+    "Es falso porque admite devolver a cualquier migrante."
+   ],
+   "justificacionCorrecta": "Según Juste Ruiz, ha pasado a formar parte del derecho internacional general o consuetudinario.",
+   "respuesta": "Verdadero. Según Juste Ruiz, ha pasado a formar parte del derecho internacional general o consuetudinario.",
+   "explicacion": "También lo consagran la Convención contra la Tortura (art. 3) y la CADH (art. 22)."
+  },
+  {
+   "id": "u09-v12",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "vf",
+   "pregunta": "Las garantías del DIDH frente a la expulsión rigen desde que el migrante se acerca a la frontera, aunque no haya entrado.",
+   "fuente": "Juste Ruiz",
+   "dificultad": 3,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Comienzan a aplicarse recién cuando el migrante está físicamente en el territorio del Estado.",
+    "Es verdadero: rigen en alta mar.",
+    "Es verdadero porque la Convención de 1951 lo exige."
+   ],
+   "justificacionCorrecta": "Comienzan a aplicarse recién cuando el migrante está físicamente en el territorio del Estado.",
+   "respuesta": "Falso. Comienzan a aplicarse recién cuando el migrante está físicamente en el territorio del Estado.",
+   "explicacion": "Por eso es tan problemática su aplicación ante vallas y muros."
+  },
+  {
+   "id": "u09-v13",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "vf",
+   "pregunta": "El Pacto Mundial para la Migración es jurídicamente vinculante.",
+   "fuente": "Juste Ruiz",
+   "dificultad": 1,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Afirma ser 'no vinculante jurídicamente' y respeta la soberanía de los Estados.",
+    "Es verdadero: lo aprobó la AG por mayoría.",
+    "Es verdadero porque crea obligaciones consuetudinarias."
+   ],
+   "justificacionCorrecta": "Afirma ser 'no vinculante jurídicamente' y respeta la soberanía de los Estados.",
+   "respuesta": "Falso. Afirma ser 'no vinculante jurídicamente' y respeta la soberanía de los Estados.",
+   "explicacion": "Varios Estados que votaron en contra afirmaron que no generaría costumbre."
+  },
+  {
+   "id": "u09-v14",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "vf",
+   "pregunta": "El Pacto Mundial sobre los Refugiados se aprobó por unanimidad.",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Tuvo 181 votos a favor, 2 en contra (Estados Unidos y Hungría) y 3 abstenciones.",
+    "Es verdadero: no hubo votos en contra.",
+    "Es falso porque nunca fue votado."
+   ],
+   "justificacionCorrecta": "Tuvo 181 votos a favor, 2 en contra (Estados Unidos y Hungría) y 3 abstenciones.",
+   "respuesta": "Falso. Tuvo 181 votos a favor, 2 en contra (Estados Unidos y Hungría) y 3 abstenciones.",
+   "explicacion": "El de Migración tuvo más rechazo: 152-5-12."
+  },
+  {
+   "id": "u09-c01",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "caso",
+   "pregunta": "¿Puede Montalia ejercer la protección diplomática frente a Arbelia?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "relato": "Karl, nacional de un Estado en guerra, vivió y trabajó 30 años en el Estado de Arbelia. Poco antes de que Arbelia entrara en guerra, viajó unas semanas a Montalia, un Estado neutral, obtuvo allí la naturalización y regresó a Arbelia. Arbelia confiscó sus bienes. Montalia presenta un reclamo internacional.",
+   "respuesta": "Probablemente no. Aplicando Nottebohm (CIJ, 1955), para oponer una nacionalidad en el plano internacional debe haber un vínculo efectivo: residencia habitual, centro de intereses, lazos familiares, vida pública. Aquí el vínculo real está con Arbelia, y la naturalización parece buscar solo cambiar el estatus de nacional de un beligerante por el de un neutral. La validez interna de la naturalización no es prueba concluyente: Arbelia no está obligada a reconocerla, y el reclamo sería inadmisible.",
+   "puntosClave": [
+    "Nottebohm (CIJ, 1955)",
+    "Requisito de vínculo efectivo",
+    "Factores: residencia, intereses, familia",
+    "La validez interna no es concluyente",
+    "Conclusión: reclamo inadmisible"
+   ],
+   "explicacion": "Calco del caso Nottebohm."
+  },
+  {
+   "id": "u09-c02",
+   "unidad": 9,
+   "tema": "Doble nacionalidad",
+   "tipo": "caso",
+   "pregunta": "¿Puede la Argentina reclamar contra Italia? ¿Puede Zeta rechazar el reclamo italiano?",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [
+    "confusables"
+   ],
+   "relato": "Lucía es argentina de origen y también italiana por jus sanguinis; vive en Italia. Sufre un daño por actos del Estado italiano y pide a la Argentina que la proteja diplomáticamente. Además, un tercer Estado, Zeta, le causa otro daño, e Italia reclama; Zeta responde que la nacionalidad 'dominante' de Lucía es la argentina.",
+   "respuesta": "Contra Italia: en principio no, porque Italia también la considera su nacional (igualdad soberana, La Haya 1930, art. 4); si fuera posible elegir, se daría prioridad a la nacionalidad efectiva, y como Lucía vive en Italia, la efectiva parece ser la italiana. Frente a Zeta: rige la inoponibilidad (Salem, Flegenheimer; La Haya 1930, art. 5); Zeta no puede rechazar el reclamo alegando que la otra nacionalidad es la dominante.",
+   "puntosClave": [
+    "Igualdad soberana entre los Estados de la nacionalidad",
+    "Prioridad de la nacionalidad efectiva si se puede elegir (Mergé)",
+    "Inoponibilidad frente a terceros (Salem, Flegenheimer)",
+    "Convención de La Haya de 1930, arts. 4 y 5"
+   ],
+   "explicacion": "Integra las dos reglas de la doble nacionalidad."
+  },
+  {
+   "id": "u09-c03",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "caso",
+   "pregunta": "¿Quién califica el delito? ¿Qué obligaciones tienen A y B? ¿Qué pasaría si A no fuera parte de ningún tratado sobre asilo diplomático?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "relato": "Un dirigente opositor de Estado A, perseguido por un supuesto delito político, entra a la embajada de Estado B en la capital de A. Ambos son parte de la Convención de Caracas de 1954. A sostiene que es un delito común y exige la entrega.",
+   "respuesta": "Califica el Estado asilante, B (art. 4). B debe comunicar de inmediato el asilo a A; A debe permitir la salida y dar el salvoconducto cuando se lo pidan (arts. 11-13). B elige el destino; el asilado no puede desembarcar en A ni cerca (art. 16); el asilo procede por urgencia y por el tiempo indispensable (art. 5). Si A no fuera parte, rige Haya de la Torre (CIJ, 1950): el asilo diplomático deroga la soberanía territorial y requiere un sustento legal; sin él, el asilado debería ser entregado. Pero, como la embajada es inviolable, A no puede sacarlo por la fuerza; el asilado podría quedarse años (como Assange).",
+   "puntosClave": [
+    "Califica el Estado asilante (art. 4)",
+    "Comunicación y salvoconducto (arts. 11-13)",
+    "Urgencia y tiempo indispensable (art. 5)",
+    "Sin tratado: Haya de la Torre (CIJ 1950)",
+    "Inviolabilidad de la misión (caso Assange)"
+   ],
+   "explicacion": "Asilo diplomático: el clásico regional."
+  },
+  {
+   "id": "u09-c04",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "caso",
+   "pregunta": "¿A quiénes protege el non-refoulement? ¿Qué normas rigen el rescate? ¿Qué problema estructural muestra el caso?",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "relato": "Un barco de una ONG rescata en alta mar a 100 personas: unas huyen de un conflicto armado y de la persecución política, otras de la pobreza y otras de la sequía extrema. Ningún Estado costero quiere permitir el desembarco.",
+   "respuesta": "Los perseguidos por los motivos de la Convención de 1951 están protegidos por el non-refoulement (art. 33); también quienes huyen de conflictos armados o de persecución por otros motivos, y para Juste Ruiz es costumbre. Los migrantes económicos y los ecológicos no están protegidos y podrían ser devueltos. El rescate obliga a los capitanes (CONVEMAR art. 98, SOLAS, SAR), pero las Directrices de la OMI (2004) sobre el lugar seguro son soft law, y el desembarco no está resuelto. El caso muestra la colisión entre el derecho a salir y el derecho soberano a rechazar: hay derecho a emigrar pero no a inmigrar (el absurdo de Scovazzi).",
+   "puntosClave": [
+    "Non-refoulement: Convención de 1951 y costumbre",
+    "Alcance: perseguidos y quienes huyen de conflictos",
+    "Exclusión: migrantes económicos y ecológicos",
+    "Rescate: CONVEMAR 98, SOLAS, SAR; OMI = soft law",
+    "Colisión emigrar/inmigrar (Scovazzi)"
+   ],
+   "explicacion": "Integra los dos textos de la unidad."
+  },
+  {
+   "id": "u09-c05",
+   "unidad": 9,
+   "tema": "Apatridia",
+   "tipo": "caso",
+   "pregunta": "¿Qué situación se produce y qué normas la protegen?",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "relato": "Una niña nace en el Estado X, que solo aplica el jus sanguinis; sus padres son nacionales del Estado Y, que solo aplica el jus soli. Ningún Estado la reconoce como nacional.",
+   "respuesta": "Es un caso de apatridia por conflicto negativo de leyes. La protegen la CDN (art. 7: derecho del niño a una nacionalidad, con obligación de aplicarlo si de otro modo quedaría apátrida), la CADH (art. 20.2: derecho a la nacionalidad del Estado en cuyo territorio nació si no tiene otra), la Convención de 1961 para Reducir los Casos de Apatridia y la de 1954 sobre el Estatuto (documentos de identidad y viaje, trato no peor que a cualquier extranjero, naturalización facilitada). Evitar la apatridia es además una obligación consuetudinaria.",
+   "puntosClave": [
+    "Conflicto negativo de leyes",
+    "CDN art. 7",
+    "CADH art. 20.2",
+    "Convenciones de 1954 y 1961",
+    "Obligación consuetudinaria de evitar la apatridia"
+   ],
+   "explicacion": "Aplicación directa de las normas sobre apatridia."
+  },
+  {
+   "id": "u09-d01",
+   "unidad": 9,
+   "tema": "Nacionalidad: concepto",
+   "tipo": "desarrollo",
+   "pregunta": "Definí la nacionalidad, distinguila de la ciudadanía y explicá quién la regula y con qué límites internacionales.",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Es el vínculo jurídico entre una persona y un Estado, del que derivan derechos y deberes recíprocos determinados primariamente por el derecho interno (Oyarzábal). Para la CIJ en Nottebohm es un vínculo basado en un hecho social de adhesión y una conexión genuina; la Corte IDH (OC-4/84) la ve además como un derecho humano, con un doble aspecto en el art. 20 CADH (derecho a tenerla y protección frente a la privación arbitraria). La ciudadanía es la titularidad de derechos políticos: puede haber nacionalidad sin ciudadanía y cierta ciudadanía sin nacionalidad, aunque para el derecho internacional la nacionalidad es unitaria y solo importa la distinción nacional/extranjero. Cada Estado decide quiénes son sus nacionales (jus soli, jus sanguinis, naturalización), pero con límites: no privar arbitrariamente, derecho a una nacionalidad y a cambiarla, no discriminar por sexo y evitar la apatridia (DUDH art. 15, PIDCP art. 24.3, CADH art. 20, CEDAW art. 9, CDN arts. 7-8, Convenciones de 1954 y 1961).",
+   "puntosClave": [
+    "Definición (vínculo jurídico, derecho interno)",
+    "Nottebohm: conexión genuina",
+    "Corte IDH OC-4/84 y art. 20 CADH",
+    "Ciudadanía = derechos políticos; unidad internacional",
+    "Criterios: jus soli, jus sanguinis, naturalización",
+    "Límites: no privación arbitraria, apatridia, igualdad de sexos"
+   ],
+   "explicacion": "Pregunta base de la parte de nacionalidad."
+  },
+  {
+   "id": "u09-d02",
+   "unidad": 9,
+   "tema": "Efectos internacionales y vínculo efectivo",
+   "tipo": "desarrollo",
+   "pregunta": "Explicá la doctrina del vínculo efectivo y su aplicación en el caso Nottebohm y en los casos de doble nacionalidad.",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Para que la nacionalidad otorgada por un derecho interno surta efectos internacionales debe ser genuina, con un vínculo efectivo. En Nottebohm (CIJ, 1955), Liechtenstein reclamaba a Guatemala por la confiscación de bienes de Nottebohm, naturalizado en Liechtenstein en 1939 para sustituir su estatus de nacional de un beligerante por el de un neutral. La CIJ aplicó el vínculo efectivo (residencia habitual, centro de intereses, lazos familiares, vida pública, apego) y declaró inadmisible el reclamo: Guatemala no tenía que reconocer esa nacionalidad. Consecuencias: la afirmación de un Estado no es prueba concluyente y los tribunales pueden investigarla, aunque es un poder excepcional; la Corte parece aceptar el fraude a la ley. En la doble nacionalidad: entre los Estados de las dos nacionalidades rige la igualdad soberana (La Haya 1930, art. 4), con prioridad de la nacionalidad efectiva si es posible elegir (Mergé); frente a terceros, la inoponibilidad (Salem, Flegenheimer, art. 5), aunque la doctrina pregunta si no debe aplicarse la efectiva.",
+   "puntosClave": [
+    "Requisito de nacionalidad genuina",
+    "Hechos de Nottebohm",
+    "Factores del vínculo efectivo",
+    "Resultado: reclamo inadmisible",
+    "La afirmación estatal no es concluyente",
+    "Doble nacionalidad: igualdad soberana y nacionalidad efectiva",
+    "Inoponibilidad frente a terceros"
+   ],
+   "explicacion": "Es la pregunta más ligada a la jurisprudencia de la CIJ."
+  },
+  {
+   "id": "u09-d03",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "desarrollo",
+   "pregunta": "Distinguí el asilo territorial, el asilo diplomático y el refugio.",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Asilo territorial: protección en el territorio del Estado. DUDH art. 14 (derecho a buscarlo, no aplicable a delitos comunes); la Declaración de 1967 lo estructura como un derecho del Estado, de concesión graciable, que los demás deben respetar, con exclusiones (crímenes contra la paz, de guerra o contra la humanidad) y el límite del non-refoulement. No es costumbre universal, salvo probablemente en América (La Habana 1928, Montevideo 1939, Caracas 1954). Asilo diplomático: en los locales inviolables de una misión, para perseguidos políticos; institución regional latinoamericana (Montevideo 1889, La Habana 1928, Montevideo 1939, Caracas 1954); el asilante califica (art. 4), procede por urgencia (art. 5), con salvoconducto y traslado (arts. 11-17). Haya de la Torre (CIJ, 1950): deroga la soberanía territorial y necesita un sustento legal. Refugio: estatuto convencional (Convención de 1951 y Protocolo de 1967), con non-refoulement (art. 33), trato nacional o de NMF en diversos derechos, ampliado en América por Cartagena (1984) y supervisado por el ACNUR. Ante los requisitos, el Estado debe reconocer el estatuto; las convenciones de asilo no pueden restringir el derecho al refugio.",
+   "puntosClave": [
+    "Asilo territorial: DUDH y Declaración de 1967",
+    "Derecho del Estado y acto graciable",
+    "Asilo diplomático: regional; Caracas 1954",
+    "Haya de la Torre (CIJ 1950)",
+    "Refugio: Convención 1951/Protocolo 1967",
+    "Non-refoulement y Cartagena",
+    "Relación entre asilo y refugio"
+   ],
+   "explicacion": "El confusable 'asilo vs refugio' en formato desarrollo."
+  },
+  {
+   "id": "u09-d04",
+   "unidad": 9,
+   "tema": "Estatuto de los refugiados",
+   "tipo": "desarrollo",
+   "pregunta": "Desarrollá el régimen internacional de los refugiados: fuentes, principio de non-refoulement, alcance y límites.",
+   "fuente": "Oyarzábal",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Fuentes: Convención sobre el Estatuto de los Refugiados (1951) y Protocolo (1967), que amplió su alcance; la Argentina es parte de ambos. Fija trato nacional (religión, justicia, educación elemental, asistencia, trabajo, gravámenes) y de NMF (asociación, actividades lucrativas), y documentos de viaje, como un mínimo (art. 5). Non-refoulement (art. 33.1): no devolver a donde la vida o la libertad peligren por raza, religión, nacionalidad, grupo social u opinión política; excepción del art. 33.2 (peligro para la seguridad o condena por delito grave). También en la Convención contra la Tortura (art. 3) y la CADH (art. 22); hoy es costumbre (Juste Ruiz). Alcance: cubre a los refugiados y a quienes huyen de otras persecuciones o conflictos, no a los migrantes económicos y ecológicos. Límites: la Convención no garantiza el estatuto ni regula el procedimiento ('refugiados en órbita'), y las garantías rigen recién en el territorio. Regional: Cartagena (1984) amplía la definición. Institucional: ACNUR (1950); en la Argentina, la CONARE (Ley 26.165) y la residencia de la Ley 25.871.",
+   "puntosClave": [
+    "Convención 1951 y Protocolo 1967",
+    "Derechos: trato nacional y NMF",
+    "Non-refoulement y excepción art. 33.2",
+    "Carácter consuetudinario",
+    "Alcance y exclusiones",
+    "Límites: procedimiento, 'refugiados en órbita'",
+    "Cartagena y ACNUR"
+   ],
+   "explicacion": "Integra Oyarzábal y Juste Ruiz."
+  },
+  {
+   "id": "u09-d05",
+   "unidad": 9,
+   "tema": "Insuficiencia del régimen de migraciones",
+   "tipo": "desarrollo",
+   "pregunta": "Explicá por qué Juste Ruiz considera insuficiente el régimen internacional de las migraciones.",
+   "fuente": "Juste Ruiz",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "El régimen se ubica entre dos postulados antagónicos: el derecho a moverse a través de las fronteras y el derecho del Estado a rechazar la entrada. a) El derecho a salir está reconocido (DUDH 13.2; PIDCP 12; OG 27, que incluye la emigración permanente, elegir el destino y obtener el pasaporte). b) Pero el Estado de destino decide soberanamente la admisión: hay derecho a emigrar, no a inmigrar (el absurdo de Scovazzi), con dramas como el desembarco de los rescatados en el mar. Hay atenuantes humanitarios: asilo, Convención de 1951 y non-refoulement, que no protege a los migrantes económicos ni ecológicos, y límites del DIDH (no discriminación, no detención arbitraria, acceso consular, prohibición de devoluciones en caliente y expulsiones colectivas, reagrupamiento de niños), que rigen recién en el territorio. c) Errores de planteamiento: soluciones nacionales para un problema internacional, unilateralismo cuando todos son Estados de origen, tránsito y destino, una colisión de derechos que siempre gana el Estado (Cançado Trindade), regulación de aspectos aislados de un fenómeno poliédrico, ausencia de un corpus de reglas y una OIM débil. Resultado: un círculo vicioso de migración irregular.",
+   "puntosClave": [
+    "Antagonismo de postulados",
+    "Derecho a salir: DUDH, PIDCP, OG 27",
+    "Derecho de admisión: emigrar sí, inmigrar no",
+    "Atenuantes: asilo, refugio, non-refoulement, DIDH",
+    "Las garantías rigen solo en el territorio",
+    "Errores de planteamiento",
+    "Debilidad institucional (OIM)"
+   ],
+   "explicacion": "El eje del texto de Juste Ruiz."
+  },
+  {
+   "id": "u09-d06",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "desarrollo",
+   "pregunta": "Describí y evaluá los Pactos Mundiales de 2018 sobre refugiados y migración.",
+   "fuente": "Juste Ruiz",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Antecedentes: Res. 59/241 (2004), Agenda 2030 (párr. 29) y Declaración de Nueva York (2016), con sus anexos (Marco de Respuesta Integral; hacia un pacto de migración). Pacto sobre los Refugiados: lo preparó el ACNUR, es no vinculante y se basa en la Convención de 1951; busca un reparto previsible y equitativo de la carga, con 4 objetivos (aliviar a los países de acogida, autosuficiencia, soluciones en terceros países, retorno seguro); tiene el Marco y un Programa de Acción (reparto de cargas, recepción, soluciones duraderas: repatriación voluntaria, reasentamiento, vías complementarias, integración local). Aprobado el 17/12/2018 por 181-2-3. Pacto para la Migración: negociado entre 2016 y 2018, no vinculante, más diálogo que norma; 10 principios rectores (incluida la soberanía) y 23 objetivos agrupados en ejes; seguimiento con un Foro cada 4 años desde 2022; Marrakech (10-11/12/2018) y AG (19/12/2018), 152-5-12, tras la salida de Estados Unidos en 2017. Evaluación (Juste Ruiz): son piedras angulares de un sistema por construir, pero sin consenso; los críticos invocaron la soberanía, el efecto llamada, la confusión entre regulares e irregulares y la seguridad.",
+   "puntosClave": [
+    "Antecedentes: 59/241, Agenda 2030, Nueva York 2016",
+    "Pacto Refugiados: ACNUR, objetivos, estructura",
+    "Votación 181-2-3",
+    "Pacto Migración: principios y 23 objetivos",
+    "Marrakech y votación 152-5-12",
+    "Naturaleza no vinculante",
+    "Falta de consenso y evaluación"
+   ],
+   "explicacion": "La parte más reciente del programa."
+  },
+  {
+   "id": "u09-r01",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "matching",
+   "pregunta": "Relacioná cada caso o instrumento con su contenido.",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "pares": [
+    {
+     "a": "Nottebohm (CIJ, 1955)",
+     "b": "Vínculo efectivo"
+    },
+    {
+     "a": "Haya de la Torre (CIJ, 1950)",
+     "b": "El asilo diplomático deroga la soberanía territorial"
+    },
+    {
+     "a": "OC-4/84 (Corte IDH)",
+     "b": "La nacionalidad como derecho de la persona humana"
+    },
+    {
+     "a": "Padilla (CSJN)",
+     "b": "La nacionalidad nativa no puede perderse ni renunciarse"
+    },
+    {
+     "a": "Declaración de 1967 (Res. 2312)",
+     "b": "El asilo es un derecho del Estado"
+    },
+    {
+     "a": "Convención de 1951, art. 33",
+     "b": "Non-refoulement"
+    },
+    {
+     "a": "Declaración de Cartagena (1984)",
+     "b": "Definición ampliada de refugiado"
+    },
+    {
+     "a": "Caso Assange (2012)",
+     "b": "Asilo en la embajada de Ecuador en Londres"
+    }
+   ],
+   "respuesta": "Nottebohm (CIJ, 1955) → Vínculo efectivo; Haya de la Torre (CIJ, 1950) → El asilo diplomático deroga la soberanía territorial; OC-4/84 (Corte IDH) → La nacionalidad como derecho de la persona humana; Padilla (CSJN) → La nacionalidad nativa no puede perderse ni renunciarse; Declaración de 1967 (Res. 2312) → El asilo es un derecho del Estado; Convención de 1951, art. 33 → Non-refoulement; Declaración de Cartagena (1984) → Definición ampliada de refugiado; Caso Assange (2012) → Asilo en la embajada de Ecuador en Londres",
+   "explicacion": "Cada concepto atado a su caso."
+  },
+  {
+   "id": "u09-r02",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "matching",
+   "pregunta": "Relacioná cada instrumento migratorio con su dato.",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "pares": [
+    {
+     "a": "Res. AG 59/241 (2004)",
+     "b": "Migración internacional y desarrollo"
+    },
+    {
+     "a": "Agenda 2030, párr. 29",
+     "b": "Contribución positiva de los migrantes al desarrollo sostenible"
+    },
+    {
+     "a": "Declaración de Nueva York (2016)",
+     "b": "Marco de Respuesta Integral para los Refugiados"
+    },
+    {
+     "a": "Pacto Mundial sobre los Refugiados",
+     "b": "Preparado por el ACNUR; 181-2-3"
+    },
+    {
+     "a": "Pacto Mundial para la Migración",
+     "b": "23 objetivos; 152-5-12"
+    },
+    {
+     "a": "Conferencia de Marrakech",
+     "b": "162 de 194 Estados presentes"
+    },
+    {
+     "a": "Observación General 27",
+     "b": "Derecho a salir y a obtener pasaporte"
+    },
+    {
+     "a": "Res. MSC.167(78) de la OMI",
+     "b": "Personas rescatadas en el mar (soft law)"
+    }
+   ],
+   "respuesta": "Res. AG 59/241 (2004) → Migración internacional y desarrollo; Agenda 2030, párr. 29 → Contribución positiva de los migrantes al desarrollo sostenible; Declaración de Nueva York (2016) → Marco de Respuesta Integral para los Refugiados; Pacto Mundial sobre los Refugiados → Preparado por el ACNUR; 181-2-3; Pacto Mundial para la Migración → 23 objetivos; 152-5-12; Conferencia de Marrakech → 162 de 194 Estados presentes; Observación General 27 → Derecho a salir y a obtener pasaporte; Res. MSC.167(78) de la OMI → Personas rescatadas en el mar (soft law)",
+   "explicacion": "Datos numéricos que suelen preguntarse."
+  },
+  {
+   "id": "u09-r03",
+   "unidad": 9,
+   "tema": "Apatridia",
+   "tipo": "matching",
+   "pregunta": "Relacioná cada categoría con su definición.",
+   "fuente": "Oyarzábal",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "pares": [
+    {
+     "a": "Apátrida",
+     "b": "Ningún Estado lo considera su nacional"
+    },
+    {
+     "a": "Binacional",
+     "b": "Dos Estados lo consideran su nacional"
+    },
+    {
+     "a": "Refugiado",
+     "b": "Extranjero protegido por persecución en su país"
+    },
+    {
+     "a": "Desplazado interno",
+     "b": "Huye sin cruzar la frontera"
+    },
+    {
+     "a": "Migrante económico",
+     "b": "Huye de la pobreza; no tiene non-refoulement"
+    },
+    {
+     "a": "Migrante ecológico",
+     "b": "Huye de desastres y del cambio climático"
+    }
+   ],
+   "respuesta": "Apátrida → Ningún Estado lo considera su nacional; Binacional → Dos Estados lo consideran su nacional; Refugiado → Extranjero protegido por persecución en su país; Desplazado interno → Huye sin cruzar la frontera; Migrante económico → Huye de la pobreza; no tiene non-refoulement; Migrante ecológico → Huye de desastres y del cambio climático",
+   "explicacion": "Las categorías que se confunden."
+  },
+  {
+   "id": "u09-t01",
+   "unidad": 9,
+   "tema": "Asilo territorial y diplomático",
+   "tipo": "timeline",
+   "pregunta": "Ordená los instrumentos y casos sobre asilo, refugio y nacionalidad.",
+   "fuente": "Oyarzábal",
+   "dificultad": 2,
+   "etiquetas": [],
+   "eventos": [
+    {
+     "fecha": "1889",
+     "texto": "Tratado de Derecho Penal Internacional de Montevideo"
+    },
+    {
+     "fecha": "1928",
+     "texto": "Convención sobre Asilo de La Habana"
+    },
+    {
+     "fecha": "1930",
+     "texto": "Convención de La Haya sobre conflicto de nacionalidades"
+    },
+    {
+     "fecha": "1950",
+     "texto": "Creación del ACNUR / Haya de la Torre"
+    },
+    {
+     "fecha": "1951",
+     "texto": "Convención sobre el Estatuto de los Refugiados"
+    },
+    {
+     "fecha": "1954",
+     "texto": "Convención de Caracas / Estatuto de los Apátridas"
+    },
+    {
+     "fecha": "1955",
+     "texto": "Nottebohm"
+    },
+    {
+     "fecha": "1967",
+     "texto": "Protocolo sobre refugiados / Declaración sobre Asilo Territorial"
+    },
+    {
+     "fecha": "1984",
+     "texto": "Declaración de Cartagena"
+    }
+   ],
+   "respuesta": "1889: Tratado de Derecho Penal Internacional de Montevideo → 1928: Convención sobre Asilo de La Habana → 1930: Convención de La Haya sobre conflicto de nacionalidades → 1950: Creación del ACNUR / Haya de la Torre → 1951: Convención sobre el Estatuto de los Refugiados → 1954: Convención de Caracas / Estatuto de los Apátridas → 1955: Nottebohm → 1967: Protocolo sobre refugiados / Declaración sobre Asilo Territorial → 1984: Declaración de Cartagena",
+   "explicacion": "Del asilo regional a la definición ampliada."
+  },
+  {
+   "id": "u09-t02",
+   "unidad": 9,
+   "tema": "Pactos Mundiales de 2018",
+   "tipo": "timeline",
+   "pregunta": "Ordená los pasos de la ONU sobre migraciones.",
+   "fuente": "Juste Ruiz",
+   "dificultad": 2,
+   "etiquetas": [],
+   "eventos": [
+    {
+     "fecha": "2004",
+     "texto": "Res. 59/241, Migración internacional y desarrollo"
+    },
+    {
+     "fecha": "2015",
+     "texto": "Agenda 2030 (párr. 29)"
+    },
+    {
+     "fecha": "2016",
+     "texto": "Declaración de Nueva York"
+    },
+    {
+     "fecha": "2017",
+     "texto": "Estados Unidos abandona la negociación del Pacto"
+    },
+    {
+     "fecha": "2018",
+     "texto": "Marrakech y aprobación de ambos Pactos"
+    },
+    {
+     "fecha": "2022",
+     "texto": "Primer Foro de Examen de la Migración Internacional"
+    }
+   ],
+   "respuesta": "2004: Res. 59/241, Migración internacional y desarrollo → 2015: Agenda 2030 (párr. 29) → 2016: Declaración de Nueva York → 2017: Estados Unidos abandona la negociación del Pacto → 2018: Marrakech y aprobación de ambos Pactos → 2022: Primer Foro de Examen de la Migración Internacional",
+   "explicacion": "De 2004 a los Pactos de 2018."
+  }
+ ]
 }

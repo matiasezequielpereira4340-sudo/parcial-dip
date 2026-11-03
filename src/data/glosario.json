@@ -9,16 +9,23 @@
  {
   "sigla": "ACR",
   "nombre": "Acuerdos comerciales regionales",
-  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Excepción a la NMF amparada por el art. XXIV del GATT, el art. V del GATS o la Cláusula de Habilitación; según el texto (2010), 230 en vigor en 2008.",
+  "unidad": 8,
+  "fuente": "Segura Serrano"
+ },
+ {
+  "sigla": "AEC",
+  "nombre": "Arancel externo común",
+  "definicion": "Rasgo que convierte una ZLC en unión aduanera (MERCOSUR, CAN, UE).",
+  "unidad": 8,
+  "fuente": "Segura Serrano"
  },
  {
   "sigla": "AGCS / GATS",
   "nombre": "Acuerdo General sobre el Comercio de Servicios (OMC)",
-  "definicion": "Norma sectorial vinculante que alcanza ciertos tipos de inversión; su método de listas positivas se propuso para un acuerdo de inversiones en la OMC.",
-  "unidad": null,
-  "fuente": "Hinojosa"
+  "definicion": "Su art. V regula la integración en servicios, más flexible para PVD; norma sectorial que alcanza ciertos tipos de inversión (U7).",
+  "unidad": 8,
+  "fuente": "Segura Serrano"
  },
  {
   "sigla": "AII",
@@ -65,9 +72,9 @@
  {
   "sigla": "CACR",
   "nombre": "Comité de Acuerdos Comerciales Regionales (OMC)",
-  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Desde 1996 centraliza el examen de la licitud de los ACR; sin consenso; a falta de decisión, presunción de validez.",
+  "unidad": 8,
+  "fuente": "Segura Serrano"
  },
  {
   "sigla": "CADH",
@@ -124,6 +131,13 @@
   "definicion": "Creado por el G-20 de Londres (2009); reemplazó al Foro de Estabilidad Financiera (1999, G-7).",
   "unidad": 7,
   "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "CEPT",
+  "nombre": "Esquema Común de Aranceles Preferenciales Efectivos (ASEAN)",
+  "definicion": "Aranceles al 0-5 %, sin productos agrícolas; eliminación total fijada para 2010 (Protocolo de 2003).",
+  "unidad": 8,
+  "fuente": "Segura Serrano"
  },
  {
   "sigla": "CESCE",
@@ -247,9 +261,9 @@
  {
   "sigla": "MC",
   "nombre": "Mercado común",
-  "definicion": "Pendiente. Ojo: no confundir con el Mecanismo Complementario del CIADI.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "UA + libre circulación de personas, servicios y capitales. Ojo: no confundir con el Mecanismo Complementario del CIADI (U7).",
+  "unidad": 8,
+  "fuente": "Segura Serrano"
  },
  {
   "sigla": "MERCOSUR",
@@ -296,9 +310,9 @@
  {
   "sigla": "OSD",
   "nombre": "Órgano de Solución de Diferencias (OMC)",
-  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Puede revisar los ACR (India-Restricciones; Turquía-Textiles), con riesgo de choque con el CACR.",
+  "unidad": 8,
+  "fuente": "Segura Serrano"
  },
  {
   "sigla": "PIDCP",
@@ -387,22 +401,22 @@
  {
   "sigla": "UA",
   "nombre": "Unión aduanera",
-  "definicion": "Pendiente. Confusable con ZLC.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "ZLC + arancel externo común (ej.: la UE en mercancías). Confusable con ZLC.",
+  "unidad": 8,
+  "fuente": "Segura Serrano"
  },
  {
   "sigla": "UEM",
-  "nombre": "Unión Económica y Monetaria",
-  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "nombre": "Unión económica y monetaria",
+  "definicion": "Transferencia de competencias económicas y monetarias; puede dar lugar a una moneda común (euro, BCE).",
+  "unidad": 8,
+  "fuente": "Segura Serrano"
  },
  {
   "sigla": "ZLC",
   "nombre": "Zona de libre comercio",
-  "definicion": "Pendiente. Confusable con UA.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Elimina los obstáculos arancelarios entre sus miembros, sin arancel externo común (ej.: TLCAN). Confusable con UA.",
+  "unidad": 8,
+  "fuente": "Segura Serrano"
  }
 ]

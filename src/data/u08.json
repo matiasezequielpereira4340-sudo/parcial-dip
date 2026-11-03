@@ -1,11 +1,2289 @@
 {
  "unidad": 8,
- "titulo": "Título pendiente de carga",
- "estado": "pendiente",
- "nota": "Material pendiente de carga. Para sumarlo: completá este archivo siguiendo CONTENIDO.md, cambiá 'estado' a 'cargado' y corré npm run validar.",
- "temas": [],
- "cuadros": [],
- "esquemas": [],
- "lineaDeTiempo": [],
- "items": []
+ "titulo": "Acuerdos comerciales regionales",
+ "estado": "cargado",
+ "nota": "Fuente: Segura Serrano, «Los acuerdos comerciales regionales», cap. X de Hinojosa y Roldán (coords.), Derecho Internacional Económico, Marcial Pons, 2010 (texto obtenido por OCR). Los pasajes ilegibles o con columnas mezcladas no se usaron: ver scripts/fuentes/REVISAR_OCR.md.",
+ "temas": [
+  {
+   "id": "u08-t1",
+   "titulo": "Fases y características del regionalismo",
+   "ideaClave": "Viner: los ACR crean y desvían comercio; hoy dos tercios del comercio son preferenciales. El nuevo regionalismo prolifera (regionalismo 'spaghetti') y puede ser 'elemento básico' o 'escollo' del multilateralismo.",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "id": "u08-t2",
+   "titulo": "Formas de integración económica",
+   "ideaClave": "Balassa: ZLC (sin aranceles internos) → UA (+ arancel externo común) → MC (+ libre circulación de factores) → UEM (+ competencias económicas y monetarias, moneda común).",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "id": "u08-t3",
+   "titulo": "Regulación multilateral: art. XXIV GATT",
+   "ideaClave": "Criterios vinerianos del art. XXIV: no elevar en conjunto la protección frente a terceros (párr. 5) y eliminar barreras en 'lo esencial de los intercambios' (párr. 8); requisito procesal de notificación con plan en plazo razonable (10 años).",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "id": "u08-t4",
+   "titulo": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "ideaClave": "Doble control: el CACR (desde 1996, sin consenso, presunción de validez) y el OSD (Turquía-Textiles: dos condiciones); otras vías: art. V del GATS y Cláusula de Habilitación (1979).",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "id": "u08-t5",
+   "titulo": "Unión Europea",
+   "ideaClave": "El ACR más avanzado: mercado común (4 libertades + política comercial común), UEM (euro, BCE) y cohesión (fondos estructurales); técnicas negativa (prohibición), positiva (armonización) y reconocimiento mutuo (Cassis de Dijon).",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "id": "u08-t6",
+   "titulo": "MERCOSUR",
+   "ideaClave": "Tratado de Asunción (1991): busca un mercado común (libre circulación de factores, arancel externo común, política comercial común); homologado por la Cláusula de Habilitación y también examinado bajo el art. XXIV.",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "id": "u08-t7",
+   "titulo": "TLCAN",
+   "ideaClave": "ZLC muy ambiciosa (1/01/1994) sin vocación de integración: servicios, inversiones (cap. XI), obstáculos técnicos, propiedad intelectual, solución de controversias y acuerdos paralelos ambiental y laboral.",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "id": "u08-t8",
+   "titulo": "ASEAN",
+   "ideaClave": "Declaración de Singapur (1992) y Esquema CEPT: aranceles al 0-5 % (eliminación total en 2010), con flexibilidad y débil institucionalidad; Comunidad ASEAN con mercado único para 2020.",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "id": "u08-t9",
+   "titulo": "Otros ACR y relaciones bilaterales",
+   "ideaClave": "CAN (Cartagena 1969 / Trujillo 1996), CAFTA-RD (2006), Comunidad Económica Africana (Abuya 1991) y bilateralismo: de los tratados de amistad, comercio y navegación a los BIT.",
+   "fuente": "Segura Serrano"
+  }
+ ],
+ "cuadros": [
+  {
+   "titulo": "Formas de integración (Balassa) - confusables",
+   "fuente": "Segura Serrano",
+   "columnas": [
+    "Forma",
+    "Qué agrega",
+    "Ejemplo en el texto"
+   ],
+   "filas": [
+    [
+     "Zona de libre comercio (ZLC)",
+     "Elimina aranceles entre los miembros",
+     "TLCAN, ALC de ASEAN, CAFTA-RD"
+    ],
+    [
+     "Unión aduanera (UA)",
+     "+ arancel externo común",
+     "UE (libre circulación de mercancías)"
+    ],
+    [
+     "Mercado común (MC)",
+     "+ libre circulación de personas, servicios y capitales",
+     "Mercado interior de la UE; objetivo del MERCOSUR y la CAN"
+    ],
+    [
+     "Unión económica y monetaria (UEM)",
+     "+ competencias económicas y monetarias; moneda común",
+     "Euro y BCE; CEA para 2028"
+    ]
+   ]
+  },
+  {
+   "titulo": "Vías de la OMC para los ACR",
+   "fuente": "Segura Serrano",
+   "columnas": [
+    "Vía",
+    "Ámbito",
+    "Rasgos"
+   ],
+   "filas": [
+    [
+     "Art. XXIV GATT (+ Entendimiento 1994)",
+     "Mercancías",
+     "Párrs. 5 y 8; notificación; plazo de 10 años; CACR y OSD"
+    ],
+    [
+     "Art. V GATS",
+     "Servicios",
+     "Más flexible para PVD; notificación al Consejo del Comercio de Servicios"
+    ],
+    [
+     "Cláusula de Habilitación (1979)",
+     "Trato preferencial entre PVD",
+     "Más flexible; vía preferida (MERCOSUR)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Técnicas del mercado interior de la UE",
+   "fuente": "Segura Serrano",
+   "columnas": [
+    "Técnica",
+    "Contenido",
+    "Fuente"
+   ],
+   "filas": [
+    [
+     "Negativa",
+     "Prohibir las restricciones; efecto equivalente amplio; efecto directo",
+     "Jurisprudencia del TJUE"
+    ],
+    [
+     "Positiva (armonización)",
+     "Norma común; tras el Acta Única, mínimos y mayoría",
+     "Directivas"
+    ],
+    [
+     "Reconocimiento mutuo",
+     "Admitir lo legalmente comercializado en otro Estado; límite de la equivalencia",
+     "Cassis de Dijon (1979)"
+    ]
+   ]
+  },
+  {
+   "titulo": "TLCAN vs ALC de ASEAN",
+   "fuente": "Segura Serrano",
+   "columnas": [
+    "",
+    "TLCAN",
+    "ALC de ASEAN"
+   ],
+   "filas": [
+    [
+     "Origen",
+     "En vigor el 1/01/1994",
+     "Declaración de Singapur (1992)"
+    ],
+    [
+     "Mercancías",
+     "TN; hasta 15 años; reglas de origen",
+     "CEPT: 0-5 %; sin agro; eliminación en 2010"
+    ],
+    [
+     "Otros",
+     "Servicios, inversiones, PI, acuerdos paralelos",
+     "Servicios (1995) e inversiones (1998) más tardíos"
+    ],
+    [
+     "Controversias",
+     "Muy desarrolladas (caps. XI, XIX, XX)",
+     "Recién en 1996/2004"
+    ]
+   ]
+  }
+ ],
+ "esquemas": [
+  {
+   "titulo": "Control de un ACR en la OMC",
+   "fuente": "Segura Serrano",
+   "pasos": [
+    "Notificación (en la práctica, ex post facto)",
+    "Plan y programa: plazo razonable de 10 años",
+    "Examen en el CACR (desde 1996), sin consenso",
+    "Sin decisión → presunción de validez",
+    "Posible control del OSD (Turquía-Textiles)",
+    "Mejora procesal: Mecanismo de Transparencia (2006)"
+   ]
+  }
+ ],
+ "lineaDeTiempo": [
+  {
+   "fecha": "1947",
+   "texto": "GATT 1947",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "1961",
+   "texto": "Teoría de Balassa",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "1969",
+   "texto": "Acuerdo de Cartagena",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "1979",
+   "texto": "Cláusula de Habilitación / Cassis de Dijon",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "1988",
+   "texto": "Directiva 88/361",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "1989",
+   "texto": "Tratado de Libre Cambio Canadá-EE. UU.",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "1991",
+   "texto": "Tratado de Asunción / Tratado de Abuya",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "1992",
+   "texto": "Declaración de Singapur",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "1994",
+   "texto": "TLCAN / Entendimiento sobre el art. XXIV",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "1996",
+   "texto": "CACR / Protocolo de Trujillo / Protocolo de Manila",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "1999",
+   "texto": "Turquía-Textiles / India-Restricciones / Argentina-Calzado",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "2003",
+   "texto": "Protocolo de Enmienda CEPT / Bali II",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "2004",
+   "texto": "Acuerdo Mejorado de solución de controversias de ASEAN",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "2006",
+   "texto": "Mecanismo de Transparencia / CAFTA-RD",
+   "fuente": "Segura Serrano"
+  },
+  {
+   "fecha": "2008",
+   "texto": "230 ACR en vigor (según el texto)",
+   "fuente": "Segura Serrano"
+  }
+ ],
+ "items": [
+  {
+   "id": "u08-f01",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se veía a los ACR al crearse el GATT y quién relativizó esa visión?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Se los consideraba positivamente (de ahí el art. XXIV del GATT). Jacob Viner fue el primero en distinguir entre los efectos de creación y de desviación de comercio, por lo que no todos los acuerdos serían igual de beneficiosos.",
+   "explicacion": "La doctrina económica mayoritaria sostiene hoy que, en general, los ACR desvían más comercio del que crean."
+  },
+  {
+   "id": "u08-f02",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué porción del comercio mundial se hace bajo regímenes preferenciales?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "Dos tercios del comercio mundial se hace en el marco de algún régimen preferencial o regional; solo un tercio, bajo la regla básica de la NMF (según el texto, 2010).",
+   "explicacion": "Por eso la constatación de Viner es tan reveladora."
+  },
+  {
+   "id": "u08-f03",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué incluyó la segunda ola del regionalismo en los años 90?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Los acuerdos de la UE con los Estados del Este europeo (que luego se adhirieron), el TLCAN, el MERCOSUR, el ALC de ASEAN y el regionalismo 'aditivo' (Chile, México y Singapur firmando acuerdos con sus socios principales).",
+   "explicacion": "Es la base del 'nuevo regionalismo'."
+  },
+  {
+   "id": "u08-f04",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuántos ACR había según Segura Serrano?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Se notificaron 324 por el art. XXIV del GATT, 68 por el art. V del GATS y 29 por la Cláusula de Habilitación; en diciembre de 2008 había 230 en vigor, y la OMC esperaba unos 400 para 2010 (según el texto, 2010). Las ZLC y los acuerdos de alcance parcial son el 90 %; las uniones aduaneras, el 10 %.",
+   "explicacion": "Cifras con fecha: citalas como 'según el texto (2010)'."
+  },
+  {
+   "id": "u08-f05",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué tendencia hay en los acuerdos Norte-Sur?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Muchos PVD optaron por acuerdos basados en la reciprocidad y abandonaron los preferenciales no recíprocos del tipo SPG; en menor medida crecen también los acuerdos Sur-Sur.",
+   "explicacion": "El regionalismo está en auge, como 'mega bloques continentales' o como ejes globales con múltiples radios."
+  },
+  {
+   "id": "u08-f06",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es el regionalismo 'spaghetti'?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "La proliferación de acuerdos extrarregionales (sobre todo bilaterales) o interregionales, desvinculados de la dinámica propiamente regional (Bhagwati y Panagariya). También se lo llama transcontinentalismo bilateral.",
+   "explicacion": "A los Estados les atraen por su flexibilidad y para ganar mercados estratégicos."
+  },
+  {
+   "id": "u08-f07",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "flashcard",
+   "pregunta": "¿Por qué resurge el regionalismo según Segura Serrano?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Por los problemas de la Ronda de Doha, que llevan a profundizar las relaciones regionales; porque los ACR pueden incluir materias 'OMC-plus' (competencia, compras públicas, propiedad intelectual, inversiones) y porque aseguran políticas internas (como la participación de México en el TLCAN).",
+   "explicacion": "Los ACR pueden alcanzar gran sofisticación, con liberalización efectiva de servicios."
+  },
+  {
+   "id": "u08-f08",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué efectos positivos atribuye parte de la doctrina a los acuerdos Sur-Sur?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Más allá del modelo vineriano, preparan a los PVD para la integración global y tienen efectos de transferencia de tecnología y reforma de la gobernanza (Close, 2006).",
+   "explicacion": "La doctrina económica no es uniforme en su evaluación."
+  },
+  {
+   "id": "u08-f09",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué debate sistémico plantean los ACR?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Si funcionan como 'elementos básicos' (building blocks) o como 'escollos' (stumbling blocks) para la apertura multilateral (Sutherland, 2004).",
+   "explicacion": "A favor: su efecto combinado se acerca a la plena liberalización (Deardoff y Stern). En contra: erosionan la NMF y generan regímenes que perjudican la transparencia y la seguridad."
+  },
+  {
+   "id": "u08-f10",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se resuelven los conflictos jurídicos entre el sistema OMC y los acuerdos preferenciales?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Acudiendo a las reglas del derecho internacional general (Pauwelyn, 2009; Mitchell y Voon, 2009).",
+   "explicacion": "La proliferación exige ese esfuerzo de coordinación."
+  },
+  {
+   "id": "u08-f11",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué teoría económica fija las formas de integración?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "La de Balassa (1961): formas o fases que denotan una voluntad creciente de integración.",
+   "explicacion": "ZLC → UA → MC → UEM."
+  },
+  {
+   "id": "u08-f12",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es una zona de libre comercio (ZLC)?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "La que persigue eliminar los obstáculos arancelarios entre sus miembros, sin un arancel externo común.",
+   "explicacion": "Cada miembro conserva su arancel frente a terceros; de ahí las reglas de origen (TLCAN, caps. IV y V)."
+  },
+  {
+   "id": "u08-f13",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué agrega una unión aduanera (UA) a la ZLC?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "El establecimiento de un arancel externo común (AEC).",
+   "explicacion": "El TLCAN no prevé una UA; la UE sí es una UA (arancel aduanero común y Código Aduanero)."
+  },
+  {
+   "id": "u08-f14",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué agrega un mercado común (MC) a la UA?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Un conjunto de libertades de circulación de los factores productivos que, además de las mercancías, incluye a las personas, los servicios y los capitales.",
+   "explicacion": "Ojo: MC aquí es 'mercado común', no el Mecanismo Complementario del CIADI."
+  },
+  {
+   "id": "u08-f15",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué implica una unión económica y monetaria (UEM)?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "La transferencia a la organización regional de las competencias económicas y monetarias, y puede llevar a una moneda común.",
+   "explicacion": "En la UE, la unión monetaria creó el euro y el BCE."
+  },
+  {
+   "id": "u08-f16",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué normas de la OMC regulan los ACR?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "El art. XXIV del GATT (y el Entendimiento sobre su interpretación de 1994), el art. V del GATS y la Cláusula de Habilitación de 1979.",
+   "explicacion": "Son excepciones a la regla de la NMF."
+  },
+  {
+   "id": "u08-f17",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "flashcard",
+   "pregunta": "¿El art. XXIV del GATT solo cubre ZLC y UA?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Al principio se pensó en una excepción solo para las UA, pero se incluyeron también las ZLC. Aunque solo menciona a ambas, quedan incluidas formas más elaboradas, como el MC y la UEM.",
+   "explicacion": "Es una excepción a la NMF."
+  },
+  {
+   "id": "u08-f18",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué inspiración tienen los criterios materiales del art. XXIV?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Una clara inspiración vineriana: buscan que los ACR no desvíen más comercio del que crean.",
+   "explicacion": "El párr. 4 (desviación no superior a la creación) fue interpretado por la UE y EE. UU. ignorando esa inspiración."
+  },
+  {
+   "id": "u08-f19",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué exige el párr. 5 del art. XXIV respecto de terceros?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Que los derechos de aduana y demás reglamentaciones comerciales aplicables a terceros no sean, en conjunto, de una incidencia general más elevada que los anteriores a la creación del ACR.",
+   "explicacion": "El Entendimiento (párr. 2) fijó como referencia los 'tipos aplicados' antes y después del ACR."
+  },
+  {
+   "id": "u08-f20",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué exige el párr. 8 del art. XXIV entre las partes?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "Que los derechos de aduana y demás reglamentaciones comerciales se eliminen respecto de 'lo esencial de los intercambios' entre ellas.",
+   "explicacion": "Es el estándar interno."
+  },
+  {
+   "id": "u08-f21",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se interpreta 'lo esencial de los intercambios'?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "mnemotecnia"
+   ],
+   "respuesta": "Con criterios cuantitativos (80 % del comercio) y cualitativos (no excluir sectores comerciales enteros, según el Preámbulo del Entendimiento). El ACR no tiene que abarcar todo el comercio (Turquía-Textiles, WT/DS34/AB/R, 22/10/1999).",
+   "explicacion": "Ayuda para memorizar: '80 y sin sectores enteros afuera'."
+  },
+  {
+   "id": "u08-f22",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "flashcard",
+   "pregunta": "¿La lista entre paréntesis del párr. 8 ('demás reglamentaciones comerciales') es exhaustiva?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Parece que no: así lo indican Argentina-Calzado (WT/DS121/AB/R, 14/12/1999) y EE. UU.-Gluten de trigo (WT/DS166/R, 31/07/2000).",
+   "explicacion": "También se discute si incluye cargas fiscales."
+  },
+  {
+   "id": "u08-f23",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuál es el requisito procesal del art. XXIV?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "La notificación previa del ACR, con un plan y un programa para establecerlo en un plazo razonable (art. XXIV.5.c), que el Entendimiento (párr. 3) fija en 10 años. Da lugar a su examen.",
+   "explicacion": "Art. XXIV.7 y párrs. 7 a 10 del Entendimiento."
+  },
+  {
+   "id": "u08-f24",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es el CACR y por qué se creó?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "El Comité de Acuerdos Comerciales Regionales, que desde 1996 centraliza el examen de los ACR, antes hecho por un grupo de trabajo ad hoc para cada acuerdo, lo que complicaba mucho la fiscalización.",
+   "explicacion": "No ha habido consenso en el CACR sobre la licitud de los acuerdos."
+  },
+  {
+   "id": "u08-f25",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué problemas tiene el control del CACR?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Permanente desacuerdo sobre los estándares; la UE y EE. UU. evitaron una evaluación estrictamente económica del párr. 4; se impone la notificación ex post facto, contra la lógica; y, a falta de decisión del CACR, el acuerdo se beneficia de una presunción de validez.",
+   "explicacion": "De ahí la 'inoperatividad' del art. XXIV."
+  },
+  {
+   "id": "u08-f26",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "flashcard",
+   "pregunta": "¿Puede el OSD controlar la licitud de un ACR?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Sí. Aunque algunos Estados alegaron que el control es político y no justiciable (India, rechazada por el Órgano de Apelación en India-Restricciones cuantitativas, WT/DS90/AB/R, 23/08/1999), el Entendimiento sobre el art. XXIV consagra la revisión por los paneles y el Órgano de Apelación.",
+   "explicacion": "Puede haber confrontación entre el control del CACR y el del OSD, sin previsiones para resolverla."
+  },
+  {
+   "id": "u08-f27",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "flashcard",
+   "pregunta": "Turquía-Textiles: ¿qué dos condiciones fijó el Órgano de Apelación para invocar el art. XXIV como defensa?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "1) Que la medida se haya introducido al establecer una unión aduanera que cumple plenamente los párrs. 8.a y 5.a del art. XXIV; 2) que, sin esa medida, se impediría el establecimiento de la unión aduanera. Ambas deben cumplirse.",
+   "explicacion": "Turquía-Textiles, WT/DS34/AB/R, § 58."
+  },
+  {
+   "id": "u08-f28",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué adoptó la Ronda de Doha sobre los ACR?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "El Mecanismo de Transparencia para los ACR (WT/L/671, 18/12/2006), con mejoras procesales para su control.",
+   "explicacion": "Es fruto de la inoperatividad del art. XXIV."
+  },
+  {
+   "id": "u08-f29",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué prevé el art. V del GATS?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Requisitos para los acuerdos de integración en servicios, con más flexibilidad si es una integración de PVD; exige la notificación al Consejo del Comercio de Servicios, que puede crear un grupo de trabajo para evaluar su compatibilidad.",
+   "explicacion": "Es la vía del comercio de servicios."
+  },
+  {
+   "id": "u08-f30",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es la Cláusula de Habilitación y por qué la prefieren los Estados?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Adoptada en el GATT en 1979 (L/4905, 28/11/1979), permite el trato preferencial entre PVD con una regulación más flexible que el art. XXIV; por eso los Estados la usan preponderantemente para homologar sus ACR.",
+   "explicacion": "Pasó con el MERCOSUR, aunque por las protestas su examen incluye también el art. XXIV."
+  },
+  {
+   "id": "u08-f31",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué lugar ocupa la UE entre los ACR?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "El Tratado de Roma (CEE) fue el primer ACR notificado al GATT, y hoy la UE es el ACR más avanzado en objetivos e instrumentos.",
+   "explicacion": "Tres núcleos de competencias económicas: mercado común, UEM y cohesión económica y social."
+  },
+  {
+   "id": "u08-f32",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo define el art. 26 TFUE el mercado interior?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Como 'el espacio sin fronteras interiores en el que la libre circulación de mercancías, personas, servicios y capitales estará garantizada'. Se completa con la política comercial común, su vertiente externa.",
+   "explicacion": "La política comercial común permitió a la UE celebrar acuerdos (Espacio Económico Europeo) y formar parte de la OMC."
+  },
+  {
+   "id": "u08-f33",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué hace de la UE una unión aduanera?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "La libre circulación de mercancías: prohíbe entre los miembros los derechos de aduana y las exacciones de efecto equivalente, e instaura un arancel aduanero común y un Código Aduanero. Además prohíbe los obstáculos no arancelarios.",
+   "explicacion": "Los obstáculos técnicos son hoy el principal escollo del mercado interior."
+  },
+  {
+   "id": "u08-f34",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo interpretó el TJUE las 'medidas de efecto equivalente'?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "De manera muy amplia: casi toda medida imputable a una autoridad nacional que impida la libre circulación vulnera el mercado interior.",
+   "explicacion": "Sirve para combatir los obstáculos técnicos."
+  },
+  {
+   "id": "u08-f35",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué derechos da la libre circulación de personas?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Derechos de movilidad (entrada, residencia, permanencia y salida), acceso y ejercicio de una actividad en igualdad con los nacionales, y las mismas condiciones de trabajo y ventajas sociales y fiscales, más los derechos sindicales y de formación.",
+   "explicacion": "Se basa en la igualdad de trato."
+  },
+  {
+   "id": "u08-f36",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿En qué se diferencian el derecho de establecimiento y la libre prestación de servicios?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "En el establecimiento hay instalación en otro Estado para ejercer una actividad independiente, en igualdad con los nacionales. En la libre prestación no hay instalación física en el Estado de destino y la prestación es temporal, sin ánimo de continuidad.",
+   "explicacion": "Ambas son modalidades de la libre circulación de servicios."
+  },
+  {
+   "id": "u08-f37",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se desarrolló la libre circulación de capitales en la UE?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Fue la última en desarrollarse: los pagos corrientes se liberalizaron desde el principio, pero los capitales en sentido estricto recién con la Directiva 88/361, tras el Acta Única, y en el Tratado desde 1992. Hoy es completa, también frente a terceros Estados.",
+   "explicacion": "Conecta con la U7 (art. 63 TFUE)."
+  },
+  {
+   "id": "u08-f38",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué efecto tuvieron la interpretación amplia y el efecto directo de las libertades?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "La técnica negativa de prohibir las restricciones tuvo un gran efecto liberalizador, y el efecto directo permitió a los particulares invocar las libertades ante los jueces nacionales. Aun así, el mercado interior sigue siendo una meta por alcanzar.",
+   "explicacion": "Persisten muchas restricciones nacionales."
+  },
+  {
+   "id": "u08-f39",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuándo pueden mantenerse medidas nacionales que obstaculizan la libre circulación?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Cuando hay un motivo de interés general (orden público, seguridad pública, salud y vida de las personas, medio ambiente, derechos de los consumidores), aun si son discriminatorias.",
+   "explicacion": "Es el límite de la técnica negativa."
+  },
+  {
+   "id": "u08-f40",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo cambió la armonización con el Acta Única?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Antes era completa y detallada y se votaba por unanimidad, lo que la hacía muy lenta. Con el Acta Única se limitó a lo mínimo (directivas generales con los requisitos fundamentales, más las normas técnicas de los institutos europeos de normalización) y se votó por mayoría.",
+   "explicacion": "La armonización es la técnica positiva."
+  },
+  {
+   "id": "u08-f41",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué estableció Cassis de Dijon (TJUE, 20/02/1979)?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "El reconocimiento mutuo: todo producto legalmente producido y comercializado en un Estado miembro debe ser admitido en el mercado de cualquier otro. Luego se extendió a personas y servicios.",
+   "explicacion": "Límite: si el Estado de origen no protege el interés general de forma equivalente, el de destino puede aplicar su propia normativa."
+  },
+  {
+   "id": "u08-f42",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué diferencia hay entre la unión económica y la unión monetaria en la UE?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "La unión económica no transfirió realmente competencias: los Estados retienen lo esencial de sus políticas económicas (cooperación intergubernamental). La monetaria sí: creó el euro (16 Estados, la Eurozona, según el texto, 2010) y transfirió todas las competencias al BCE.",
+   "explicacion": "Ojo con la diferencia de grado."
+  },
+  {
+   "id": "u08-f43",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es la cohesión económica y social de la UE?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "El tercer ámbito de competencias, que busca redistribuir territorialmente la riqueza, sin un programa ni meta jurídicamente vinculante. Su instrumento son los fondos estructurales: FEDER, FSE, FEADER, FEP y Fondo de Cohesión.",
+   "explicacion": "No es comparable a los otros dos ámbitos."
+  },
+  {
+   "id": "u08-f44",
+   "unidad": 8,
+   "tema": "MERCOSUR",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es el MERCOSUR según Segura Serrano?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "La experiencia latinoamericana de integración más conseguida. Lo integran Argentina, Brasil, Paraguay y Uruguay, con Venezuela adherida aunque no plenamente (según el texto, 2010). Lo creó el Tratado de Asunción (1991).",
+   "explicacion": "Buscaba un mercado común al final de un período transitorio que terminó el 31/12/1994."
+  },
+  {
+   "id": "u08-f45",
+   "unidad": 8,
+   "tema": "MERCOSUR",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué objetivos fija el art. 1 del Tratado de Asunción?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "La libre circulación de factores productivos, incluidos bienes y servicios; un arancel externo común; una política comercial común frente a terceros, y la coordinación de políticas macroeconómicas.",
+   "explicacion": "Objetivo de mercado común."
+  },
+  {
+   "id": "u08-f46",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es el TLCAN y cuándo entró en vigor?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "respuesta": "Una zona de libre cambio muy ambiciosa entre Canadá, Estados Unidos y México, en vigor desde el 1/01/1994, negociada en paralelo a la Ronda Uruguay e impulsada por EE. UU. No persigue la integración económica más allá de la ZLC.",
+   "explicacion": "Parte del Tratado de Libre Cambio Canadá-EE. UU. de 1989."
+  },
+  {
+   "id": "u08-f47",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué materias abarca el TLCAN además de las mercancías?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Servicios (incluidos transportes, financieros y telecomunicaciones), propiedad intelectual, compras públicas y competencia (coordinación incipiente). Limita la circulación de personas a profesionales y personas de negocios.",
+   "explicacion": "El Anexo 1603 solo permite la entrada temporal."
+  },
+  {
+   "id": "u08-f48",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué sistemas de solución de controversias tiene el TLCAN?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Un mecanismo general ante la Comisión de Libre Comercio, que puede llevar a un panel arbitral (cap. XX); uno de inversiones en el que un particular puede demandar a un Estado parte (cap. XI, sección B), y otro de antidumping y compensatorias con paneles binacionales (cap. XIX).",
+   "explicacion": "Está bastante desarrollado."
+  },
+  {
+   "id": "u08-f49",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo regula el TLCAN las mercancías?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Libre circulación completa con trato nacional (arts. 301-302); eliminación de aranceles en un período transitorio breve (hasta 15 años para los productos más sensibles); prohibición de restricciones no arancelarias (art. 309); reglas de origen (caps. IV y V) y sin unión aduanera.",
+   "explicacion": "En agricultura, elimina los aranceles para alrededor del 50 % de los productos desde el principio."
+  },
+  {
+   "id": "u08-f50",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo regula el TLCAN los servicios transfronterizos?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Trato nacional y NMF (arts. 1202-1203); prohíbe exigir residencia u oficinas (art. 1205), aunque se pueden mantener licencias o certificaciones que no sean barreras innecesarias (art. 1210).",
+   "explicacion": "El establecimiento se rige por el régimen de inversiones."
+  },
+  {
+   "id": "u08-f51",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo regula el TLCAN las inversiones?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Cap. XI: trato nacional y NMF (arts. 1102-1103), prohibición de requisitos de nacionalidad o desempeño, y un nivel mínimo de trato justo y equitativo y de protección y seguridad plenas (art. 1105), trasladado incluso al arbitraje CIADI (CMS, Azurix).",
+   "explicacion": "Conecta con la U7."
+  },
+  {
+   "id": "u08-f52",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué dice el TLCAN sobre los obstáculos técnicos (cap. IX)?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Busca eliminar las barreras innecesarias con trato nacional y NMF, pero reconoce el derecho a adoptar medidas de seguridad, salud, ambiente o consumidor y a fijar su nivel de protección (art. 904); prevé reconocimiento mutuo por equivalencia (906), evaluación del riesgo (907) y de la conformidad (908).",
+   "explicacion": "Para Segura Serrano, esto favorece la implantación de los estándares técnicos de EE. UU."
+  },
+  {
+   "id": "u08-f53",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué son los acuerdos paralelos del TLCAN?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "El Acuerdo de Cooperación Ambiental y el Acuerdo de Cooperación Laboral, negociados después por preocupaciones de EE. UU.; buscan evitar una competencia reguladora a la baja para atraer inversiones. Crean comisiones con un rol cuasijudicial.",
+   "explicacion": "Entraron en vigor en la misma fecha que el TLCAN."
+  },
+  {
+   "id": "u08-f54",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué prevé el TLCAN sobre propiedad intelectual?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Una regulación muy amplia (cap. XVII): derechos de autor, marcas, patentes, indicaciones geográficas, diseños y circuitos; obliga a prever mecanismos de defensa para los particulares (art. 1714), con una excepción cultural para Canadá (Anexo 2106).",
+   "explicacion": "Las salvaguardias son sectoriales (arts. 801-802), bilaterales y globales (art. XIX del GATT)."
+  },
+  {
+   "id": "u08-f55",
+   "unidad": 8,
+   "tema": "ASEAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo nació el ALC de ASEAN?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "En la Cuarta Cumbre de ASEAN, con la Declaración de Singapur (28/01/1992): el Acuerdo Marco para la Mejora de la Cooperación Económica (acuerdo 'paraguas') y el Acuerdo sobre el Esquema CEPT para el Área de Libre Comercio.",
+   "explicacion": "Vietnam se adhirió en 1995, Laos y Myanmar en 1997 y Camboya en 1999."
+  },
+  {
+   "id": "u08-f56",
+   "unidad": 8,
+   "tema": "ASEAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué prevé el Esquema CEPT?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Aranceles de entre el 0 y el 5 % en 15 años; incluye manufacturas y bienes de capital, sin los productos agrícolas (art. 3), con una Lista de Exclusión. El Protocolo de 2003 fijó 2010 para la eliminación total de los aranceles.",
+   "explicacion": "Es el único plan jurídicamente vinculante de integración de ASEAN."
+  },
+  {
+   "id": "u08-f57",
+   "unidad": 8,
+   "tema": "ASEAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es la fórmula 'ASEAN menos X'?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "La posibilidad de que dos o más Estados avancen más rápido, con una reducción acelerada para productos específicos.",
+   "explicacion": "El Protocolo de 2003 la llevó también a los servicios."
+  },
+  {
+   "id": "u08-f58",
+   "unidad": 8,
+   "tema": "ASEAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué flexibilidad tiene el Esquema CEPT?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Plazos más largos para los menos desarrollados; exclusión temporal de productos sensibles (art. 2.3); medidas de emergencia compatibles con el art. XIX del GATT (art. 6), y excepciones generales similares a los arts. XX y XXI del GATT (art. 9).",
+   "explicacion": "Busca una amplia participación."
+  },
+  {
+   "id": "u08-f59",
+   "unidad": 8,
+   "tema": "ASEAN",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué deficiencias tiene el ALC de ASEAN?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Limita la liberalización a los aranceles (lo no arancelario y los servicios son incipientes), tiene mucha flexibilidad y le falta una estructura institucional de control. La falta de solución de controversias se superó con el Protocolo de Manila (1996) y el Acuerdo Mejorado (2004).",
+   "explicacion": "Bali II (2003) proyecta una Comunidad ASEAN con mercado único para 2020."
+  },
+  {
+   "id": "u08-f60",
+   "unidad": 8,
+   "tema": "Otros ACR y relaciones bilaterales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es la Comunidad Andina?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "Un ACR de Bolivia, Colombia, Ecuador y Perú (Chile y Venezuela se retiraron), iniciado con el Acuerdo de Cartagena de 1969, modificado por el Protocolo de Trujillo (1996). Objetivos: ZLC (desde 1993), arancel externo común (1995) y mercado común (2001).",
+   "explicacion": "Avanzó sobre todo en la ZLC, en servicios y en la libre entrada de nacionales (pasaporte común)."
+  },
+  {
+   "id": "u08-f61",
+   "unidad": 8,
+   "tema": "Otros ACR y relaciones bilaterales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es el CAFTA-RD?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "El Tratado de Libre Comercio de Centroamérica y la República Dominicana con EE. UU. (en vigor desde 2006): una ZLC que liberaliza al inicio el 80 % de las exportaciones industriales de EE. UU., con plazos de 10 años (industria) y 20 (agro), y que incluye compras públicas, inversiones, servicios, propiedad intelectual, cláusulas laborales y ambientales.",
+   "explicacion": "Recuerda al TLCAN."
+  },
+  {
+   "id": "u08-f62",
+   "unidad": 8,
+   "tema": "Otros ACR y relaciones bilaterales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es la Comunidad Económica Africana?",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "La creada por el Tratado de Abuya (OUA, 1991, en vigor desde 1994): primero fortalece los bloques existentes (ZLC y UA) y luego crea a escala continental una UA (2019), un MC (2023) y una UEM (2028).",
+   "explicacion": "En África se superponen varios bloques comerciales."
+  },
+  {
+   "id": "u08-f63",
+   "unidad": 8,
+   "tema": "Otros ACR y relaciones bilaterales",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo evolucionaron las relaciones comerciales bilaterales?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "respuesta": "En el período de entreguerras, el proteccionismo llevaba a abrir mercados solo por acuerdos bilaterales ('tratados de amistad, comercio y navegación'). Tras la Segunda Guerra, los Estados impulsaron la vía global (Bretton Woods y La Habana → GATT 1947). Hoy los tratados bilaterales regulan aspectos parciales, como los BIT de inversiones.",
+   "explicacion": "Conecta con los antecedentes de los APPRI (U7)."
+  },
+  {
+   "id": "u08-m01",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "mcq",
+   "pregunta": "¿Quién distinguió primero entre creación y desviación de comercio?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Jacob Viner",
+    "Bela Balassa",
+    "Jagdish Bhagwati",
+    "Peter Sutherland"
+   ],
+   "correcta": "Jacob Viner",
+   "respuesta": "Jacob Viner",
+   "explicacion": "Balassa fijó las formas de integración; Bhagwati, el regionalismo 'spaghetti'; Sutherland, el debate de 'bloques o escollos'."
+  },
+  {
+   "id": "u08-m02",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "mcq",
+   "pregunta": "Según la doctrina económica mayoritaria, en general los ACR:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Desvían más comercio del que crean",
+    "Crean siempre más comercio del que desvían",
+    "No tienen efectos sobre terceros",
+    "Equivalen a la aplicación de la NMF"
+   ],
+   "correcta": "Desvían más comercio del que crean",
+   "respuesta": "Desvían más comercio del que crean",
+   "explicacion": "Por eso no todos son igualmente beneficiosos."
+  },
+  {
+   "id": "u08-m03",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "mcq",
+   "pregunta": "El regionalismo 'spaghetti' se refiere a:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "La proliferación de acuerdos extrarregionales o interregionales desvinculados de la dinámica regional",
+    "La integración profunda de vecinos",
+    "La aplicación estricta del art. XXIV",
+    "Los acuerdos de alcance parcial entre PVD"
+   ],
+   "correcta": "La proliferación de acuerdos extrarregionales o interregionales desvinculados de la dinámica regional",
+   "respuesta": "La proliferación de acuerdos extrarregionales o interregionales desvinculados de la dinámica regional",
+   "explicacion": "Bhagwati y Panagariya."
+  },
+  {
+   "id": "u08-m04",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "mcq",
+   "pregunta": "¿Qué forma de integración agrega un arancel externo común a la ZLC?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "La unión aduanera",
+    "El mercado común",
+    "La unión económica y monetaria",
+    "El acuerdo de alcance parcial"
+   ],
+   "correcta": "La unión aduanera",
+   "respuesta": "La unión aduanera",
+   "explicacion": "El MC agrega la libre circulación de factores; la UEM, las competencias económicas y monetarias."
+  },
+  {
+   "id": "u08-m05",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "mcq",
+   "pregunta": "La libre circulación de personas, servicios y capitales caracteriza a:",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "El mercado común",
+    "La zona de libre comercio",
+    "La unión aduanera",
+    "El acuerdo preferencial no recíproco"
+   ],
+   "correcta": "El mercado común",
+   "respuesta": "El mercado común",
+   "explicacion": "Escalón por encima de la UA."
+  },
+  {
+   "id": "u08-m06",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "mcq",
+   "pregunta": "El TLCAN es:",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Una zona de libre comercio",
+    "Una unión aduanera",
+    "Un mercado común",
+    "Una unión económica y monetaria"
+   ],
+   "correcta": "Una zona de libre comercio",
+   "respuesta": "Una zona de libre comercio",
+   "explicacion": "No prevé un AEC y tiene reglas de origen."
+  },
+  {
+   "id": "u08-m07",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "mcq",
+   "pregunta": "El Entendimiento sobre el art. XXIV fija el 'plazo razonable' para formar un ACR en:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "10 años",
+    "5 años",
+    "15 años",
+    "20 años"
+   ],
+   "correcta": "10 años",
+   "respuesta": "10 años",
+   "explicacion": "Párr. 3 del Entendimiento."
+  },
+  {
+   "id": "u08-m08",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "mcq",
+   "pregunta": "El estándar de 'lo esencial de los intercambios' (párr. 8 del art. XXIV) se ha interpretado como:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Un 80 % del comercio sin excluir sectores enteros",
+    "La totalidad del comercio",
+    "El 50 % del comercio",
+    "Solo los productos industriales"
+   ],
+   "correcta": "Un 80 % del comercio sin excluir sectores enteros",
+   "respuesta": "Un 80 % del comercio sin excluir sectores enteros",
+   "explicacion": "Turquía-Textiles: el ACR no tiene que abarcar todo el comercio."
+  },
+  {
+   "id": "u08-m09",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "mcq",
+   "pregunta": "El párr. 5 del art. XXIV exige que, frente a terceros, los derechos y reglamentaciones:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "No sean en conjunto de incidencia general más elevada que antes del ACR",
+    "Se eliminen totalmente",
+    "Se armonicen con la NMF",
+    "Se notifiquen al OSD"
+   ],
+   "correcta": "No sean en conjunto de incidencia general más elevada que antes del ACR",
+   "respuesta": "No sean en conjunto de incidencia general más elevada que antes del ACR",
+   "explicacion": "El Entendimiento usa los 'tipos aplicados' como referencia."
+  },
+  {
+   "id": "u08-m10",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "mcq",
+   "pregunta": "¿Desde cuándo centraliza el CACR el examen de los ACR?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Desde 1996",
+    "Desde 1947",
+    "Desde 1979",
+    "Desde 2006"
+   ],
+   "correcta": "Desde 1996",
+   "respuesta": "Desde 1996",
+   "explicacion": "Antes había un grupo de trabajo ad hoc por acuerdo."
+  },
+  {
+   "id": "u08-m11",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "mcq",
+   "pregunta": "A falta de decisión del CACR, un ACR:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Se beneficia de una presunción de validez",
+    "Se presume ilícito",
+    "Debe someterse obligatoriamente al OSD",
+    "Queda suspendido"
+   ],
+   "correcta": "Se beneficia de una presunción de validez",
+   "respuesta": "Se beneficia de una presunción de validez",
+   "explicacion": "Por la falta de consenso en el CACR."
+  },
+  {
+   "id": "u08-m12",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "mcq",
+   "pregunta": "En Turquía-Textiles, el Órgano de Apelación exigió para invocar el art. XXIV:",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "opciones": [
+    "Que la medida se introduzca al formar una UA que cumpla los párrs. 8.a y 5.a, y que sin ella se impida la UA",
+    "Solo que exista un ACR notificado",
+    "La aprobación previa del CACR",
+    "Que la medida beneficie a terceros"
+   ],
+   "correcta": "Que la medida se introduzca al formar una UA que cumpla los párrs. 8.a y 5.a, y que sin ella se impida la UA",
+   "respuesta": "Que la medida se introduzca al formar una UA que cumpla los párrs. 8.a y 5.a, y que sin ella se impida la UA",
+   "explicacion": "Ambas condiciones son acumulativas."
+  },
+  {
+   "id": "u08-m13",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "mcq",
+   "pregunta": "En India-Restricciones cuantitativas, el Órgano de Apelación:",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "opciones": [
+    "Rechazó que el control de los ACR fuera político y no justiciable",
+    "Declaró ilícito el MERCOSUR",
+    "Creó el CACR",
+    "Aplicó la Cláusula de Habilitación"
+   ],
+   "correcta": "Rechazó que el control de los ACR fuera político y no justiciable",
+   "respuesta": "Rechazó que el control de los ACR fuera político y no justiciable",
+   "explicacion": "El Entendimiento permite la revisión por los paneles y el OA."
+  },
+  {
+   "id": "u08-m14",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "mcq",
+   "pregunta": "La vía más flexible para homologar un ACR entre PVD es:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "La Cláusula de Habilitación (1979)",
+    "El art. XXIV del GATT",
+    "El art. V del GATS",
+    "El Mecanismo de Transparencia de 2006"
+   ],
+   "correcta": "La Cláusula de Habilitación (1979)",
+   "respuesta": "La Cláusula de Habilitación (1979)",
+   "explicacion": "Por eso se usó con el MERCOSUR."
+  },
+  {
+   "id": "u08-m15",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "mcq",
+   "pregunta": "El Mecanismo de Transparencia para los ACR (2006) introdujo:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Mejoras procesales en el control de los ACR",
+    "La prohibición de nuevos ACR",
+    "El arancel externo común obligatorio",
+    "La revisión judicial de todos los ACR"
+   ],
+   "correcta": "Mejoras procesales en el control de los ACR",
+   "respuesta": "Mejoras procesales en el control de los ACR",
+   "explicacion": "Fruto de la Ronda de Doha."
+  },
+  {
+   "id": "u08-m16",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "mcq",
+   "pregunta": "El primer ACR notificado al GATT fue:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "El Tratado de Roma (CEE)",
+    "El TLCAN",
+    "El Tratado de Asunción",
+    "El Acuerdo de Cartagena"
+   ],
+   "correcta": "El Tratado de Roma (CEE)",
+   "respuesta": "El Tratado de Roma (CEE)",
+   "explicacion": "Hoy la UE es el ACR más avanzado."
+  },
+  {
+   "id": "u08-m17",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "mcq",
+   "pregunta": "Cassis de Dijon (1979) consagró:",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "El reconocimiento mutuo de productos legalmente comercializados en otro Estado miembro",
+    "La armonización completa por unanimidad",
+    "El efecto directo de las directivas",
+    "La unión monetaria"
+   ],
+   "correcta": "El reconocimiento mutuo de productos legalmente comercializados en otro Estado miembro",
+   "respuesta": "El reconocimiento mutuo de productos legalmente comercializados en otro Estado miembro",
+   "explicacion": "Su límite es la equivalencia en la protección del interés general."
+  },
+  {
+   "id": "u08-m18",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "mcq",
+   "pregunta": "La diferencia entre la libre prestación de servicios y el establecimiento es que en la primera:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "No hay instalación física en el Estado de destino y la prestación es temporal",
+    "Solo pueden actuar personas jurídicas",
+    "Se requiere residencia permanente",
+    "No rige la igualdad de trato"
+   ],
+   "correcta": "No hay instalación física en el Estado de destino y la prestación es temporal",
+   "respuesta": "No hay instalación física en el Estado de destino y la prestación es temporal",
+   "explicacion": "En el establecimiento hay instalación con vocación de permanencia."
+  },
+  {
+   "id": "u08-m19",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "mcq",
+   "pregunta": "Con el Acta Única, la armonización en la UE pasó a:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Regular solo los requisitos fundamentales y votarse por mayoría",
+    "Ser completa y detallada",
+    "Requerir unanimidad",
+    "Ser reemplazada por el reconocimiento mutuo"
+   ],
+   "correcta": "Regular solo los requisitos fundamentales y votarse por mayoría",
+   "respuesta": "Regular solo los requisitos fundamentales y votarse por mayoría",
+   "explicacion": "Más ágil que el enfoque anterior."
+  },
+  {
+   "id": "u08-m20",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "mcq",
+   "pregunta": "En la UE, la transferencia completa de competencias se dio en:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "La unión monetaria (euro y BCE)",
+    "La unión económica",
+    "La cohesión económica y social",
+    "La política de competencia de los Estados"
+   ],
+   "correcta": "La unión monetaria (euro y BCE)",
+   "respuesta": "La unión monetaria (euro y BCE)",
+   "explicacion": "La unión económica es más bien intergubernamental."
+  },
+  {
+   "id": "u08-m21",
+   "unidad": 8,
+   "tema": "MERCOSUR",
+   "tipo": "mcq",
+   "pregunta": "El MERCOSUR fue creado por:",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "El Tratado de Asunción (1991)",
+    "El Tratado de Roma",
+    "El Protocolo de Colonia (1994)",
+    "El Acuerdo de Cartagena (1969)"
+   ],
+   "correcta": "El Tratado de Asunción (1991)",
+   "respuesta": "El Tratado de Asunción (1991)",
+   "explicacion": "Colonia es el protocolo de inversiones (U7); Cartagena, la CAN."
+  },
+  {
+   "id": "u08-m22",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "mcq",
+   "pregunta": "El TLCAN entró en vigor el:",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "opciones": [
+    "1 de enero de 1994",
+    "1 de enero de 1989",
+    "1 de enero de 1995",
+    "31 de diciembre de 1994"
+   ],
+   "correcta": "1 de enero de 1994",
+   "respuesta": "1 de enero de 1994",
+   "explicacion": "El Tratado Canadá-EE. UU. es de 1989."
+  },
+  {
+   "id": "u08-m23",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "mcq",
+   "pregunta": "En el TLCAN, un particular puede demandar a un Estado parte en materia de:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Inversiones (cap. XI, sección B)",
+    "Antidumping (cap. XIX)",
+    "Servicios transfronterizos",
+    "Propiedad intelectual (cap. XVII)"
+   ],
+   "correcta": "Inversiones (cap. XI, sección B)",
+   "respuesta": "Inversiones (cap. XI, sección B)",
+   "explicacion": "El cap. XIX usa paneles binacionales."
+  },
+  {
+   "id": "u08-m24",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "mcq",
+   "pregunta": "Los acuerdos paralelos del TLCAN son:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "El de Cooperación Ambiental y el de Cooperación Laboral",
+    "Los de servicios financieros y telecomunicaciones",
+    "Los de antidumping y salvaguardias",
+    "Los de propiedad intelectual y compras públicas"
+   ],
+   "correcta": "El de Cooperación Ambiental y el de Cooperación Laboral",
+   "respuesta": "El de Cooperación Ambiental y el de Cooperación Laboral",
+   "explicacion": "Buscan evitar una competencia reguladora a la baja."
+  },
+  {
+   "id": "u08-m25",
+   "unidad": 8,
+   "tema": "ASEAN",
+   "tipo": "mcq",
+   "pregunta": "El Esquema CEPT de ASEAN excluye expresamente:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Los productos agrícolas",
+    "Las manufacturas",
+    "Los bienes de capital",
+    "Los productos de los nuevos miembros"
+   ],
+   "correcta": "Los productos agrícolas",
+   "respuesta": "Los productos agrícolas",
+   "explicacion": "Art. 3 del Acuerdo CEPT."
+  },
+  {
+   "id": "u08-m26",
+   "unidad": 8,
+   "tema": "ASEAN",
+   "tipo": "mcq",
+   "pregunta": "El Protocolo de Enmienda de 2003 fijó para la eliminación total de aranceles en ASEAN el año:",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "2010",
+    "2020",
+    "2015",
+    "1995"
+   ],
+   "correcta": "2010",
+   "respuesta": "2010",
+   "explicacion": "2020 es la meta del mercado único (Bali II)."
+  },
+  {
+   "id": "u08-m27",
+   "unidad": 8,
+   "tema": "Otros ACR y relaciones bilaterales",
+   "tipo": "mcq",
+   "pregunta": "¿Qué países se retiraron de la Comunidad Andina?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Chile y Venezuela",
+    "Bolivia y Perú",
+    "Colombia y Ecuador",
+    "Argentina y Brasil"
+   ],
+   "correcta": "Chile y Venezuela",
+   "respuesta": "Chile y Venezuela",
+   "explicacion": "Hoy la integran Bolivia, Colombia, Ecuador y Perú."
+  },
+  {
+   "id": "u08-m28",
+   "unidad": 8,
+   "tema": "Otros ACR y relaciones bilaterales",
+   "tipo": "mcq",
+   "pregunta": "El Tratado de Abuya (1991) creó:",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "opciones": [
+    "La Comunidad Económica Africana",
+    "El COMESA",
+    "La Unión Africana",
+    "El CAFTA"
+   ],
+   "correcta": "La Comunidad Económica Africana",
+   "respuesta": "La Comunidad Económica Africana",
+   "explicacion": "Prevé una UA continental en 2019, un MC en 2023 y una UEM en 2028."
+  },
+  {
+   "id": "u08-v01",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "vf",
+   "pregunta": "Hoy la mayor parte del comercio mundial se realiza bajo la regla de la NMF.",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Dos tercios del comercio se hacen bajo algún régimen preferencial o regional; solo un tercio bajo la NMF.",
+    "Es verdadero: la NMF es la regla básica del GATT.",
+    "Es verdadero porque los ACR son excepcionales."
+   ],
+   "justificacionCorrecta": "Dos tercios del comercio se hacen bajo algún régimen preferencial o regional; solo un tercio bajo la NMF.",
+   "respuesta": "Falso. Dos tercios del comercio se hacen bajo algún régimen preferencial o regional; solo un tercio bajo la NMF.",
+   "explicacion": "Dato que muestra la erosión de la NMF."
+  },
+  {
+   "id": "u08-v02",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "vf",
+   "pregunta": "El art. XXIV del GATT solo ampara a las ZLC y a las UA, por lo que excluye al mercado común.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Aunque solo menciona ZLC y UA, es evidente que quedan incluidas formas más elaboradas, como el MC y la UEM.",
+    "Es verdadero: el MC no está previsto.",
+    "Es verdadero porque el MC se rige por el GATS."
+   ],
+   "justificacionCorrecta": "Aunque solo menciona ZLC y UA, es evidente que quedan incluidas formas más elaboradas, como el MC y la UEM.",
+   "respuesta": "Falso. Aunque solo menciona ZLC y UA, es evidente que quedan incluidas formas más elaboradas, como el MC y la UEM.",
+   "explicacion": "Al principio se pensó solo en las UA."
+  },
+  {
+   "id": "u08-v03",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "vf",
+   "pregunta": "Un ACR debe abarcar la totalidad de los intercambios entre las partes.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "No: debe abarcar 'lo esencial' (Turquía-Textiles).",
+    "Es verdadero según el párr. 8.",
+    "Es verdadero porque lo exige el Entendimiento."
+   ],
+   "justificacionCorrecta": "No: debe abarcar 'lo esencial' (Turquía-Textiles).",
+   "respuesta": "Falso. No: debe abarcar 'lo esencial' (Turquía-Textiles).",
+   "explicacion": "Criterios: 80 % y no excluir sectores enteros."
+  },
+  {
+   "id": "u08-v04",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "vf",
+   "pregunta": "En la práctica se impone la notificación de los ACR ex post facto.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Verdadero",
+   "justificaciones": [
+    "Contra la lógica del sistema, la práctica es notificar después de establecido el acuerdo.",
+    "Es falso: siempre se notifica antes.",
+    "Es falso porque no hay requisito de notificación."
+   ],
+   "justificacionCorrecta": "Contra la lógica del sistema, la práctica es notificar después de establecido el acuerdo.",
+   "respuesta": "Verdadero. Contra la lógica del sistema, la práctica es notificar después de establecido el acuerdo.",
+   "explicacion": "El art. XXIV exige la notificación previa."
+  },
+  {
+   "id": "u08-v05",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "vf",
+   "pregunta": "El control de los ACR es exclusivamente político y no puede ser revisado por los paneles.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "El Entendimiento consagra la revisión por los paneles y el OA (se rechazó la posición de India).",
+    "Es verdadero: solo lo controla el CACR.",
+    "Es verdadero según Turquía-Textiles."
+   ],
+   "justificacionCorrecta": "El Entendimiento consagra la revisión por los paneles y el OA (se rechazó la posición de India).",
+   "respuesta": "Falso. El Entendimiento consagra la revisión por los paneles y el OA (se rechazó la posición de India).",
+   "explicacion": "Puede haber confrontación entre el CACR y el OSD."
+  },
+  {
+   "id": "u08-v06",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "vf",
+   "pregunta": "La Cláusula de Habilitación es más exigente que el art. XXIV.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Es más flexible; por eso los Estados la prefieren para homologar sus ACR.",
+    "Es verdadero: exige el 100 % del comercio.",
+    "Es verdadero porque la controla el OSD."
+   ],
+   "justificacionCorrecta": "Es más flexible; por eso los Estados la prefieren para homologar sus ACR.",
+   "respuesta": "Falso. Es más flexible; por eso los Estados la prefieren para homologar sus ACR.",
+   "explicacion": "MERCOSUR la usó, aunque también se lo examina por el art. XXIV."
+  },
+  {
+   "id": "u08-v07",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "vf",
+   "pregunta": "En la UE, la libre circulación de capitales fue la primera libertad en desarrollarse.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Fue la última: los pagos corrientes se liberalizaron desde el inicio, pero los capitales recién con la Directiva 88/361 y el Tratado desde 1992.",
+    "Es verdadero: es la base del mercado común.",
+    "Es verdadero porque lo dice el Tratado de Roma."
+   ],
+   "justificacionCorrecta": "Fue la última: los pagos corrientes se liberalizaron desde el inicio, pero los capitales recién con la Directiva 88/361 y el Tratado desde 1992.",
+   "respuesta": "Falso. Fue la última: los pagos corrientes se liberalizaron desde el inicio, pero los capitales recién con la Directiva 88/361 y el Tratado desde 1992.",
+   "explicacion": "Hoy es completa, incluso frente a terceros."
+  },
+  {
+   "id": "u08-v08",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "vf",
+   "pregunta": "El reconocimiento mutuo obliga siempre al Estado de destino, aunque el de origen no proteja el interés general.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Si el Estado de origen no protege de forma equivalente el interés general, el reconocimiento mutuo no es exigible.",
+    "Es verdadero según Cassis de Dijon.",
+    "Es verdadero porque es absoluto."
+   ],
+   "justificacionCorrecta": "Si el Estado de origen no protege de forma equivalente el interés general, el reconocimiento mutuo no es exigible.",
+   "respuesta": "Falso. Si el Estado de origen no protege de forma equivalente el interés general, el reconocimiento mutuo no es exigible.",
+   "explicacion": "Ese es el límite de Cassis de Dijon."
+  },
+  {
+   "id": "u08-v09",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "vf",
+   "pregunta": "La unión económica de la UE implicó una transferencia completa de competencias.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "No: los Estados retienen lo esencial de sus políticas económicas; la transferencia completa se dio en la unión monetaria.",
+    "Es verdadero: la ejerce el BCE.",
+    "Es verdadero porque creó el euro."
+   ],
+   "justificacionCorrecta": "No: los Estados retienen lo esencial de sus políticas económicas; la transferencia completa se dio en la unión monetaria.",
+   "respuesta": "Falso. No: los Estados retienen lo esencial de sus políticas económicas; la transferencia completa se dio en la unión monetaria.",
+   "explicacion": "Confusable unión económica vs unión monetaria."
+  },
+  {
+   "id": "u08-v10",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "vf",
+   "pregunta": "El TLCAN establece la libre circulación de personas.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Solo permite la entrada temporal de personas de negocios y profesionales (Anexo 1603).",
+    "Es verdadero como mercado común.",
+    "Es verdadero según el art. 1205."
+   ],
+   "justificacionCorrecta": "Solo permite la entrada temporal de personas de negocios y profesionales (Anexo 1603).",
+   "respuesta": "Falso. Solo permite la entrada temporal de personas de negocios y profesionales (Anexo 1603).",
+   "explicacion": "No persigue la integración más allá de la ZLC."
+  },
+  {
+   "id": "u08-v11",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "vf",
+   "pregunta": "El TLCAN prevé una unión aduanera entre sus miembros.",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "No prevé una UA, y además la dificultan los tratados que cada miembro celebró con terceros; por eso tiene reglas de origen.",
+    "Es verdadero: tiene un arancel externo común.",
+    "Es verdadero desde 1994."
+   ],
+   "justificacionCorrecta": "No prevé una UA, y además la dificultan los tratados que cada miembro celebró con terceros; por eso tiene reglas de origen.",
+   "respuesta": "Falso. No prevé una UA, y además la dificultan los tratados que cada miembro celebró con terceros; por eso tiene reglas de origen.",
+   "explicacion": "Es una ZLC."
+  },
+  {
+   "id": "u08-v12",
+   "unidad": 8,
+   "tema": "ASEAN",
+   "tipo": "vf",
+   "pregunta": "El ALC de ASEAN nació con un sistema de solución de controversias.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Al principio no lo tenía; se superó con el Protocolo de Manila de 1996 y el Acuerdo Mejorado de 2004.",
+    "Es verdadero: lo creó la Declaración de Singapur.",
+    "Es verdadero porque usa el OSD."
+   ],
+   "justificacionCorrecta": "Al principio no lo tenía; se superó con el Protocolo de Manila de 1996 y el Acuerdo Mejorado de 2004.",
+   "respuesta": "Falso. Al principio no lo tenía; se superó con el Protocolo de Manila de 1996 y el Acuerdo Mejorado de 2004.",
+   "explicacion": "El Acuerdo de 2004 sigue el modelo de la OMC."
+  },
+  {
+   "id": "u08-v13",
+   "unidad": 8,
+   "tema": "Otros ACR y relaciones bilaterales",
+   "tipo": "vf",
+   "pregunta": "La Comunidad Andina se inició con el Acuerdo de Cartagena de 1969.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Verdadero",
+   "justificaciones": [
+    "Sí, modificado por el Protocolo de Trujillo de 1996.",
+    "Es falso: nació con el Tratado de Asunción.",
+    "Es falso: nació en 2001."
+   ],
+   "justificacionCorrecta": "Sí, modificado por el Protocolo de Trujillo de 1996.",
+   "respuesta": "Verdadero. Sí, modificado por el Protocolo de Trujillo de 1996.",
+   "explicacion": "El mercado común se persigue desde 2001."
+  },
+  {
+   "id": "u08-c01",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "caso",
+   "pregunta": "¿Puede justificarse la medida en el art. XXIV? ¿Qué debe probar quien la invoca?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "relato": "Dos miembros de la OMC forman una unión aduanera. Al hacerlo, uno de ellos impone restricciones cuantitativas a textiles de terceros países, alegando que si no lo hiciera no podría armonizar su régimen con el de su socio. Un tercer país demanda ante el OSD.",
+   "respuesta": "Según Turquía-Textiles (OA, 1999), el art. XXIV puede servir de defensa solo si se cumplen dos condiciones acumulativas: 1) la medida se introdujo al establecer una unión aduanera que cumple plenamente los párrs. 8.a (eliminación en lo esencial de los intercambios) y 5.a (no elevar en conjunto la protección frente a terceros); 2) sin la medida se impediría el establecimiento de la unión. Debe probarlo quien invoca la defensa. Además, el OSD puede revisar los ACR, aunque el CACR no se haya pronunciado.",
+   "puntosClave": [
+    "Turquía-Textiles (1999)",
+    "Condición 1: UA conforme a los párrs. 8.a y 5.a",
+    "Condición 2: sin la medida no habría UA",
+    "Carga de la prueba de quien invoca",
+    "Competencia del OSD"
+   ],
+   "explicacion": "El caso del art. XXIV."
+  },
+  {
+   "id": "u08-c02",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "caso",
+   "pregunta": "¿Qué forma de integración tienen hoy y cuáles serían las siguientes etapas? ¿Qué norma de la OMC los ampara?",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "relato": "Tres países acuerdan eliminar los aranceles entre ellos, pero cada uno mantiene su propio arancel frente a terceros. Años después discuten adoptar un arancel común y, más adelante, permitir que trabajadores y capitales circulen libremente.",
+   "respuesta": "Hoy es una zona de libre comercio (eliminación de aranceles internos, sin arancel externo común; necesitará reglas de origen). Con un arancel externo común serían una unión aduanera; con libre circulación de personas, servicios y capitales, un mercado común; con transferencia de competencias económicas y monetarias, una UEM (Balassa). El art. XXIV del GATT ampara a la ZLC y la UA y comprende formas más elaboradas; debe notificarse con un plan en plazo razonable (10 años) y cumplir los párrs. 5 y 8.",
+   "puntosClave": [
+    "Hoy: ZLC",
+    "Siguientes: UA, MC, UEM",
+    "Balassa",
+    "Art. XXIV del GATT",
+    "Notificación y plazo de 10 años"
+   ],
+   "explicacion": "Escalera de la integración."
+  },
+  {
+   "id": "u08-c03",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "caso",
+   "pregunta": "¿Puede el Estado de destino prohibirla? ¿Qué principio y caso se aplican?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "relato": "Una bebida alcohólica fabricada y vendida legalmente en un Estado miembro de la UE es prohibida en otro porque su graduación no coincide con la que exige la ley local.",
+   "respuesta": "Se aplica el reconocimiento mutuo de Cassis de Dijon (TJUE, 1979): todo producto legalmente producido y comercializado en un Estado miembro debe ser admitido en los demás. La prohibición es una medida de efecto equivalente, interpretada ampliamente por el TJUE. Solo podría mantenerse si hubiera un motivo de interés general (salud, consumidores, etc.) y el Estado de origen no lo protegiera de forma equivalente; si no, la prohibición vulnera la libre circulación de mercancías.",
+   "puntosClave": [
+    "Cassis de Dijon (1979)",
+    "Reconocimiento mutuo",
+    "Medida de efecto equivalente",
+    "Excepción por interés general",
+    "Límite de la equivalencia"
+   ],
+   "explicacion": "El caso central del mercado interior."
+  },
+  {
+   "id": "u08-c04",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "caso",
+   "pregunta": "¿Qué dice el TLCAN de cada exigencia?",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "relato": "Una empresa estadounidense quiere prestar servicios de consultoría en México sin abrir una oficina allí, y otra quiere instalar una fábrica. México exige residencia a los consultores y, a la fábrica, que exporte un porcentaje de su producción.",
+   "respuesta": "Para los servicios transfronterizos rigen el trato nacional y la NMF (arts. 1202-1203), y el TLCAN prohíbe exigir residencia o mantener oficinas (art. 1205); México solo podría exigir licencias o certificaciones que no sean barreras innecesarias (art. 1210). La fábrica es una inversión (cap. XI): rigen el trato nacional y la NMF (1102-1103), se prohíben los requisitos de desempeño como exportar un mínimo, y se garantiza un nivel mínimo de trato (1105). El inversor puede ir al arbitraje contra el Estado (cap. XI, sección B).",
+   "puntosClave": [
+    "Servicios: TN/NMF (1202-1203)",
+    "Prohibición de residencia (1205); licencias (1210)",
+    "Inversión: cap. XI, TN/NMF",
+    "Prohibición de requisitos de desempeño",
+    "Nivel mínimo (1105) y arbitraje inversor-Estado"
+   ],
+   "explicacion": "El TLCAN aplicado."
+  },
+  {
+   "id": "u08-d01",
+   "unidad": 8,
+   "tema": "Fases y características del regionalismo",
+   "tipo": "desarrollo",
+   "pregunta": "Analizá el fenómeno del regionalismo comercial: fases, características del nuevo regionalismo y problemas sistémicos.",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Al crear el GATT se veía a los ACR positivamente (art. XXIV), pero Viner distinguió la creación de la desviación de comercio, y la doctrina mayoritaria cree hoy que desvían más de lo que crean. Dos tercios del comercio mundial son preferenciales. Segunda ola (años 90): la UE y el Este, TLCAN, MERCOSUR, ALC de ASEAN y regionalismo aditivo (Chile, México, Singapur). Nuevo regionalismo: proliferación (324 notificaciones por el art. XXIV, 68 por el art. V del GATS y 29 por la Cláusula de Habilitación; 230 en vigor en 2008; unos 400 esperados, según el texto, 2010), predominio de ZLC y alcance parcial (90 %), ACP Norte-Sur recíprocos, regionalismo 'spaghetti'. Causas: Doha, contenido OMC-plus y anclaje de políticas internas. Problemas sistémicos: ¿bloques o escollos (Sutherland)? A favor, acercan a la plena liberalización; en contra, erosionan la NMF, restan transparencia y seguridad y generan conflictos normativos, que se resuelven con el derecho internacional general.",
+   "puntosClave": [
+    "Viner: creación vs desviación",
+    "Dos tercios del comercio preferencial",
+    "Segunda ola de los 90",
+    "Nuevo regionalismo y cifras",
+    "Regionalismo 'spaghetti'",
+    "Causas: Doha, OMC-plus",
+    "Bloques o escollos"
+   ],
+   "explicacion": "Sección I del capítulo."
+  },
+  {
+   "id": "u08-d02",
+   "unidad": 8,
+   "tema": "Regulación multilateral: art. XXIV GATT",
+   "tipo": "desarrollo",
+   "pregunta": "Explicá la regulación multilateral de los ACR en la OMC y sus problemas de control.",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Vías: art. XXIV del GATT (+ Entendimiento de 1994), art. V del GATS y Cláusula de Habilitación (1979). El art. XXIV ampara ZLC y UA (y formas más elaboradas). Criterios materiales vinerianos: párr. 4 (desviación no superior a la creación), párr. 5 (no elevar la incidencia general frente a terceros; 'tipos aplicados') y párr. 8 ('lo esencial de los intercambios': 80 % y sin sectores enteros excluidos; Turquía-Textiles; 'demás reglamentaciones' no exhaustivas: Calzado, Gluten). Requisito procesal: notificación previa con plan y programa en plazo razonable (10 años). Control: grupos de trabajo ad hoc y, desde 1996, el CACR, sin consenso; la UE y EE. UU. evitaron una evaluación económica; notificación ex post facto; presunción de validez. Control judicial: el OSD puede revisar (India-Restricciones; Turquía-Textiles y sus dos condiciones), con riesgo de choque con el CACR. Respuesta: Mecanismo de Transparencia (2006). El art. V del GATS es más flexible para PVD; la Cláusula de Habilitación es la vía preferida (MERCOSUR, también bajo el art. XXIV).",
+   "puntosClave": [
+    "Tres vías: XXIV, V GATS, Habilitación",
+    "Criterios materiales (párrs. 4, 5 y 8)",
+    "Interpretación de 'lo esencial'",
+    "Requisito procesal y 10 años",
+    "CACR y sus límites",
+    "OSD: Turquía-Textiles",
+    "Mecanismo de Transparencia 2006"
+   ],
+   "explicacion": "Sección II del capítulo."
+  },
+  {
+   "id": "u08-d03",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "desarrollo",
+   "pregunta": "Describí las formas de integración económica y ejemplificá con los ACR estudiados.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "respuesta": "Balassa (1961): ZLC (elimina aranceles internos; ej.: TLCAN, ALC de ASEAN, CAFTA-RD), UA (+ arancel externo común; ej.: la UE por su libre circulación de mercancías con arancel aduanero común), MC (+ libre circulación de personas, servicios y capitales; ej.: el mercado interior de la UE y el objetivo del MERCOSUR y de la CAN) y UEM (+ transferencia de competencias económicas y monetarias, moneda común; ej.: la unión monetaria de la UE, con euro y BCE; objetivo de la Comunidad Económica Africana para 2028). La OMC ampara expresamente ZLC y UA (art. XXIV), pero también incluye las formas más elaboradas.",
+   "puntosClave": [
+    "Balassa",
+    "ZLC y ejemplos",
+    "UA y ejemplos",
+    "MC y ejemplos",
+    "UEM y ejemplos",
+    "Encuadre en el art. XXIV"
+   ],
+   "explicacion": "Confusables ZLC/UA/MC/UEM."
+  },
+  {
+   "id": "u08-d04",
+   "unidad": 8,
+   "tema": "Unión Europea",
+   "tipo": "desarrollo",
+   "pregunta": "Explicá el mercado interior de la UE: libertades y técnicas para lograrlo.",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "Art. 26 TFUE: espacio sin fronteras interiores con libre circulación de mercancías, personas, servicios y capitales, más la política comercial común. Mercancías: UA (prohibición de derechos y exacciones de efecto equivalente, arancel común) y de obstáculos no arancelarios; 'medidas de efecto equivalente' en sentido amplio. Personas: movilidad, acceso al empleo y condiciones iguales. Servicios: establecimiento (instalación) vs libre prestación (temporal, sin instalación). Capitales: la última en desarrollarse (Directiva 88/361, Tratado desde 1992), hoy completa incluso con terceros. Técnicas: negativa (prohibición, interpretación amplia y efecto directo), con excepciones de interés general; positiva (armonización: tras el Acta Única, mínimos y mayoría); reconocimiento mutuo (Cassis de Dijon, con el límite de la equivalencia). Aun así, el mercado interior sigue siendo una meta.",
+   "puntosClave": [
+    "Art. 26 TFUE y política comercial común",
+    "Mercancías y efecto equivalente",
+    "Personas",
+    "Servicios: establecimiento vs prestación",
+    "Capitales",
+    "Técnica negativa y excepciones",
+    "Armonización y reconocimiento mutuo"
+   ],
+   "explicacion": "La UE como modelo de integración."
+  },
+  {
+   "id": "u08-d05",
+   "unidad": 8,
+   "tema": "TLCAN",
+   "tipo": "desarrollo",
+   "pregunta": "Compará el TLCAN y el ALC de ASEAN como zonas de libre comercio.",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "TLCAN (1/01/1994): ZLC muy ambiciosa, sin integración ulterior; mercancías con trato nacional, desgravación de hasta 15 años, prohibición de restricciones no arancelarias y reglas de origen; servicios (1202-1210), inversiones (cap. XI: TN/NMF, prohibición de requisitos de desempeño, art. 1105), obstáculos técnicos (cap. IX), salvaguardias, propiedad intelectual (cap. XVII), acuerdos paralelos ambiental y laboral y una solución de controversias muy desarrollada (caps. XI, XIX y XX). ALC de ASEAN: Declaración de Singapur (1992), Esquema CEPT (aranceles al 0-5 %, sin agro, eliminación total en 2010, 'ASEAN menos X', reglas de origen del 40 %), mucha flexibilidad, obligaciones limitadas a aranceles, servicios (Acuerdo Marco de 1995) e inversiones (1998) más tardíos, institucionalidad débil y solución de controversias recién en 1996/2004. Contraste: el TLCAN tiene una regulación jurídica muy acabada; ASEAN, una integración flexible con objetivos políticos (Comunidad ASEAN 2020).",
+   "puntosClave": [
+    "TLCAN: alcance y vigencia",
+    "TLCAN: inversiones, servicios, controversias",
+    "Acuerdos paralelos",
+    "ASEAN: Singapur 1992 y CEPT",
+    "Flexibilidad y deficiencias",
+    "Contraste final"
+   ],
+   "explicacion": "Dos modelos de ZLC."
+  },
+  {
+   "id": "u08-d06",
+   "unidad": 8,
+   "tema": "Otros ACR y relaciones bilaterales",
+   "tipo": "desarrollo",
+   "pregunta": "Describí los otros ACR (MERCOSUR, CAN, CAFTA-RD, CEA) y la evolución de las relaciones comerciales bilaterales.",
+   "fuente": "Segura Serrano",
+   "dificultad": 3,
+   "etiquetas": [],
+   "respuesta": "MERCOSUR: Argentina, Brasil, Paraguay y Uruguay (Venezuela adherida no plenamente); Tratado de Asunción (1991) con objetivo de mercado común (libre circulación de factores, arancel externo común, política comercial común, coordinación macroeconómica), homologado por la Cláusula de Habilitación y también examinado por el art. XXIV. CAN: Bolivia, Colombia, Ecuador y Perú (Chile y Venezuela se retiraron); Cartagena 1969 / Trujillo 1996; ZLC (1993), arancel externo común (1995), mercado común (2001); servicios y pasaporte común. CAFTA-RD (2006): ZLC con EE. UU., 80 % de liberalización inicial, plazos de 10 y 20 años, materias tipo TLCAN. CEA: Abuya (1991, en vigor desde 1994), fortalece los bloques existentes y proyecta una UA (2019), un MC (2023) y una UEM (2028). Bilateralismo: en entreguerras, tratados de amistad, comercio y navegación; tras la guerra, vía global (Bretton Woods, La Habana, GATT 1947); hoy, tratados bilaterales parciales como los BIT, con abundante jurisprudencia del CIADI.",
+   "puntosClave": [
+    "MERCOSUR: Asunción y objetivos",
+    "CAN: Cartagena/Trujillo y etapas",
+    "CAFTA-RD",
+    "CEA: Abuya y calendario",
+    "Bilateralismo de entreguerras",
+    "Vía global y BIT"
+   ],
+   "explicacion": "Secciones IV y V del capítulo."
+  },
+  {
+   "id": "u08-r01",
+   "unidad": 8,
+   "tema": "Control de los ACR: CACR, OSD, GATS y Cláusula de Habilitación",
+   "tipo": "matching",
+   "pregunta": "Relacioná cada caso o norma con su contenido.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ],
+   "pares": [
+    {
+     "a": "Turquía-Textiles (1999)",
+     "b": "Dos condiciones para invocar el art. XXIV"
+    },
+    {
+     "a": "India-Restricciones cuantitativas (1999)",
+     "b": "El control de los ACR es justiciable"
+    },
+    {
+     "a": "Argentina-Calzado (1999)",
+     "b": "La lista de 'demás reglamentaciones' no es exhaustiva"
+    },
+    {
+     "a": "Cassis de Dijon (1979)",
+     "b": "Reconocimiento mutuo"
+    },
+    {
+     "a": "Entendimiento sobre el art. XXIV, párr. 3",
+     "b": "Plazo razonable de 10 años"
+    },
+    {
+     "a": "Cláusula de Habilitación (1979)",
+     "b": "Trato preferencial entre PVD, más flexible"
+    },
+    {
+     "a": "WT/L/671 (2006)",
+     "b": "Mecanismo de Transparencia para los ACR"
+    },
+    {
+     "a": "CACR (1996)",
+     "b": "Examen centralizado de los ACR"
+    }
+   ],
+   "respuesta": "Turquía-Textiles (1999) → Dos condiciones para invocar el art. XXIV; India-Restricciones cuantitativas (1999) → El control de los ACR es justiciable; Argentina-Calzado (1999) → La lista de 'demás reglamentaciones' no es exhaustiva; Cassis de Dijon (1979) → Reconocimiento mutuo; Entendimiento sobre el art. XXIV, párr. 3 → Plazo razonable de 10 años; Cláusula de Habilitación (1979) → Trato preferencial entre PVD, más flexible; WT/L/671 (2006) → Mecanismo de Transparencia para los ACR; CACR (1996) → Examen centralizado de los ACR",
+   "explicacion": "Casos de la OMC y la UE que se confunden."
+  },
+  {
+   "id": "u08-r02",
+   "unidad": 8,
+   "tema": "Otros ACR y relaciones bilaterales",
+   "tipo": "matching",
+   "pregunta": "Relacioná cada ACR con su instrumento fundacional.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "pares": [
+    {
+     "a": "Unión Europea",
+     "b": "Tratado de Roma"
+    },
+    {
+     "a": "MERCOSUR",
+     "b": "Tratado de Asunción (1991)"
+    },
+    {
+     "a": "Comunidad Andina",
+     "b": "Acuerdo de Cartagena (1969)"
+    },
+    {
+     "a": "TLCAN",
+     "b": "En vigor desde el 1/01/1994"
+    },
+    {
+     "a": "ALC de ASEAN",
+     "b": "Declaración de Singapur (1992)"
+    },
+    {
+     "a": "Comunidad Económica Africana",
+     "b": "Tratado de Abuya (1991)"
+    },
+    {
+     "a": "CAFTA-RD",
+     "b": "En vigor desde 2006"
+    }
+   ],
+   "respuesta": "Unión Europea → Tratado de Roma; MERCOSUR → Tratado de Asunción (1991); Comunidad Andina → Acuerdo de Cartagena (1969); TLCAN → En vigor desde el 1/01/1994; ALC de ASEAN → Declaración de Singapur (1992); Comunidad Económica Africana → Tratado de Abuya (1991); CAFTA-RD → En vigor desde 2006",
+   "explicacion": "Instrumentos fundacionales."
+  },
+  {
+   "id": "u08-r03",
+   "unidad": 8,
+   "tema": "Formas de integración económica",
+   "tipo": "matching",
+   "pregunta": "Relacioná cada forma de integración con su rasgo agregado.",
+   "fuente": "Segura Serrano",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ],
+   "pares": [
+    {
+     "a": "Zona de libre comercio",
+     "b": "Eliminación de aranceles entre los miembros"
+    },
+    {
+     "a": "Unión aduanera",
+     "b": "Arancel externo común"
+    },
+    {
+     "a": "Mercado común",
+     "b": "Libre circulación de personas, servicios y capitales"
+    },
+    {
+     "a": "Unión económica y monetaria",
+     "b": "Transferencia de competencias y moneda común"
+    }
+   ],
+   "respuesta": "Zona de libre comercio → Eliminación de aranceles entre los miembros; Unión aduanera → Arancel externo común; Mercado común → Libre circulación de personas, servicios y capitales; Unión económica y monetaria → Transferencia de competencias y moneda común",
+   "explicacion": "Escalera de Balassa."
+  },
+  {
+   "id": "u08-t01",
+   "unidad": 8,
+   "tema": "Otros ACR y relaciones bilaterales",
+   "tipo": "timeline",
+   "pregunta": "Ordená los hitos del regionalismo comercial.",
+   "fuente": "Segura Serrano",
+   "dificultad": 2,
+   "etiquetas": [],
+   "eventos": [
+    {
+     "fecha": "1947",
+     "texto": "GATT"
+    },
+    {
+     "fecha": "1969",
+     "texto": "Acuerdo de Cartagena"
+    },
+    {
+     "fecha": "1979",
+     "texto": "Cláusula de Habilitación / Cassis de Dijon"
+    },
+    {
+     "fecha": "1989",
+     "texto": "Tratado de Libre Cambio Canadá-EE. UU."
+    },
+    {
+     "fecha": "1991",
+     "texto": "Tratado de Asunción / Tratado de Abuya"
+    },
+    {
+     "fecha": "1992",
+     "texto": "Declaración de Singapur (ASEAN)"
+    },
+    {
+     "fecha": "1994",
+     "texto": "TLCAN en vigor / Entendimiento sobre el art. XXIV"
+    },
+    {
+     "fecha": "1996",
+     "texto": "Creación del CACR"
+    },
+    {
+     "fecha": "2006",
+     "texto": "Mecanismo de Transparencia / CAFTA-RD"
+    }
+   ],
+   "respuesta": "1947: GATT → 1969: Acuerdo de Cartagena → 1979: Cláusula de Habilitación / Cassis de Dijon → 1989: Tratado de Libre Cambio Canadá-EE. UU. → 1991: Tratado de Asunción / Tratado de Abuya → 1992: Declaración de Singapur (ASEAN) → 1994: TLCAN en vigor / Entendimiento sobre el art. XXIV → 1996: Creación del CACR → 2006: Mecanismo de Transparencia / CAFTA-RD",
+   "explicacion": "Del GATT a 2006."
+  }
+ ]
 }

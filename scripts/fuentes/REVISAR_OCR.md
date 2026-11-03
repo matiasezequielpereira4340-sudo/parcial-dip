@@ -23,3 +23,13 @@ Lo que figura acá **no se usó** en la app, o se usó solo en lo que se entend�
 - **Nota 31 (catástrofes de los 80):** el nombre de la fábrica de plaguicidas aparece como «Unión Caribe» (probable Union Carbide). En la app figura como «fábrica estadounidense de plaguicidas», sin el país del accidente, porque el texto no lo dice.
 - **Acuerdos con cláusulas ambientales (p. 871):** la lista de tratados después del Acuerdo de Marrakech está mezclada; se usaron solo el TLCAN (1992) y el MERCOSUR (1991), y en la app no figuran.
 - **Reglamento de las COP (p. 876, nota 61):** las citas de la OC sobre armas nucleares están mezcladas; se usaron solo las legibles (Gabčíkovo § 145; Plantas de Celulosa § 266).
+
+## U8-1 Segura Serrano (ACR) — OCR con páginas dobles mezcladas
+- **§ 2:** la frase previa a «han sido notificados sobre la base del art. XXIV del GATT (324)…» está ilegible. Se usaron las cifras (324, 68, 29, 230 y unos 400), pero conviene confirmar qué contaba exactamente cada número.
+- **§ 4:** la opinión crítica sobre los acuerdos Norte-Sur («…los PVD ganar un amplio acceso al mercado (De Melo, 2007)») está cortada; no se usó. Solo se usó la opinión favorable sobre los Sur-Sur (Close, 2006).
+- **§ 8:** el **primer** criterio material del art. XXIV está cortado («El pri…»). Se usó solo la referencia posterior al párr. 4 (desviación no superior a la creación).
+- **§ 10:** el caso sobre la carga de la prueba (EE. UU.-Tubos de Corea, WT/DS202/R, § 7.144) está incompleto; no se usó.
+- **§ 12 (art. V del GATS):** los requisitos materiales están ilegibles; solo se usaron la mayor flexibilidad para PVD y la notificación al Consejo del Comercio de Servicios.
+- **MERCOSUR (pp. 240-241):** faltan en el texto recibido (salta de la p. 239 a la 242). Solo se usó lo del § 22.
+- **ASEAN § 36:** la lista de miembros originales está mezclada (se leen Indonesia, Malasia, Filipinas, Singapur y Tailandia); no se usó la lista. **§ 40:** el año del Acuerdo Comprensivo de Inversiones aparece como «200_»; no se usó.
+- **TLCAN § 30:** la lista de personas del Anexo 1603 está ilegible; solo se usó «entrada temporal».

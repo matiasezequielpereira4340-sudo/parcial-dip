@@ -1,0 +1,2742 @@
+{
+ "unidad": 7,
+ "titulo": "Movimientos de capital e inversiones",
+ "estado": "cargado",
+ "nota": "Fuente: Hinojosa Martínez, cap. XII. El texto cargado se corta en 'CAN:'; lo de la Comunidad Andina queda pendiente.",
+ "temas": [
+  {
+   "id": "u07-t1",
+   "titulo": "Transacciones financieras internacionales",
+   "ideaClave": "Operaciones financieras (generan cobros o pagos con el exterior) ≠ monetarias (cambio de divisas); pueden darse por separado.",
+   "fuente": "Hinojosa"
+  },
+  {
+   "id": "u07-t2",
+   "titulo": "Pagos corrientes y movimientos de capital",
+   "ideaClave": "Luisi y Carbone (TJCE, 1984): pago corriente = contraprestación de una transacción subyacente; movimiento de capital = colocar o invertir el monto. La inversión es un movimiento de capital.",
+   "fuente": "Hinojosa"
+  },
+  {
+   "id": "u07-t3",
+   "titulo": "Inversión extranjera directa e indirecta",
+   "ideaClave": "IED: definición estricta en los instrumentos de liberalización (relación duradera + posibilidad de gestión o control) y amplia en los APPRI ('todo tipo de haberes', incluye cartera).",
+   "fuente": "Hinojosa"
+  },
+  {
+   "id": "u07-t4",
+   "titulo": "Globalización y liberalización de los movimientos de capital",
+   "ideaClave": "Guerra Fría + petrodólares → euromercados; competencia entre mercados → desregulación → crisis 2008; solo la cooperación internacional gobierna los mercados globales.",
+   "fuente": "Hinojosa"
+  },
+  {
+   "id": "u07-t5",
+   "titulo": "Regulación internacional de la IED",
+   "ideaClave": "FMI: libertad de pagos corrientes, control de capital permitido (art. VI.3). OCDE: CLMC obligatorio (Listas A/B). UE: art. 63 TFUE también frente a terceros.",
+   "fuente": "Hinojosa"
+  },
+  {
+   "id": "u07-t6",
+   "titulo": "TBI/APPRI y cláusulas usuales",
+   "ideaClave": "Cláusulas usuales: definición de inversión/inversor, admisión, TJE, PPS, NMF/TN, expropiación con compensación y libre transferencia.",
+   "fuente": "Hinojosa"
+  },
+  {
+   "id": "u07-t7",
+   "titulo": "Solución de controversias",
+   "ideaClave": "El APPRI es la oferta del Estado y el inversor la acepta; consentimiento irrevocable (art. 25(1) CIADI); laudo CIADI = sentencia firme (art. 54); no CIADI y Mecanismo Complementario → Nueva York 1958.",
+   "fuente": "Hinojosa"
+  },
+  {
+   "id": "u07-t8",
+   "titulo": "Evaluación crítica de los TBI",
+   "ideaClave": "Las normas de IED limitan la soberanía: el receptor quiere regular y el país de origen quiere proteger, por eso no hay consenso universal; la NMF tiene efecto expansivo (Maffezini).",
+   "fuente": "Hinojosa"
+  }
+ ],
+ "cuadros": [
+  {
+   "titulo": "Pagos corrientes vs movimientos de capital",
+   "fuente": "Hinojosa",
+   "columnas": [
+    "",
+    "Pagos corrientes",
+    "Movimientos de capital"
+   ],
+   "filas": [
+    [
+     "Criterio (Luisi y Carbone, 1984)",
+     "Contraprestación de una transacción subyacente",
+     "Colocar o invertir el monto"
+    ],
+    [
+     "Ejemplo",
+     "Pagar un bien o un servicio",
+     "Inversión (es un tipo de movimiento de capital)"
+    ],
+    [
+     "FMI",
+     "Libertad garantizada",
+     "Controlable (art. VI.3) sin obstaculizar los pagos corrientes"
+    ]
+   ]
+  },
+  {
+   "titulo": "Instrumentos de liberalización",
+   "fuente": "Hinojosa",
+   "columnas": [
+    "",
+    "FMI",
+    "OCDE (CLMC)",
+    "Unión Europea"
+   ],
+   "filas": [
+    [
+     "Naturaleza",
+     "Convenio constitutivo",
+     "Decisión del Consejo, obligatoria",
+     "TFUE (una de las 4 libertades)"
+    ],
+    [
+     "Capital",
+     "Controlable (art. VI.3)",
+     "Liberalización progresiva (Listas A y B)",
+     "Libre entre miembros y con terceros (art. 63)"
+    ],
+    [
+     "Excepciones",
+     "Sin poder general, salvo la condicionalidad",
+     "Reservas, derogaciones, reciprocidad (Anexo E)",
+     "Art. 64 (restricciones a 1993), art. 66 (salvaguardias)"
+    ],
+    [
+     "Control",
+     "Condicionalidad",
+     "Comité de Inversiones",
+     "—"
+    ]
+   ]
+  },
+  {
+   "titulo": "Calvo vs Hull vs 1803 vs Carta 3281 (confusables)",
+   "fuente": "Hinojosa",
+   "columnas": [
+    "Instrumento",
+    "Año",
+    "Qué dice",
+    "Postura"
+   ],
+   "filas": [
+    [
+     "Cláusula Calvo",
+     "1868",
+     "Tribunales locales + renuncia a la protección diplomática",
+     "Reacción latinoamericana"
+    ],
+    [
+     "Fórmula Hull",
+     "1938-1943",
+     "Indemnización pronta, adecuada y efectiva",
+     "EE. UU. (México nunca la aceptó)"
+    ],
+    [
+     "Res. AG 1803",
+     "1962",
+     "Soberanía permanente; indemnización correspondiente",
+     "Reconoce indemnizar, no según Hull"
+    ],
+    [
+     "Carta 3281 (NOEI)",
+     "1974",
+     "Compensación apropiada según la ley nacional",
+     "Oposición de los exportadores de capital"
+    ]
+   ]
+  },
+  {
+   "titulo": "Definición de IED: liberalización vs protección",
+   "fuente": "Hinojosa",
+   "columnas": [
+    "",
+    "Liberalización (CLMC)",
+    "Protección (APPRI)"
+   ],
+   "filas": [
+    [
+     "Alcance",
+     "Estricta",
+     "Amplia: 'todo tipo de haberes'"
+    ],
+    [
+     "Contenido",
+     "Relación duradera + posibilidad de gestión o control",
+     "Incluye cartera y propiedad intelectual"
+    ]
+   ]
+  },
+  {
+   "titulo": "CIADI vs Mecanismo Complementario vs CNUDMI (ejecución)",
+   "fuente": "Hinojosa",
+   "columnas": [
+    "Laudo",
+    "Régimen de ejecución",
+    "Límite / nota"
+   ],
+   "filas": [
+    [
+     "CIADI",
+     "Art. 54: como sentencia firme nacional",
+     "Inmunidad de ejecución"
+    ],
+    [
+     "Mecanismo Complementario",
+     "Convención de Nueva York 1958",
+     "No usa el art. 54"
+    ],
+    [
+     "No CIADI (p. ej., CNUDMI)",
+     "Convención de Nueva York 1958",
+     "—"
+    ]
+   ]
+  },
+  {
+   "titulo": "Admisión de la inversión",
+   "fuente": "Hinojosa",
+   "columnas": [
+    "",
+    "Modelo mayoritario",
+    "EE. UU. / Canadá"
+   ],
+   "filas": [
+    [
+     "TN / NMF",
+     "Post-establecimiento (remite al derecho interno)",
+     "Pre-establecimiento (liberaliza la entrada)"
+    ],
+    [
+     "Requisitos de desempeño",
+     "Permitidos si son compatibles con el Acuerdo MIC (OMC)",
+     "Prohibidos por listas negativas (salvo incentivos)"
+    ]
+   ]
+  },
+  {
+   "titulo": "TJE y PPS: caso por caso",
+   "fuente": "Hinojosa",
+   "columnas": [
+    "Estándar",
+    "Contenido",
+    "Caso"
+   ],
+   "filas": [
+    [
+     "TJE",
+     "Concepto flexible y evolutivo",
+     "Waste Management c. México (2004)"
+    ],
+    [
+     "TJE",
+     "Marco estable, transparente y predecible",
+     "Maffezini c. España (2000)"
+    ],
+    [
+     "TJE",
+     "Expectativas legítimas",
+     "MTD c. Chile (2004)"
+    ],
+    [
+     "TJE",
+     "Denegación de tutela judicial",
+     "Metalclad c. México (2000)"
+    ],
+    [
+     "TJE",
+     "Acoso o presión",
+     "Tecmed c. México (2003)"
+    ],
+    [
+     "PPS",
+     "Diligencia debida frente a la violencia",
+     "AAPL c. Sri Lanka (1990)"
+    ],
+    [
+     "PPS",
+     "Versión ampliada: arbitrariedad",
+     "Azurix c. Argentina"
+    ]
+   ]
+  },
+  {
+   "titulo": "Instituciones técnicas",
+   "fuente": "Hinojosa",
+   "columnas": [
+    "Institución",
+    "Año",
+    "Ámbito / dato"
+   ],
+   "filas": [
+    [
+     "Comité de Basilea",
+     "1974",
+     "Bancos; G-10; no vinculante; sede en el BPI"
+    ],
+    [
+     "IOSCO",
+     "1983",
+     "Valores"
+    ],
+    [
+     "GAFI",
+     "1989",
+     "Blanqueo: 40 + 9; G-7 París"
+    ],
+    [
+     "IAIS",
+     "1994",
+     "Seguros"
+    ],
+    [
+     "Foro Conjunto sobre Conglomerados",
+     "1996",
+     "Conglomerados financieros"
+    ],
+    [
+     "FEF → CEF",
+     "1999 → 2009",
+     "G-7 → G-20 de Londres"
+    ],
+    [
+     "IASB",
+     "2000",
+     "Fundación privada, Londres, NIIF"
+    ]
+   ]
+  }
+ ],
+ "esquemas": [
+  {
+   "titulo": "Arbitraje inversor-Estado, paso a paso",
+   "fuente": "Hinojosa",
+   "pasos": [
+    "APPRI = oferta del Estado",
+    "El inversor acepta (al demandar)",
+    "Consentimiento irrevocable: art. 25(1) CIADI",
+    "(Si el tratado lo exige) recursos internos o plazo previo; posible NMF (Maffezini)",
+    "Arbitraje: CIADI, CNUDMI, etc.",
+    "Ejecución: CIADI → art. 54 (límite: inmunidad de ejecución) · otros → Nueva York 1958"
+   ]
+  },
+  {
+   "titulo": "De los euromercados a la crisis",
+   "fuente": "Hinojosa",
+   "pasos": [
+    "Guerra Fría: cuentas en dólares fuera de EE. UU.",
+    "Años 70: petrodólares",
+    "Eurodólares y euromercados",
+    "Integración financiera (comercio, inversores institucionales, ahorro fiscal)",
+    "Competencia entre mercados → desregulación",
+    "Crisis de 2008",
+    "Respuesta: cooperación internacional (G-20, CEF)"
+   ]
+  }
+ ],
+ "lineaDeTiempo": [
+  {
+   "fecha": "1868",
+   "texto": "Cláusula Calvo",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1926",
+   "texto": "North American Dredging",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1938-1943",
+   "texto": "Fórmula Hull (EE. UU.-México)",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1958",
+   "texto": "Convención de Nueva York",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1962",
+   "texto": "Res. AG 1803",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1974",
+   "texto": "Comité de Basilea / Carta 3281",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1983",
+   "texto": "IOSCO",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1984",
+   "texto": "Luisi y Carbone (TJCE)",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1987",
+   "texto": "Acuerdo de Manila (ASEAN)",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1989",
+   "texto": "GAFI",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1990",
+   "texto": "AAPL c. Sri Lanka",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1994",
+   "texto": "IAIS / Protocolo de Colonia",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1997",
+   "texto": "Fedax c. Venezuela",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "1999",
+   "texto": "Foro de Estabilidad Financiera",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "2000",
+   "texto": "IASB / Maffezini / Metalclad",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "2001",
+   "texto": "Nota interpretativa TLCAN",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "2003",
+   "texto": "Tecmed c. México",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "2004",
+   "texto": "MTD / Waste Management / modelo EE. UU.",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "2005",
+   "texto": "Bayindir / Gas Natural",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "2008",
+   "texto": "Crisis financiera",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "2009",
+   "texto": "Consejo de Estabilidad Financiera",
+   "fuente": "Hinojosa"
+  },
+  {
+   "fecha": "2010",
+   "texto": "Más de 2.500 APPRI (según el texto, 2010)",
+   "fuente": "Hinojosa"
+  }
+ ],
+ "items": [
+  {
+   "id": "u07-f01",
+   "unidad": 7,
+   "tema": "Transacciones financieras internacionales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué diferencia a una operación financiera internacional de una operación monetaria?",
+   "respuesta": "La financiera es una transacción de la que derivan cobros o pagos con el exterior; la monetaria es el cambio de divisas.",
+   "explicacion": "Hinojosa las distingue expresamente y aclara que pueden darse por separado.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f02",
+   "unidad": 7,
+   "tema": "Transacciones financieras internacionales",
+   "tipo": "flashcard",
+   "pregunta": "¿Pueden darse por separado una operación financiera y una monetaria?",
+   "respuesta": "Sí. Son conceptos distintos y no siempre van juntos.",
+   "explicacion": "Por eso conviene no confundirlas: una refiere a la transacción que genera cobros o pagos; la otra, al cambio de divisas.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f03",
+   "unidad": 7,
+   "tema": "Pagos corrientes y movimientos de capital",
+   "tipo": "flashcard",
+   "pregunta": "Según Luisi y Carbone (TJCE, 1984), ¿qué es un pago corriente?",
+   "respuesta": "Una transferencia de divisas que es la contraprestación de una transacción subyacente (por ejemplo, pagar un bien o un servicio).",
+   "explicacion": "Clave: hay una prestación que se remunera. Ese es el criterio del TJCE en Luisi y Carbone (1984).",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f04",
+   "unidad": 7,
+   "tema": "Pagos corrientes y movimientos de capital",
+   "tipo": "flashcard",
+   "pregunta": "Según Luisi y Carbone, ¿qué es un movimiento de capital?",
+   "respuesta": "Una operación cuyo fin es colocar o invertir el monto, no remunerar una prestación.",
+   "explicacion": "Lo que importa es la finalidad (colocar o invertir). La inversión es una especie de movimiento de capital.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f05",
+   "unidad": 7,
+   "tema": "Pagos corrientes y movimientos de capital",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué caso y qué tribunal fijaron la distinción entre pagos corrientes y movimientos de capital?",
+   "respuesta": "Luisi y Carbone, TJCE, 1984.",
+   "explicacion": "Es el caso de referencia que cita Hinojosa para el criterio de la contraprestación de una transacción subyacente.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f06",
+   "unidad": 7,
+   "tema": "Pagos corrientes y movimientos de capital",
+   "tipo": "flashcard",
+   "pregunta": "¿La inversión es un pago corriente o un movimiento de capital?",
+   "respuesta": "Un movimiento de capital (es un tipo de movimiento de capital).",
+   "explicacion": "No remunera una prestación: coloca un monto con fines de rendimiento o control.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f07",
+   "unidad": 7,
+   "tema": "Globalización y liberalización de los movimientos de capital",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuáles son las motivaciones públicas de los movimientos de capital?",
+   "respuesta": "Apoyar al sector exportador, a sectores estratégicos o a gobiernos, y la ayuda al desarrollo.",
+   "explicacion": "Hinojosa separa las motivaciones públicas de las privadas (seguridad y rendimiento).",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f08",
+   "unidad": 7,
+   "tema": "Globalización y liberalización de los movimientos de capital",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuáles son las motivaciones privadas de los movimientos de capital?",
+   "respuesta": "La seguridad (aversión al riesgo, diversificación) y un mayor rendimiento.",
+   "explicacion": "Ayuda para memorizar: 'S y R' = Seguridad y Rendimiento.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "mnemotecnia"
+   ]
+  },
+  {
+   "id": "u07-f09",
+   "unidad": 7,
+   "tema": "Globalización y liberalización de los movimientos de capital",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué hecho de la Guerra Fría está en el origen de los mercados internacionales de capital?",
+   "respuesta": "Los países comunistas abrieron cuentas en dólares fuera de Estados Unidos.",
+   "explicacion": "Así nacen los depósitos en dólares fuera del país emisor, la semilla de los eurodólares.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f10",
+   "unidad": 7,
+   "tema": "Globalización y liberalización de los movimientos de capital",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué son los eurodólares y los euromercados?",
+   "respuesta": "Depósitos en divisas fuera del país que las emite. Crecieron con la Guerra Fría y con los petrodólares de los años 70.",
+   "explicacion": "Lo que los define es que la divisa está depositada fuera de su país emisor.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f11",
+   "unidad": 7,
+   "tema": "Globalización y liberalización de los movimientos de capital",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuáles son las causas de la integración financiera internacional?",
+   "respuesta": "El aumento del comercio (Ronda Uruguay), los inversores institucionales que diversifican y la búsqueda de ahorro fiscal.",
+   "explicacion": "A eso se suma la competencia entre mercados, que empuja a desregular.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f12",
+   "unidad": 7,
+   "tema": "Globalización y liberalización de los movimientos de capital",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué relación plantea Hinojosa entre la competencia entre mercados y la crisis de 2008?",
+   "respuesta": "La competencia entre mercados llevó a la desregulación, y la crisis de 2008 es consecuencia de esa desregulación.",
+   "explicacion": "Conclusión del autor: solo la cooperación internacional permite gobernar los mercados globales.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f13",
+   "unidad": 7,
+   "tema": "Globalización y liberalización de los movimientos de capital",
+   "tipo": "flashcard",
+   "pregunta": "Según Hinojosa, ¿qué es lo único que permite gobernar los mercados financieros globales?",
+   "respuesta": "La cooperación internacional.",
+   "explicacion": "Es la conclusión que saca de la crisis de 2008, consecuencia de la desregulación.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f14",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuáles son las instituciones GENERALES de la gobernanza financiera internacional?",
+   "respuesta": "El FMI, el G-7/8 y el G-20.",
+   "explicacion": "Se distinguen de las instituciones técnicas (Basilea, IOSCO, IAIS, IASB, etc.).",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f15",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "Comité de Basilea: año, origen, función, valor de sus normas y sede.",
+   "respuesta": "1974, G-10; supervisión bancaria; normas NO vinculantes pero de alto cumplimiento; sede en el Banco de Pagos Internacionales.",
+   "explicacion": "Típica pregunta trampa: sus normas no son jurídicamente obligatorias, pero se cumplen mucho.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f16",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es IOSCO y cuándo se creó?",
+   "respuesta": "La organización técnica internacional de los mercados de valores, creada en 1983.",
+   "explicacion": "Ayuda para memorizar: Basilea = bancos (1974), IOSCO = valores (1983), IAIS = seguros (1994).",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "mnemotecnia"
+   ]
+  },
+  {
+   "id": "u07-f17",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es la IAIS y cuándo se creó?",
+   "respuesta": "La organización técnica internacional de los seguros, creada en 1994.",
+   "explicacion": "Es la par de Basilea (bancos) e IOSCO (valores) para el sector seguros.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f18",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es el IASB?",
+   "respuesta": "Una fundación privada con sede en Londres, creada en 2000, que dicta las normas contables NIIF.",
+   "explicacion": "Ojo: es privada, no un organismo intergubernamental.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f19",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué reemplazó al Foro de Estabilidad Financiera (1999, G-7)?",
+   "respuesta": "El Consejo de Estabilidad Financiera, creado por el G-20 de Londres en 2009.",
+   "explicacion": "Foro (G-7, 1999) → Consejo (G-20, 2009): el cambio refleja el paso del G-7 al G-20 tras la crisis.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f20",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "GAFI: año, origen, instrumentos y herramienta de presión.",
+   "respuesta": "1989, G-7 en París; 40 Recomendaciones contra el blanqueo + 9 Especiales contra la financiación del terrorismo; lista de países no cooperantes.",
+   "explicacion": "Ayuda para memorizar: '40 + 9': 40 contra el lavado, 9 contra el terrorismo.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "mnemotecnia"
+   ]
+  },
+  {
+   "id": "u07-f21",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "Además de Basilea, IOSCO, IAIS, IASB y el FEF/CEF, ¿qué otros foros técnicos menciona Hinojosa?",
+   "respuesta": "El Foro Conjunto sobre Conglomerados Financieros (1996), el Comité sobre el Sistema Financiero Global y el GAFI.",
+   "explicacion": "Completan el mapa de las instituciones técnicas.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f22",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuál es el objetivo del FMI en materia de pagos?",
+   "respuesta": "La estabilidad cambiaria y un sistema multilateral de pagos.",
+   "explicacion": "De ahí sale la obligación central: garantizar la libertad de los pagos corrientes.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f23",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué libertad garantizan los miembros del FMI?",
+   "respuesta": "La libertad de los PAGOS CORRIENTES.",
+   "explicacion": "No la de los movimientos de capital: esos pueden controlarse (art. VI, sección 3).",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f24",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué permite el art. VI, sección 3, del Convenio del FMI?",
+   "respuesta": "Que los miembros controlen las transferencias de capital, siempre que esos controles no obstaculicen los pagos corrientes.",
+   "explicacion": "Es la base del margen estatal para los controles de capital dentro del FMI.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f25",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿El FMI tiene un poder general de control sobre los movimientos de capital?",
+   "respuesta": "No. Solo incide por la condicionalidad cuando un país usa sus recursos.",
+   "explicacion": "Fuera de la condicionalidad, no hay un poder general del FMI sobre el capital.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f26",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué naturaleza jurídica tiene el Código de Liberalización de los Movimientos de Capital de la OCDE?",
+   "respuesta": "Es una Decisión del Consejo de la OCDE, obligatoria para los miembros.",
+   "explicacion": "Contraste: Basilea no es vinculante; el CLMC sí lo es.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f27",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "En el CLMC, ¿cómo funcionan las reservas en la Lista A y en la Lista B?",
+   "respuesta": "Lista A: una reserva retirada no puede reintroducirse. Lista B: las reservas se pueden introducir en cualquier momento.",
+   "explicacion": "Ayuda para memorizar: A = 'Adiós para siempre' (lo que liberalizaste no vuelve atrás); B = 'Bajo demanda'.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables",
+    "mnemotecnia"
+   ]
+  },
+  {
+   "id": "u07-f28",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué son las derogaciones en el CLMC?",
+   "respuesta": "Una cláusula de salvaguardia temporal ante problemas graves.",
+   "explicacion": "Son distintas de las reservas: la derogación es temporal y excepcional.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f29",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Se puede exigir reciprocidad en el CLMC? ¿Para qué?",
+   "respuesta": "Sí, para la IDE y el establecimiento (Anexo E).",
+   "explicacion": "Es una excepción al principio de no discriminación del Código.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f30",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué órgano controla periódicamente el cumplimiento del CLMC?",
+   "respuesta": "El Comité de Inversiones de la OCDE.",
+   "explicacion": "Es el control periódico que prevé el Código.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f31",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué dispone el art. 63 TFUE sobre los capitales?",
+   "respuesta": "Elimina las restricciones a los movimientos de capital entre Estados miembros Y con terceros países.",
+   "explicacion": "Rasgo distintivo de la UE: la libertad alcanza también a terceros países (con las excepciones de los arts. 64 y 66).",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f32",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué dispone el art. 64 TFUE?",
+   "respuesta": "Frente a terceros países se pueden mantener las restricciones existentes a 1993.",
+   "explicacion": "Es una cláusula de statu quo frente a terceros.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f33",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué prevé el art. 66 TFUE?",
+   "respuesta": "Salvaguardias excepcionales frente a terceros países.",
+   "explicacion": "Complementa el art. 64: excepciones a la apertura frente a terceros.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f34",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué aporta la Directiva 88/361?",
+   "respuesta": "Una noción amplia de movimiento de capital.",
+   "explicacion": "Sirve de referencia para delimitar qué es movimiento de capital en el derecho de la UE.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f35",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Por qué no hay consenso universal sobre las normas de IED?",
+   "respuesta": "Porque limitan la soberanía: el país receptor quiere regular y el país de origen quiere proteger al inversor.",
+   "explicacion": "Es la idea que atraviesa toda la evaluación crítica de los TBI.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f36",
+   "unidad": 7,
+   "tema": "Inversión extranjera directa e indirecta",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo definen la IED los instrumentos de LIBERALIZACIÓN (CLMC)?",
+   "respuesta": "En forma estricta: aportar fondos para una relación duradera con posibilidad de participar efectivamente en la gestión o el control.",
+   "explicacion": "Comparación clave: liberalización → definición estricta; protección (APPRI) → definición amplia.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f37",
+   "unidad": 7,
+   "tema": "Inversión extranjera directa e indirecta",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo definen la inversión los APPRI (instrumentos de PROTECCIÓN)?",
+   "respuesta": "En forma amplia: 'todo tipo de haberes', incluidas las inversiones de cartera y la propiedad intelectual.",
+   "explicacion": "Cuanto más amplia la definición, más activos protege el tratado.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f38",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué invocaban las potencias coloniales para proteger a sus inversores?",
+   "respuesta": "Los 'principios de las naciones civilizadas'.",
+   "explicacion": "Antecedente histórico del estándar mínimo internacional.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f39",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué establece la Cláusula Calvo?",
+   "respuesta": "Que en los contratos entre un Estado y un inversor extranjero las controversias van a los tribunales locales y el inversor renuncia a la protección diplomática de su Estado.",
+   "explicacion": "Carlos Calvo, jurista argentino, 1868. Fue una reacción a las intervenciones armadas de EE. UU. en América Latina.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f40",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué resolvió North American Dredging (1926) sobre la Cláusula Calvo?",
+   "respuesta": "Que la cláusula no impide la protección diplomática si hay un ilícito internacional, porque la protección diplomática es un derecho del Estado.",
+   "explicacion": "El inversor no puede renunciar a un derecho que no es suyo sino de su Estado.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f41",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué elementos integran el estándar mínimo que defienden los países desarrollados?",
+   "respuesta": "a) Trato justo y equitativo; b) plena protección y seguridad; c) no discriminación entre nacionales de terceros países; d) prohibición de medidas confiscatorias.",
+   "explicacion": "Ayuda para memorizar: 'JuPro-NoCo' = JUsto, PROtección, NO discriminación, NO COnfiscación.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "mnemotecnia"
+   ]
+  },
+  {
+   "id": "u07-f42",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es la fórmula Hull?",
+   "respuesta": "La indemnización por expropiación 'pronta, adecuada y efectiva'.",
+   "explicacion": "Cordell Hull, Secretario de Estado de EE. UU., en las negociaciones con México (1938-1943). México nunca la aceptó. Ayuda para memorizar: P-A-E (Pronta, Adecuada, Efectiva).",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables",
+    "mnemotecnia"
+   ]
+  },
+  {
+   "id": "u07-f43",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué establece la Res. AG 1803 (14/12/1962)?",
+   "respuesta": "Soberanía permanente sobre los recursos naturales; expropiación por utilidad pública pagando 'la indemnización correspondiente' según las normas del Estado que expropia y el derecho internacional; los acuerdos de inversión se cumplen de buena fe.",
+   "explicacion": "Reconoce la obligación de indemnizar, pero no según la fórmula Hull.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f44",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué establece la Carta de Derechos y Deberes Económicos de los Estados (Res. AG 3281, 12/12/1974)?",
+   "respuesta": "El derecho a regular la inversión según la ley nacional, sin obligación de no discriminar, y una 'compensación apropiada' según la ley del Estado que nacionaliza.",
+   "explicacion": "Enmarcada en el Nuevo Orden Económico Internacional. Se opusieron o abstuvieron los exportadores de capital; su incidencia práctica fue modesta.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f45",
+   "unidad": 7,
+   "tema": "Evaluación crítica de los TBI",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué cambió desde los años 90 respecto de la IED?",
+   "respuesta": "Se impuso una visión positiva de la IED: los países en desarrollo reformaron sus leyes y proliferaron los APPRI.",
+   "explicacion": "La 'compensación apropiada' puede considerar la capacidad de pago del Estado.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f46",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué naturaleza jurídica tienen los APPRI/TBI y cuál es su antecedente?",
+   "respuesta": "Son tratados entre Estados (se les aplica la Convención de Viena de 1969). Antecedente: los Tratados de amistad, comercio y navegación (del siglo XIX a mediados del XX).",
+   "explicacion": "Según el texto (2010), había más de 2.500 APPRI.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f47",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Cuántos APPRI había, según Hinojosa?",
+   "respuesta": "Más de 2.500, según el texto (2010).",
+   "explicacion": "Cifra con fecha: hay que citarla como 'según el texto (2010)'. También se firman entre países en desarrollo.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f48",
+   "unidad": 7,
+   "tema": "Evaluación crítica de los TBI",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo evolucionó la postura de América Latina frente a los APPRI?",
+   "respuesta": "Al principio era reacia (los veía como neocolonialismo); en los 90 cambió de postura.",
+   "explicacion": "Se conecta con la tradición de la Cláusula Calvo.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f49",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué criterios usa el CIADI para que haya 'inversión'? (Fedax c. Venezuela 1997; Bayindir c. Pakistán 2005)",
+   "respuesta": "Contribución significativa, duración mínima, riesgo económico y contribución al desarrollo del receptor.",
+   "explicacion": "Se aplican con flexibilidad: en Jan de Nul, 2 años alcanzaron. Ayuda para memorizar: 'Co-Du-Ri-De' (Contribución, Duración, Riesgo, Desarrollo).",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "mnemotecnia"
+   ]
+  },
+  {
+   "id": "u07-f50",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se aplican los criterios de inversión del CIADI? Dé un caso.",
+   "respuesta": "Con flexibilidad: en Jan de Nul, una duración de 2 años alcanzó.",
+   "explicacion": "No son requisitos rígidos.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f51",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se determina el inversor persona física en los APPRI?",
+   "respuesta": "Por la nacionalidad de un Estado parte. Algunos tratados exigen nacionalidad efectiva, en la línea de Nottebohm.",
+   "explicacion": "Nottebohm aparece como referencia para la nacionalidad efectiva.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f52",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se determina el inversor persona jurídica en los APPRI?",
+   "respuesta": "Por la constitución más la sede o una actividad significativa (modelo EE. UU. 2004). Algunos incluyen sociedades de terceros países controladas por nacionales (modelo Francia 2006).",
+   "explicacion": "Hay dos criterios: constitución + vínculo real, o control.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f53",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "Admisión: ¿cuándo rigen el TN y la NMF en la mayoría de los APPRI? ¿Y en los de EE. UU. y Canadá?",
+   "respuesta": "En la mayoría, POST-establecimiento (porque la admisión remite al derecho interno). EE. UU. y Canadá dan TN/NMF PRE-establecimiento, o sea, liberalizan la entrada.",
+   "explicacion": "Pre-establecimiento = derecho a entrar; post-establecimiento = trato una vez admitido.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f54",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué son los requisitos de desempeño y cuándo están permitidos?",
+   "respuesta": "Exigencias como contenido local, exportar un porcentaje o transferir tecnología. Están permitidos si el APPRI remite al derecho interno, pero deben ser compatibles con el Acuerdo MIC (TRIMs) de la OMC. EE. UU./Canadá los prohíben por listas negativas, salvo como condición para dar incentivos.",
+   "explicacion": "Vínculo inversión-OMC: el Acuerdo MIC limita los requisitos de desempeño.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f55",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es el trato justo y equitativo (TJE)? Casos.",
+   "respuesta": "Un concepto flexible y evolutivo (Waste Management c. México 2004) que exige un marco jurídico estable, transparente y predecible (Maffezini c. España 2000). Se puede violar aunque no haya discriminación.",
+   "explicacion": "Ojo: no depende de que haya discriminación.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f56",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "Dé tres ejemplos de violación del TJE con su caso.",
+   "respuesta": "Frustrar expectativas legítimas (MTD c. Chile 2004); denegar tutela judicial (Metalclad c. México 2000); acoso o presión (Tecmed c. México 2003).",
+   "explicacion": "Ayuda para memorizar: MTD = Me Traicionaste las expectativas; Metalclad = Me negaron la justicia; Tecmed = Me presionaron.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "mnemotecnia"
+   ]
+  },
+  {
+   "id": "u07-f57",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué exige la plena protección y seguridad (PPS)? Casos.",
+   "respuesta": "Diligencia debida frente a la violencia (AAPL c. Sri Lanka 1990); hay una interpretación ampliada frente a la arbitrariedad (Azurix c. Argentina).",
+   "explicacion": "Lectura clásica: protección física. Lectura ampliada: también frente a la arbitrariedad.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f58",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué es el efecto expansivo de la NMF? Caso.",
+   "respuesta": "Permite al inversor invocar condiciones más favorables de otros tratados del Estado. En Maffezini c. España, un inversor argentino evitó los 18 meses previos ante los tribunales españoles; lo mismo en Gas Natural c. Argentina (2005).",
+   "explicacion": "Clave: la NMF aplicada a cláusulas procesales.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f59",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué requisitos tiene una expropiación lícita según los APPRI?",
+   "respuesta": "Interés general, que no sea discriminatoria, debido proceso y compensación.",
+   "explicacion": "Ayuda para memorizar: 'INDiCe' = Interés general, No discriminatoria, Debido proceso, Compensación.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "mnemotecnia"
+   ]
+  },
+  {
+   "id": "u07-f60",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué garantiza la cláusula de transferencias de los APPRI?",
+   "respuesta": "Repatriar los beneficios y el producido de la liquidación de la inversión.",
+   "explicacion": "Se conecta con la libertad de pagos y de capital.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f61",
+   "unidad": 7,
+   "tema": "Solución de controversias",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se resuelven las controversias en los APPRI según quiénes sean las partes?",
+   "respuesta": "Estado-Estado: arbitraje. Inversor-Estado: arbitraje internacional (CIADI, CNUDMI, etc.).",
+   "explicacion": "El inversor puede demandar directamente al Estado.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f62",
+   "unidad": 7,
+   "tema": "Solución de controversias",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se forma el consentimiento al arbitraje inversor-Estado en un APPRI?",
+   "respuesta": "El APPRI es la oferta del Estado y el inversor la acepta (al demandar).",
+   "explicacion": "Una vez dado, el consentimiento no puede retirarse unilateralmente (art. 25(1) del Convenio CIADI).",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f63",
+   "unidad": 7,
+   "tema": "Solución de controversias",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué dispone el art. 25(1) del Convenio CIADI sobre el consentimiento?",
+   "respuesta": "Que una vez dado, el consentimiento no puede retirarse unilateralmente.",
+   "explicacion": "Algunos tratados exigen además agotar los recursos internos o un plazo previo.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f64",
+   "unidad": 7,
+   "tema": "Solución de controversias",
+   "tipo": "flashcard",
+   "pregunta": "¿Cómo se ejecutan los laudos CIADI y cuál es su límite?",
+   "respuesta": "Como una sentencia firme nacional (art. 54). Su límite es la inmunidad de ejecución.",
+   "explicacion": "Contraste: los laudos no CIADI se rigen por la Convención de Nueva York de 1958.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f65",
+   "unidad": 7,
+   "tema": "Solución de controversias",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué régimen de ejecución tienen los laudos no CIADI y los del Mecanismo Complementario?",
+   "respuesta": "La Convención de Nueva York de 1958.",
+   "explicacion": "Trampa típica: el Mecanismo Complementario NO usa el art. 54 del Convenio CIADI.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-f66",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "TLCAN cap. 11: ¿qué regulan los arts. 1102-1103, 1105, 1106 y 1115-1138?",
+   "respuesta": "1102-1103: TN y NMF incluso en el establecimiento. 1105: nivel mínimo de trato. 1106: prohibición de requisitos de desempeño. 1115-1138: arbitraje inversor-Estado.",
+   "explicacion": "Modelo de liberalización de la entrada (pre-establecimiento).",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f67",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué dijo la Nota interpretativa de la Comisión de Libre Comercio del TLCAN (2001)?",
+   "respuesta": "Que el TJE y la PPS del art. 1105 no exigen más que el nivel mínimo consuetudinario.",
+   "explicacion": "Acota el TJE y la PPS al mínimo consuetudinario.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f68",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué prevé el Protocolo de Colonia (MERCOSUR, 1994)?",
+   "respuesta": "Definición amplia de inversión; TN y NMF incluso en el establecimiento; arbitraje CIADI/CNUDMI; prohibición de requisitos de exportación y de consumo local; libre transferencia.",
+   "explicacion": "Es el instrumento regional del MERCOSUR en materia de inversiones.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-f69",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "flashcard",
+   "pregunta": "¿Qué instrumentos de inversión tiene la ASEAN?",
+   "respuesta": "El Acuerdo de Manila (1987) y el Acuerdo Marco del Área de Inversión (1998).",
+   "explicacion": "Dato de memoria para preguntas de opción múltiple.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-m01",
+   "unidad": 7,
+   "tema": "Pagos corrientes y movimientos de capital",
+   "tipo": "mcq",
+   "pregunta": "Una empresa argentina transfiere dólares a un estudio de ingeniería alemán para pagar un informe técnico que le encargó. Según el criterio de Luisi y Carbone, es:",
+   "opciones": [
+    "Un pago corriente, porque remunera una prestación subyacente",
+    "Un movimiento de capital, porque sale divisa del país",
+    "Una inversión de cartera, porque hay un contrato con un no residente",
+    "Una operación monetaria pura, porque implica cambio de divisas"
+   ],
+   "correcta": "Un pago corriente, porque remunera una prestación subyacente",
+   "respuesta": "Un pago corriente, porque remunera una prestación subyacente",
+   "explicacion": "Lo que define al pago corriente es ser contraprestación de una transacción subyacente (aquí, un servicio). La salida de divisas por sí sola no lo convierte en movimiento de capital.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m02",
+   "unidad": 7,
+   "tema": "Pagos corrientes y movimientos de capital",
+   "tipo": "mcq",
+   "pregunta": "Un ahorrista compra acciones de una sociedad extranjera para obtener rendimiento. Según Luisi y Carbone, es:",
+   "opciones": [
+    "Un movimiento de capital, porque su fin es colocar o invertir el monto",
+    "Un pago corriente, porque se paga un precio por las acciones",
+    "Una operación monetaria, porque se cambian divisas",
+    "Un pago corriente si el monto es menor"
+   ],
+   "correcta": "Un movimiento de capital, porque su fin es colocar o invertir el monto",
+   "respuesta": "Un movimiento de capital, porque su fin es colocar o invertir el monto",
+   "explicacion": "La finalidad es colocar o invertir, no remunerar una prestación. La inversión es un tipo de movimiento de capital.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m03",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "Según el Convenio del FMI, un miembro puede:",
+   "opciones": [
+    "Controlar las transferencias de capital, siempre que no obstaculice los pagos corrientes",
+    "Restringir libremente los pagos corrientes si tiene déficit",
+    "Controlar el capital solo con autorización del Comité de Inversiones",
+    "No puede establecer ningún control sobre el capital"
+   ],
+   "correcta": "Controlar las transferencias de capital, siempre que no obstaculice los pagos corrientes",
+   "respuesta": "Controlar las transferencias de capital, siempre que no obstaculice los pagos corrientes",
+   "explicacion": "Art. VI, sección 3: el control del capital está permitido; la libertad garantizada es la de los pagos corrientes. El Comité de Inversiones es de la OCDE, no del FMI.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m04",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "El Código de Liberalización de los Movimientos de Capital de la OCDE es:",
+   "opciones": [
+    "Una Decisión del Consejo de la OCDE, obligatoria para los miembros",
+    "Un conjunto de recomendaciones no vinculantes pero de alto cumplimiento",
+    "Un tratado multilateral abierto a todos los Estados de la ONU",
+    "Una directiva de la Unión Europea"
+   ],
+   "correcta": "Una Decisión del Consejo de la OCDE, obligatoria para los miembros",
+   "respuesta": "Una Decisión del Consejo de la OCDE, obligatoria para los miembros",
+   "explicacion": "'No vinculantes pero de alto cumplimiento' describe al Comité de Basilea, no al CLMC.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m05",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "En el CLMC de la OCDE, una reserva a una operación de la Lista A que se retira:",
+   "opciones": [
+    "No puede reintroducirse",
+    "Puede reintroducirse en cualquier momento",
+    "Puede reintroducirse con aprobación del FMI",
+    "Se convierte automáticamente en una derogación"
+   ],
+   "correcta": "No puede reintroducirse",
+   "respuesta": "No puede reintroducirse",
+   "explicacion": "Lista A: la reserva retirada no vuelve. Lista B: se pueden introducir reservas en cualquier momento.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m06",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "El art. 64 TFUE permite, frente a terceros países:",
+   "opciones": [
+    "Mantener las restricciones al capital existentes a 1993",
+    "Introducir libremente nuevas restricciones",
+    "Exigir reciprocidad para la IDE (Anexo E)",
+    "Suspender la libre circulación entre Estados miembros"
+   ],
+   "correcta": "Mantener las restricciones al capital existentes a 1993",
+   "respuesta": "Mantener las restricciones al capital existentes a 1993",
+   "explicacion": "La reciprocidad del Anexo E es del CLMC (OCDE), no del TFUE. El art. 66 prevé salvaguardias excepcionales.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m07",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "Las normas del Comité de Basilea son:",
+   "opciones": [
+    "No vinculantes pero de alto cumplimiento",
+    "Obligatorias por una Decisión del Consejo",
+    "Obligatorias por ser tratados del G-10",
+    "Normas contables NIIF de una fundación privada"
+   ],
+   "correcta": "No vinculantes pero de alto cumplimiento",
+   "respuesta": "No vinculantes pero de alto cumplimiento",
+   "explicacion": "Basilea (1974, G-10) dicta normas de supervisión bancaria no vinculantes. Las NIIF son del IASB.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m08",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "El Foro de Estabilidad Financiera (1999) fue reemplazado por:",
+   "opciones": [
+    "El Consejo de Estabilidad Financiera, creado por el G-20 de Londres en 2009",
+    "El Comité de Basilea, en 2008",
+    "El GAFI, en 1989",
+    "El Comité sobre el Sistema Financiero Global, por el G-7"
+   ],
+   "correcta": "El Consejo de Estabilidad Financiera, creado por el G-20 de Londres en 2009",
+   "respuesta": "El Consejo de Estabilidad Financiera, creado por el G-20 de Londres en 2009",
+   "explicacion": "FEF (G-7, 1999) → CEF (G-20 de Londres, 2009).",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m09",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "Los instrumentos del GAFI son:",
+   "opciones": [
+    "40 Recomendaciones contra el blanqueo y 9 Especiales contra la financiación del terrorismo",
+    "9 Recomendaciones contra el blanqueo y 40 contra el terrorismo",
+    "Las normas NIIF y la lista de paraísos fiscales",
+    "Las Listas A y B de operaciones liberalizadas"
+   ],
+   "correcta": "40 Recomendaciones contra el blanqueo y 9 Especiales contra la financiación del terrorismo",
+   "respuesta": "40 Recomendaciones contra el blanqueo y 9 Especiales contra la financiación del terrorismo",
+   "explicacion": "GAFI: 1989, G-7 en París. 40 + 9, más la lista de países no cooperantes.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-m10",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "El IASB es:",
+   "opciones": [
+    "Una fundación privada con sede en Londres que dicta las normas contables NIIF",
+    "Un organismo del FMI que supervisa bancos",
+    "El órgano de la OCDE que controla el CLMC",
+    "Un comité del G-20 sobre seguros"
+   ],
+   "correcta": "Una fundación privada con sede en Londres que dicta las normas contables NIIF",
+   "respuesta": "Una fundación privada con sede en Londres que dicta las normas contables NIIF",
+   "explicacion": "IASB (2000): fundación privada con sede en Londres que dicta las NIIF.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-m11",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "La Cláusula Calvo establece que:",
+   "opciones": [
+    "Las controversias van a los tribunales locales y el inversor renuncia a la protección diplomática",
+    "La indemnización debe ser pronta, adecuada y efectiva",
+    "Las controversias se someten al CIADI",
+    "El Estado tiene soberanía permanente sobre sus recursos naturales"
+   ],
+   "correcta": "Las controversias van a los tribunales locales y el inversor renuncia a la protección diplomática",
+   "respuesta": "Las controversias van a los tribunales locales y el inversor renuncia a la protección diplomática",
+   "explicacion": "'Pronta, adecuada y efectiva' es la fórmula Hull; la soberanía permanente es la Res. 1803. Calvo: jurista argentino, 1868.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m12",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "En North American Dredging (1926) se resolvió que la Cláusula Calvo:",
+   "opciones": [
+    "No impide la protección diplomática si hay un ilícito internacional",
+    "Es nula por contraria al derecho internacional",
+    "Impide en todos los casos la protección diplomática",
+    "Solo vale si la aprueba el Senado de EE. UU."
+   ],
+   "correcta": "No impide la protección diplomática si hay un ilícito internacional",
+   "respuesta": "No impide la protección diplomática si hay un ilícito internacional",
+   "explicacion": "La protección diplomática es un derecho del Estado, no del inversor; por eso el inversor no puede renunciarla frente a un ilícito internacional.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-m13",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "La fórmula Hull exige una indemnización:",
+   "opciones": [
+    "Pronta, adecuada y efectiva",
+    "Apropiada, según la ley del Estado que nacionaliza",
+    "Correspondiente, según el Estado que expropia y el derecho internacional",
+    "Justa y equitativa, según la capacidad de pago"
+   ],
+   "correcta": "Pronta, adecuada y efectiva",
+   "respuesta": "Pronta, adecuada y efectiva",
+   "explicacion": "'Apropiada' = Carta de 1974 (Res. 3281); 'correspondiente' = Res. 1803 (1962). México nunca aceptó Hull.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m14",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "La Res. AG 1803 (1962) dispone que, al expropiar, se pague:",
+   "opciones": [
+    "La indemnización correspondiente, según las normas del Estado que expropia y el derecho internacional",
+    "Una indemnización pronta, adecuada y efectiva",
+    "Una compensación apropiada según la ley nacional, sin obligación de no discriminar",
+    "Ninguna indemnización, por la soberanía permanente"
+   ],
+   "correcta": "La indemnización correspondiente, según las normas del Estado que expropia y el derecho internacional",
+   "respuesta": "La indemnización correspondiente, según las normas del Estado que expropia y el derecho internacional",
+   "explicacion": "La 1803 reconoce la obligación de indemnizar, pero no según Hull.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m15",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "La Carta de Derechos y Deberes Económicos de los Estados (1974) prevé:",
+   "opciones": [
+    "Una compensación apropiada según la ley del Estado que nacionaliza",
+    "Una indemnización pronta, adecuada y efectiva",
+    "Una indemnización correspondiente según el derecho internacional",
+    "El arbitraje CIADI obligatorio"
+   ],
+   "correcta": "Una compensación apropiada según la ley del Estado que nacionaliza",
+   "respuesta": "Una compensación apropiada según la ley del Estado que nacionaliza",
+   "explicacion": "Res. 3281, Nuevo Orden Económico Internacional. Se opusieron o abstuvieron los exportadores de capital; su incidencia práctica fue modesta.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m16",
+   "unidad": 7,
+   "tema": "Inversión extranjera directa e indirecta",
+   "tipo": "mcq",
+   "pregunta": "¿Cómo definen la inversión los APPRI?",
+   "opciones": [
+    "En forma amplia ('todo tipo de haberes'), incluida la cartera y la propiedad intelectual",
+    "En forma estricta: relación duradera con control de la gestión",
+    "Solo como adquisición de inmuebles",
+    "Solo como participación mayoritaria en el capital"
+   ],
+   "correcta": "En forma amplia ('todo tipo de haberes'), incluida la cartera y la propiedad intelectual",
+   "respuesta": "En forma amplia ('todo tipo de haberes'), incluida la cartera y la propiedad intelectual",
+   "explicacion": "La definición estricta es la de los instrumentos de liberalización (CLMC).",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m17",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "mcq",
+   "pregunta": "¿Cuál de estos NO figura entre los criterios de 'inversión' del CIADI (Fedax, Bayindir)?",
+   "opciones": [
+    "La participación mayoritaria en el capital social",
+    "Una contribución significativa",
+    "Una duración mínima",
+    "El riesgo económico"
+   ],
+   "correcta": "La participación mayoritaria en el capital social",
+   "respuesta": "La participación mayoritaria en el capital social",
+   "explicacion": "Los criterios son contribución, duración, riesgo y contribución al desarrollo del receptor.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-m18",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "mcq",
+   "pregunta": "En Jan de Nul se consideró que:",
+   "opciones": [
+    "Una duración de 2 años alcanzaba para que hubiera inversión",
+    "Hace falta un mínimo de 10 años",
+    "La duración no tiene relevancia",
+    "Los contratos de obra nunca son inversión"
+   ],
+   "correcta": "Una duración de 2 años alcanzaba para que hubiera inversión",
+   "respuesta": "Una duración de 2 años alcanzaba para que hubiera inversión",
+   "explicacion": "Los criterios del CIADI se aplican con flexibilidad.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-m19",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "mcq",
+   "pregunta": "¿Qué APPRI otorgan TN y NMF en la etapa PRE-establecimiento?",
+   "opciones": [
+    "Los de EE. UU. y Canadá",
+    "La mayoría de los APPRI europeos",
+    "Ninguno: siempre rige el derecho interno",
+    "Solo los APPRI entre países en desarrollo"
+   ],
+   "correcta": "Los de EE. UU. y Canadá",
+   "respuesta": "Los de EE. UU. y Canadá",
+   "explicacion": "La mayoría remite al derecho interno (post-establecimiento). EE. UU./Canadá liberalizan la entrada.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m20",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "mcq",
+   "pregunta": "Si un APPRI remite al derecho interno para la admisión, los requisitos de desempeño:",
+   "opciones": [
+    "Están permitidos, pero deben ser compatibles con el Acuerdo MIC (TRIMs) de la OMC",
+    "Están siempre prohibidos",
+    "Solo los autoriza el CIADI",
+    "Están permitidos sin ningún límite"
+   ],
+   "correcta": "Están permitidos, pero deben ser compatibles con el Acuerdo MIC (TRIMs) de la OMC",
+   "respuesta": "Están permitidos, pero deben ser compatibles con el Acuerdo MIC (TRIMs) de la OMC",
+   "explicacion": "EE. UU./Canadá los prohíben mediante listas negativas (salvo como condición para dar incentivos).",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-m21",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "mcq",
+   "pregunta": "En Maffezini c. España, el inversor argentino usó la cláusula NMF para:",
+   "opciones": [
+    "Evitar el plazo previo de 18 meses ante los tribunales españoles",
+    "Obtener una indemnización según la fórmula Hull",
+    "Que se aplicara la Cláusula Calvo",
+    "Ejecutar el laudo por la Convención de Nueva York"
+   ],
+   "correcta": "Evitar el plazo previo de 18 meses ante los tribunales españoles",
+   "respuesta": "Evitar el plazo previo de 18 meses ante los tribunales españoles",
+   "explicacion": "Es el ejemplo clásico del efecto expansivo de la NMF; se repitió en Gas Natural c. Argentina (2005).",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-m22",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "mcq",
+   "pregunta": "¿Qué laudo ejemplifica la violación del TJE por frustrar expectativas legítimas?",
+   "opciones": [
+    "MTD c. Chile (2004)",
+    "Metalclad c. México (2000)",
+    "Tecmed c. México (2003)",
+    "AAPL c. Sri Lanka (1990)"
+   ],
+   "correcta": "MTD c. Chile (2004)",
+   "respuesta": "MTD c. Chile (2004)",
+   "explicacion": "Metalclad = denegación de tutela judicial; Tecmed = acoso o presión; AAPL = PPS.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m23",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "mcq",
+   "pregunta": "AAPL c. Sri Lanka (1990) se cita para:",
+   "opciones": [
+    "La plena protección y seguridad como diligencia debida frente a la violencia",
+    "El efecto expansivo de la NMF",
+    "Los criterios de inversión del CIADI",
+    "El TJE como concepto flexible y evolutivo"
+   ],
+   "correcta": "La plena protección y seguridad como diligencia debida frente a la violencia",
+   "respuesta": "La plena protección y seguridad como diligencia debida frente a la violencia",
+   "explicacion": "El TJE flexible y evolutivo es Waste Management c. México (2004); la PPS ampliada frente a la arbitrariedad es Azurix c. Argentina.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m24",
+   "unidad": 7,
+   "tema": "Solución de controversias",
+   "tipo": "mcq",
+   "pregunta": "Un laudo dictado bajo el Mecanismo Complementario se ejecuta conforme a:",
+   "opciones": [
+    "La Convención de Nueva York de 1958",
+    "El art. 54 del Convenio CIADI, como sentencia firme nacional",
+    "El art. 25(1) del Convenio CIADI",
+    "El Código de Liberalización de la OCDE"
+   ],
+   "correcta": "La Convención de Nueva York de 1958",
+   "respuesta": "La Convención de Nueva York de 1958",
+   "explicacion": "Solo los laudos CIADI propiamente dichos usan el art. 54. Los del Mecanismo Complementario y los demás no CIADI van por Nueva York 1958.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-m25",
+   "unidad": 7,
+   "tema": "Solución de controversias",
+   "tipo": "mcq",
+   "pregunta": "Según el art. 25(1) del Convenio CIADI, una vez dado el consentimiento:",
+   "opciones": [
+    "No puede retirarse unilateralmente",
+    "Puede retirarse mientras no haya laudo",
+    "Caduca a los 18 meses",
+    "Requiere ratificación del inversor"
+   ],
+   "correcta": "No puede retirarse unilateralmente",
+   "respuesta": "No puede retirarse unilateralmente",
+   "explicacion": "El APPRI es la oferta y el inversor la acepta; desde ahí, el consentimiento es irrevocable.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-m26",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "La Nota interpretativa de la Comisión de Libre Comercio del TLCAN (2001) estableció que el TJE y la PPS:",
+   "opciones": [
+    "No exigen más que el nivel mínimo consuetudinario",
+    "Exigen más que el derecho consuetudinario",
+    "Solo se aplican antes del establecimiento",
+    "Equivalen a la fórmula Hull"
+   ],
+   "correcta": "No exigen más que el nivel mínimo consuetudinario",
+   "respuesta": "No exigen más que el nivel mínimo consuetudinario",
+   "explicacion": "Es una lectura restrictiva del art. 1105 del TLCAN.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-m27",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "mcq",
+   "pregunta": "El Protocolo de Colonia (MERCOSUR, 1994) prevé:",
+   "opciones": [
+    "TN y NMF incluso en el establecimiento, y arbitraje CIADI/CNUDMI",
+    "TN solo post-establecimiento y tribunales locales exclusivos",
+    "La Cláusula Calvo obligatoria",
+    "La libre circulación de capitales con terceros países"
+   ],
+   "correcta": "TN y NMF incluso en el establecimiento, y arbitraje CIADI/CNUDMI",
+   "respuesta": "TN y NMF incluso en el establecimiento, y arbitraje CIADI/CNUDMI",
+   "explicacion": "Además: definición amplia, prohibición de requisitos de exportación y de consumo local, y libre transferencia.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-m28",
+   "unidad": 7,
+   "tema": "Globalización y liberalización de los movimientos de capital",
+   "tipo": "mcq",
+   "pregunta": "El origen de los euromercados se vincula con:",
+   "opciones": [
+    "Las cuentas en dólares de países comunistas fuera de EE. UU. y los petrodólares de los años 70",
+    "La creación del euro en la Unión Europea",
+    "El Código de la OCDE de liberalización",
+    "La crisis de 2008"
+   ],
+   "correcta": "Las cuentas en dólares de países comunistas fuera de EE. UU. y los petrodólares de los años 70",
+   "respuesta": "Las cuentas en dólares de países comunistas fuera de EE. UU. y los petrodólares de los años 70",
+   "explicacion": "Los euromercados son depósitos en divisas fuera del país emisor; nacen de la Guerra Fría y los petrodólares.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-v01",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "vf",
+   "pregunta": "Los miembros del FMI pueden restringir libremente los pagos corrientes.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Los miembros garantizan la libertad de los pagos corrientes; lo que pueden controlar son las transferencias de capital (art. VI.3).",
+    "Es verdadero: el art. VI.3 autoriza controlar cualquier pago.",
+    "Es falso porque el FMI prohíbe todo tipo de control, incluso sobre el capital."
+   ],
+   "justificacionCorrecta": "Los miembros garantizan la libertad de los pagos corrientes; lo que pueden controlar son las transferencias de capital (art. VI.3).",
+   "respuesta": "Falso. Los miembros garantizan la libertad de los pagos corrientes; lo que pueden controlar son las transferencias de capital (art. VI.3).",
+   "explicacion": "Distinción central de la unidad: los pagos corrientes son libres y el capital es controlable, siempre sin obstaculizar los pagos corrientes.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-v02",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "vf",
+   "pregunta": "Las normas del Comité de Basilea son jurídicamente vinculantes para los Estados.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "No son vinculantes, aunque tienen un alto cumplimiento.",
+    "Son vinculantes porque las aprueba el G-10 como tratado.",
+    "Son vinculantes porque son Decisiones del Consejo de la OCDE."
+   ],
+   "justificacionCorrecta": "No son vinculantes, aunque tienen un alto cumplimiento.",
+   "respuesta": "Falso. No son vinculantes, aunque tienen un alto cumplimiento.",
+   "explicacion": "Lo obligatorio por Decisión del Consejo es el CLMC de la OCDE, no Basilea.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-v03",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "vf",
+   "pregunta": "El Código de Liberalización de los Movimientos de Capital de la OCDE es obligatorio para sus miembros.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Verdadero",
+   "justificaciones": [
+    "Es una Decisión del Consejo de la OCDE, obligatoria para los miembros.",
+    "Es una recomendación sin efectos jurídicos.",
+    "Es obligatorio porque lo impone el FMI como condicionalidad."
+   ],
+   "justificacionCorrecta": "Es una Decisión del Consejo de la OCDE, obligatoria para los miembros.",
+   "respuesta": "Verdadero. Es una Decisión del Consejo de la OCDE, obligatoria para los miembros.",
+   "explicacion": "Liberalización progresiva por Listas A y B, con control periódico del Comité de Inversiones.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-v04",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "vf",
+   "pregunta": "En la Lista B del CLMC se pueden introducir reservas en cualquier momento.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Verdadero",
+   "justificaciones": [
+    "Sí: en la Lista B las reservas se pueden introducir en cualquier momento, a diferencia de la Lista A.",
+    "Es falso: en ninguna lista se pueden introducir reservas nuevas.",
+    "Es verdadero porque la Lista B solo contiene pagos corrientes."
+   ],
+   "justificacionCorrecta": "Sí: en la Lista B las reservas se pueden introducir en cualquier momento, a diferencia de la Lista A.",
+   "respuesta": "Verdadero. Sí: en la Lista B las reservas se pueden introducir en cualquier momento, a diferencia de la Lista A.",
+   "explicacion": "Lista A: una reserva retirada no puede reintroducirse.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-v05",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "vf",
+   "pregunta": "El art. 63 TFUE elimina las restricciones a los movimientos de capital solo entre Estados miembros.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Las elimina entre Estados miembros y también con terceros países (con las excepciones de los arts. 64 y 66).",
+    "Es verdadero: la libertad frente a terceros la regula el CLMC.",
+    "Es verdadero: frente a terceros rige la Cláusula Calvo."
+   ],
+   "justificacionCorrecta": "Las elimina entre Estados miembros y también con terceros países (con las excepciones de los arts. 64 y 66).",
+   "respuesta": "Falso. Las elimina entre Estados miembros y también con terceros países (con las excepciones de los arts. 64 y 66).",
+   "explicacion": "Es el rasgo distintivo de la libertad de capitales en la UE.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-v06",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "vf",
+   "pregunta": "La Cláusula Calvo impide en todos los casos que el Estado del inversor ejerza la protección diplomática.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "North American Dredging (1926): no la impide si hay un ilícito internacional, porque la protección diplomática es un derecho del Estado.",
+    "Es verdadero: el inversor renunció válidamente a ella.",
+    "Es falso porque la Cláusula Calvo fue declarada nula por la Res. 1803."
+   ],
+   "justificacionCorrecta": "North American Dredging (1926): no la impide si hay un ilícito internacional, porque la protección diplomática es un derecho del Estado.",
+   "respuesta": "Falso. North American Dredging (1926): no la impide si hay un ilícito internacional, porque la protección diplomática es un derecho del Estado.",
+   "explicacion": "El inversor no puede renunciar a un derecho que pertenece a su Estado.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-v07",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "vf",
+   "pregunta": "México aceptó la fórmula Hull en las negociaciones de 1938-1943.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "México nunca aceptó la fórmula Hull ('pronta, adecuada y efectiva').",
+    "Es verdadero: la aceptó a cambio de la Res. 1803.",
+    "Es verdadero: la incorporó en la Carta de 1974."
+   ],
+   "justificacionCorrecta": "México nunca aceptó la fórmula Hull ('pronta, adecuada y efectiva').",
+   "respuesta": "Falso. México nunca aceptó la fórmula Hull ('pronta, adecuada y efectiva').",
+   "explicacion": "La Carta de 1974 habla de 'compensación apropiada', no de Hull.",
+   "fuente": "Hinojosa",
+   "dificultad": 1,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-v08",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "vf",
+   "pregunta": "La Res. AG 1803 (1962) niega la obligación de indemnizar en caso de expropiación.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "La reconoce: exige 'la indemnización correspondiente' según el Estado que expropia y el derecho internacional, aunque no según Hull.",
+    "Es verdadero: la soberanía permanente excluye toda indemnización.",
+    "Es falso porque la 1803 adopta la fórmula Hull."
+   ],
+   "justificacionCorrecta": "La reconoce: exige 'la indemnización correspondiente' según el Estado que expropia y el derecho internacional, aunque no según Hull.",
+   "respuesta": "Falso. La reconoce: exige 'la indemnización correspondiente' según el Estado que expropia y el derecho internacional, aunque no según Hull.",
+   "explicacion": "La 1803 está entre Hull y la Carta de 1974.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-v09",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "vf",
+   "pregunta": "A los APPRI se les aplica la Convención de Viena de 1969.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Verdadero",
+   "justificaciones": [
+    "Son tratados entre Estados, por eso se rige por la Convención de Viena de 1969.",
+    "Es falso: son contratos entre el Estado y el inversor.",
+    "Es falso: se rigen solo por el Convenio CIADI."
+   ],
+   "justificacionCorrecta": "Son tratados entre Estados, por eso se rige por la Convención de Viena de 1969.",
+   "respuesta": "Verdadero. Son tratados entre Estados, por eso se rige por la Convención de Viena de 1969.",
+   "explicacion": "Antecedente: Tratados de amistad, comercio y navegación.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-v10",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "vf",
+   "pregunta": "El trato justo y equitativo solo se viola cuando hay discriminación.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Se puede violar aunque no haya discriminación (marco estable y predecible, Maffezini c. España 2000).",
+    "Es verdadero: el TJE es una forma de trato nacional.",
+    "Es verdadero: lo dijo Waste Management c. México."
+   ],
+   "justificacionCorrecta": "Se puede violar aunque no haya discriminación (marco estable y predecible, Maffezini c. España 2000).",
+   "respuesta": "Falso. Se puede violar aunque no haya discriminación (marco estable y predecible, Maffezini c. España 2000).",
+   "explicacion": "Waste Management lo define como un concepto flexible y evolutivo.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-v11",
+   "unidad": 7,
+   "tema": "Solución de controversias",
+   "tipo": "vf",
+   "pregunta": "Los laudos CIADI se ejecutan como una sentencia firme nacional, sin ningún límite.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "Se ejecutan como sentencia firme (art. 54), pero tienen el límite de la inmunidad de ejecución.",
+    "Es falso porque se ejecutan por la Convención de Nueva York de 1958.",
+    "Es verdadero: el art. 25(1) elimina la inmunidad de ejecución."
+   ],
+   "justificacionCorrecta": "Se ejecutan como sentencia firme (art. 54), pero tienen el límite de la inmunidad de ejecución.",
+   "respuesta": "Falso. Se ejecutan como sentencia firme (art. 54), pero tienen el límite de la inmunidad de ejecución.",
+   "explicacion": "Nueva York 1958 rige para los laudos no CIADI y del Mecanismo Complementario.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-v12",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "vf",
+   "pregunta": "En la mayoría de los APPRI, el TN y la NMF rigen desde la etapa previa al establecimiento.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Falso",
+   "justificaciones": [
+    "En la mayoría rigen POST-establecimiento, porque la admisión remite al derecho interno; el pre-establecimiento es propio de EE. UU. y Canadá.",
+    "Es verdadero: es la regla general de todos los APPRI.",
+    "Es falso porque los APPRI no contienen cláusulas de TN."
+   ],
+   "justificacionCorrecta": "En la mayoría rigen POST-establecimiento, porque la admisión remite al derecho interno; el pre-establecimiento es propio de EE. UU. y Canadá.",
+   "respuesta": "Falso. En la mayoría rigen POST-establecimiento, porque la admisión remite al derecho interno; el pre-establecimiento es propio de EE. UU. y Canadá.",
+   "explicacion": "Comparación clave: modelo mayoritario vs modelo norteamericano.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-v13",
+   "unidad": 7,
+   "tema": "Inversión extranjera directa e indirecta",
+   "tipo": "vf",
+   "pregunta": "La definición de inversión de un APPRI puede abarcar inversiones de cartera y propiedad intelectual.",
+   "opciones": [
+    "Verdadero",
+    "Falso"
+   ],
+   "correcta": "Verdadero",
+   "justificaciones": [
+    "Los APPRI usan una definición amplia ('todo tipo de haberes').",
+    "Es falso: solo abarca la inversión con control de la gestión.",
+    "Es falso: la cartera es un pago corriente."
+   ],
+   "justificacionCorrecta": "Los APPRI usan una definición amplia ('todo tipo de haberes').",
+   "respuesta": "Verdadero. Los APPRI usan una definición amplia ('todo tipo de haberes').",
+   "explicacion": "La definición estricta corresponde a los instrumentos de liberalización.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-c01",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "caso",
+   "relato": "El Estado de Arcadia firmó un contrato de concesión con Dragas del Norte S.A., de nacionalidad de Beltania. El contrato tiene una cláusula por la que las controversias se resuelven ante los tribunales locales y la empresa renuncia a la protección diplomática. Años después, Arcadia confisca los equipos sin pagar nada, y los tribunales locales rechazan todas las acciones sin tratarlas.",
+   "pregunta": "¿Puede Beltania ejercer la protección diplomática? Fundamentá.",
+   "respuesta": "Sí. Es una Cláusula Calvo, pero según North American Dredging (1926) no impide la protección diplomática cuando hay un ilícito internacional, porque esa protección es un derecho del Estado y no del inversor. Confiscar sin indemnizar es una medida confiscatoria prohibida por el estándar mínimo, y la denegación de justicia agrava el ilícito.",
+   "puntosClave": [
+    "Identificar la Cláusula Calvo (Carlos Calvo, 1868)",
+    "Citar North American Dredging (1926)",
+    "La protección diplomática es un derecho del Estado, no del inversor",
+    "Hay ilícito internacional: confiscación sin indemnización (estándar mínimo)",
+    "Conclusión: Beltania puede ejercer la protección diplomática"
+   ],
+   "explicacion": "Combina Calvo, North American Dredging y el estándar mínimo.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-c02",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "caso",
+   "relato": "Un inversor argentino quiere demandar a España por un APPRI que exige litigar 18 meses ante los tribunales españoles antes de ir al arbitraje. Otro APPRI de España con un tercer país no exige ese plazo.",
+   "pregunta": "¿Puede evitar el plazo de 18 meses? ¿Con qué argumento y qué precedentes?",
+   "respuesta": "Sí, invocando la cláusula NMF del APPRI aplicable para aprovechar el trato más favorable del otro tratado, que no exige el plazo. Así lo resolvió Maffezini c. España (2000), y lo mismo en Gas Natural c. Argentina (2005). Es el efecto expansivo de la NMF.",
+   "puntosClave": [
+    "Cláusula de nación más favorecida (NMF)",
+    "Efecto expansivo de la NMF",
+    "Maffezini c. España (2000): evitar los 18 meses",
+    "Gas Natural c. Argentina (2005)"
+   ],
+   "explicacion": "Clave: la NMF aplicada a requisitos procesales.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-c03",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "caso",
+   "relato": "Una empresa extranjera obtuvo autorizaciones para operar una planta. Después, el Estado receptor cambió las reglas de forma sorpresiva, contradijo lo que había autorizado y empezó una campaña de inspecciones para presionarla a irse. No hubo trato discriminatorio frente a empresas nacionales.",
+   "pregunta": "¿Qué estándar del APPRI puede invocar la empresa? ¿Importa que no haya habido discriminación?",
+   "respuesta": "El trato justo y equitativo. Es un concepto flexible y evolutivo (Waste Management c. México 2004) que exige un marco jurídico estable, transparente y predecible (Maffezini c. España 2000). Se viola por frustrar expectativas legítimas (MTD c. Chile 2004) y por acoso o presión (Tecmed c. México 2003). No hace falta discriminación: el TJE se puede violar sin ella.",
+   "puntosClave": [
+    "Trato justo y equitativo (TJE)",
+    "Marco estable y predecible (Maffezini)",
+    "Expectativas legítimas (MTD c. Chile)",
+    "Acoso o presión (Tecmed c. México)",
+    "No requiere discriminación"
+   ],
+   "explicacion": "El TJE es autónomo respecto de la no discriminación.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-c04",
+   "unidad": 7,
+   "tema": "Solución de controversias",
+   "tipo": "caso",
+   "relato": "Inversiones Sur obtuvo un laudo favorable contra un Estado. Su abogada duda: un colega le dice que se ejecuta 'como una sentencia firme', y otro, que hay que ir por la Convención de Nueva York.",
+   "pregunta": "¿Quién tiene razón? Distinguí según el tipo de arbitraje y señalá el límite de la ejecución.",
+   "respuesta": "Depende del arbitraje. Si es un laudo CIADI, se ejecuta como una sentencia firme nacional (art. 54 del Convenio CIADI), con el límite de la inmunidad de ejecución. Si es un laudo no CIADI (por ejemplo, CNUDMI) o del Mecanismo Complementario, rige la Convención de Nueva York de 1958. Además, el consentimiento al arbitraje no podía retirarse unilateralmente (art. 25(1)).",
+   "puntosClave": [
+    "Laudo CIADI → art. 54: como sentencia firme nacional",
+    "Límite: inmunidad de ejecución",
+    "No CIADI (CNUDMI) y Mecanismo Complementario → Nueva York 1958",
+    "Consentimiento irrevocable (art. 25(1))"
+   ],
+   "explicacion": "Confusión típica entre CIADI, Mecanismo Complementario y CNUDMI.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-c05",
+   "unidad": 7,
+   "tema": "Pagos corrientes y movimientos de capital",
+   "tipo": "caso",
+   "relato": "El país Z, miembro del FMI, atraviesa una crisis. Dicta un decreto que (a) prohíbe a sus residentes comprar acciones y bonos en el exterior y (b) también impide pagar las importaciones de insumos ya recibidos.",
+   "pregunta": "¿Son compatibles ambas medidas con el Convenio del FMI?",
+   "respuesta": "(a) Sí en principio: es un control de transferencias de capital (comprar valores busca colocar o invertir; Luisi y Carbone), permitido por el art. VI.3. (b) No: pagar importaciones es un pago corriente (contraprestación de una transacción subyacente), y los miembros garantizan su libertad. Además, el control del capital no puede obstaculizar los pagos corrientes. El FMI no tiene un poder general sobre el capital, salvo la condicionalidad.",
+   "puntosClave": [
+    "Calificar (a) como movimiento de capital y (b) como pago corriente (Luisi y Carbone)",
+    "Art. VI.3: control del capital permitido",
+    "Libertad de pagos corrientes garantizada",
+    "El control del capital no puede obstaculizar los pagos corrientes"
+   ],
+   "explicacion": "Aplicación directa de la distinción de la unidad.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-d01",
+   "unidad": 7,
+   "tema": "Pagos corrientes y movimientos de capital",
+   "tipo": "desarrollo",
+   "pregunta": "Explicá la distinción entre pagos corrientes y movimientos de capital y su relevancia en el régimen del FMI.",
+   "respuesta": "Según Luisi y Carbone (TJCE, 1984), los pagos corrientes son transferencias de divisas que son la contraprestación de una transacción subyacente (pagar un bien o un servicio), y los movimientos de capital son operaciones cuyo fin es colocar o invertir el monto. La inversión es un tipo de movimiento de capital. La distinción importa en el FMI: su objetivo es la estabilidad cambiaria y un sistema multilateral de pagos, por eso los miembros garantizan la libertad de los pagos corrientes, pero pueden controlar las transferencias de capital (art. VI.3) si no obstaculizan los pagos corrientes. El FMI no tiene un poder general sobre el capital, salvo la condicionalidad cuando un país usa sus recursos. Se suma la diferencia entre operación financiera y monetaria.",
+   "puntosClave": [
+    "Definición de pago corriente (contraprestación de una transacción subyacente)",
+    "Definición de movimiento de capital (colocar o invertir)",
+    "Cita: Luisi y Carbone, TJCE 1984",
+    "La inversión como especie de movimiento de capital",
+    "FMI: libertad de pagos corrientes",
+    "Art. VI.3: control del capital sin obstaculizar los pagos corrientes",
+    "Sin poder general del FMI, salvo la condicionalidad"
+   ],
+   "explicacion": "Pregunta de base: si falla la distinción, falla todo el resto.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-d02",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "desarrollo",
+   "pregunta": "Compará los instrumentos de liberalización de los movimientos de capital: FMI, Código de la OCDE y Unión Europea.",
+   "respuesta": "FMI: busca estabilidad cambiaria y un sistema multilateral de pagos; garantiza la libertad de pagos corrientes y permite controlar el capital (art. VI.3), sin poder general salvo la condicionalidad. OCDE: el CLMC es una Decisión del Consejo, obligatoria; liberalización progresiva por Listas A y B (en la A una reserva retirada no vuelve; en la B se pueden introducir en cualquier momento); derogaciones como salvaguardia temporal; no discriminación; reciprocidad posible para IDE y establecimiento (Anexo E); control del Comité de Inversiones. UE: la libre circulación de capitales es una de las 4 libertades; el art. 63 TFUE elimina las restricciones entre miembros y con terceros; el art. 64 mantiene frente a terceros las restricciones existentes a 1993; el art. 66 prevé salvaguardias excepcionales; la Directiva 88/361 da una noción amplia. Síntesis: el FMI solo garantiza los pagos corrientes; la OCDE obliga a liberalizar de forma progresiva; la UE abre incluso frente a terceros.",
+   "puntosClave": [
+    "FMI: pagos corrientes libres / capital controlable (VI.3)",
+    "CLMC: Decisión obligatoria del Consejo OCDE",
+    "Listas A y B y régimen de reservas",
+    "Derogaciones, no discriminación, reciprocidad (Anexo E)",
+    "Comité de Inversiones",
+    "UE: art. 63 (también frente a terceros)",
+    "Arts. 64 (restricciones a 1993) y 66 (salvaguardias)",
+    "Conclusión comparativa"
+   ],
+   "explicacion": "Un cuadro comparativo bien armado vale tanto como el texto.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-d03",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "desarrollo",
+   "pregunta": "Desarrollá la evolución del derecho internacional general sobre la protección de la inversión extranjera y la indemnización por expropiación.",
+   "respuesta": "Las potencias coloniales invocaban los 'principios de las naciones civilizadas'. Como reacción a las intervenciones armadas de EE. UU. en América Latina, surge la Cláusula Calvo (Carlos Calvo, 1868): tribunales locales y renuncia a la protección diplomática. North American Dredging (1926) la limitó: no impide la protección diplomática ante un ilícito internacional. Los países desarrollados sostienen un estándar mínimo (TJE, PPS, no discriminación entre nacionales de terceros países, prohibición de medidas confiscatorias). La fórmula Hull (1938-1943, frente a México, que nunca la aceptó) exige una indemnización pronta, adecuada y efectiva. La Res. 1803 (1962) consagra la soberanía permanente sobre los recursos naturales y una 'indemnización correspondiente'. La Carta de Derechos y Deberes (Res. 3281, 1974, NOEI) habla de 'compensación apropiada' según la ley nacional, con oposición de los exportadores de capital y una incidencia modesta. Desde los 90 se impone una visión positiva de la IED y proliferan los APPRI; la compensación apropiada puede considerar la capacidad de pago.",
+   "puntosClave": [
+    "Principios de las naciones civilizadas",
+    "Cláusula Calvo (1868) y su contexto",
+    "North American Dredging (1926)",
+    "Estándar mínimo (4 elementos)",
+    "Fórmula Hull: pronta, adecuada y efectiva; México no la aceptó",
+    "Res. 1803 (1962): indemnización correspondiente",
+    "Carta 3281 (1974): compensación apropiada, NOEI",
+    "Giro de los 90: APPRI y capacidad de pago"
+   ],
+   "explicacion": "Línea de tiempo + confusables (Calvo/Hull/1803/3281) en una sola pregunta.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-d04",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "desarrollo",
+   "pregunta": "Describí las cláusulas usuales de los APPRI, con al menos un caso para cada una.",
+   "respuesta": "Definición de inversión: amplia ('todo tipo de haberes'); criterios CIADI: contribución, duración, riesgo y desarrollo (Fedax 1997, Bayindir 2005), con flexibilidad (Jan de Nul). Inversor: persona física por nacionalidad (a veces efectiva, en la línea de Nottebohm); persona jurídica por constitución + sede o actividad (EE. UU. 2004) o por control (Francia 2006). Admisión: remite al derecho interno (TN/NMF post-establecimiento), salvo EE. UU./Canadá (pre-establecimiento); requisitos de desempeño compatibles con el Acuerdo MIC. TJE: flexible (Waste Management), marco estable (Maffezini), expectativas legítimas (MTD), denegación de tutela (Metalclad), acoso (Tecmed). PPS: diligencia debida (AAPL), versión ampliada (Azurix). No discriminación: NMF con efecto expansivo (Maffezini, Gas Natural) y TN. Expropiación lícita: interés general, no discriminatoria, debido proceso, compensación. Transferencias: repatriar beneficios y el producido de la liquidación.",
+   "puntosClave": [
+    "Definición de inversión + criterios CIADI (Fedax/Bayindir)",
+    "Inversor (física/jurídica)",
+    "Admisión pre/post establecimiento",
+    "Requisitos de desempeño y Acuerdo MIC",
+    "TJE con casos",
+    "PPS con casos",
+    "NMF/TN y efecto expansivo (Maffezini)",
+    "Expropiación lícita (4 requisitos)",
+    "Transferencias"
+   ],
+   "explicacion": "Integra casi todos los casos de la unidad.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-d05",
+   "unidad": 7,
+   "tema": "Solución de controversias",
+   "tipo": "desarrollo",
+   "pregunta": "Explicá el sistema de solución de controversias de los APPRI y la ejecución de los laudos.",
+   "respuesta": "Hay dos vías: Estado-Estado, por arbitraje, e inversor-Estado, por arbitraje internacional (CIADI, CNUDMI, etc.). El APPRI funciona como la oferta del Estado y el inversor la acepta; una vez dado, el consentimiento no puede retirarse unilateralmente (art. 25(1) del Convenio CIADI). Algunos tratados exigen agotar los recursos internos o un plazo previo, aunque la NMF puede permitir evitarlo (Maffezini). Ejecución: los laudos CIADI se ejecutan como una sentencia firme nacional (art. 54), con el límite de la inmunidad de ejecución; los no CIADI y los del Mecanismo Complementario se rigen por la Convención de Nueva York de 1958. En lo regional, el TLCAN (arts. 1115-1138) y el Protocolo de Colonia (CIADI/CNUDMI) prevén el arbitraje inversor-Estado.",
+   "puntosClave": [
+    "Vía Estado-Estado y vía inversor-Estado",
+    "Oferta (APPRI) + aceptación (inversor)",
+    "Art. 25(1): consentimiento irrevocable",
+    "Requisitos previos (recursos internos/plazo) y NMF",
+    "Art. 54: laudo CIADI como sentencia firme; inmunidad de ejecución",
+    "No CIADI y Mecanismo Complementario: Nueva York 1958",
+    "Referencias regionales (TLCAN/Colonia)"
+   ],
+   "explicacion": "Diferenciá bien CIADI, Mecanismo Complementario y CNUDMI.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-d06",
+   "unidad": 7,
+   "tema": "Evaluación crítica de los TBI",
+   "tipo": "desarrollo",
+   "pregunta": "Hacé una evaluación crítica de los TBI/APPRI a partir del texto.",
+   "respuesta": "Las normas sobre IED limitan la soberanía estatal: hay una tensión entre el país receptor, que quiere regular, y el país de origen, que quiere proteger al inversor; por eso no hay consenso universal y el régimen está fragmentado en más de 2.500 APPRI (según el texto, 2010). América Latina al principio los veía como neocolonialismo, en la tradición de Calvo, y en los 90 cambió de postura. Puntos de tensión: la definición amplia de inversión ('todo tipo de haberes'); el TJE como concepto flexible y evolutivo, que puede violarse sin discriminación; el efecto expansivo de la NMF (Maffezini), que permite evitar requisitos procesales negociados; el consentimiento irrevocable al arbitraje. Contrapesos: la Nota interpretativa del TLCAN (2001), que limita el TJE y la PPS al mínimo consuetudinario; la admisión según el derecho interno en la mayoría de los APPRI; los requisitos de desempeño permitidos si son compatibles con el Acuerdo MIC; la compensación apropiada, que puede considerar la capacidad de pago.",
+   "puntosClave": [
+    "Tensión soberanía: receptor vs país de origen",
+    "Falta de consenso universal → proliferación bilateral (según el texto, 2010)",
+    "Giro de América Latina (de reacia a favorable en los 90)",
+    "Definición amplia y TJE flexible",
+    "Efecto expansivo de la NMF (Maffezini)",
+    "Contrapesos: Nota interpretativa 2001, admisión según el derecho interno, capacidad de pago",
+    "Conclusión propia fundada"
+   ],
+   "explicacion": "Ojo: la 'evaluación crítica' tiene que apoyarse en lo que dice el texto, no en opiniones sueltas.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-d07",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "desarrollo",
+   "pregunta": "Compará la regulación regional de la inversión en el TLCAN (cap. 11) y en el MERCOSUR (Protocolo de Colonia).",
+   "respuesta": "TLCAN cap. 11: TN y NMF incluso en el establecimiento (arts. 1102-1103); nivel mínimo de trato (art. 1105), que según la Nota interpretativa de la Comisión de Libre Comercio de 2001 no exige más que el mínimo consuetudinario para el TJE y la PPS; prohibición de requisitos de desempeño (art. 1106); arbitraje inversor-Estado (arts. 1115-1138). MERCOSUR, Protocolo de Colonia (1994): definición amplia de inversión; TN y NMF incluso en el establecimiento; arbitraje CIADI/CNUDMI; prohibición de requisitos de exportación y de consumo local; libre transferencia. Ambos siguen el modelo de liberalización de la entrada (pre-establecimiento), a diferencia de la mayoría de los APPRI. También existen instrumentos en la ASEAN (Manila 1987; Acuerdo Marco 1998).",
+   "puntosClave": [
+    "TLCAN: TN/NMF en el establecimiento (1102-1103)",
+    "Art. 1105 + Nota interpretativa 2001",
+    "Art. 1106: requisitos de desempeño",
+    "Arbitraje 1115-1138",
+    "Colonia 1994: definición amplia, TN/NMF en el establecimiento",
+    "Colonia: CIADI/CNUDMI, requisitos prohibidos, libre transferencia",
+    "Comparación con el modelo mayoritario de APPRI"
+   ],
+   "explicacion": "Datos de artículos: memorizalos con flashcards.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-r01",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "matching",
+   "pregunta": "Relacioná cada caso con el principio que ilustra.",
+   "pares": [
+    {
+     "a": "Luisi y Carbone (1984)",
+     "b": "Pagos corrientes vs movimientos de capital"
+    },
+    {
+     "a": "North American Dredging (1926)",
+     "b": "Límite de la Cláusula Calvo"
+    },
+    {
+     "a": "Fedax c. Venezuela (1997)",
+     "b": "Criterios de 'inversión' del CIADI"
+    },
+    {
+     "a": "Maffezini c. España (2000)",
+     "b": "Efecto expansivo de la NMF"
+    },
+    {
+     "a": "MTD c. Chile (2004)",
+     "b": "TJE: expectativas legítimas"
+    },
+    {
+     "a": "Metalclad c. México (2000)",
+     "b": "TJE: denegación de tutela judicial"
+    },
+    {
+     "a": "Tecmed c. México (2003)",
+     "b": "TJE: acoso o presión"
+    },
+    {
+     "a": "AAPL c. Sri Lanka (1990)",
+     "b": "PPS: diligencia debida frente a la violencia"
+    }
+   ],
+   "respuesta": "Luisi y Carbone (1984) → Pagos corrientes vs movimientos de capital; North American Dredging (1926) → Límite de la Cláusula Calvo; Fedax c. Venezuela (1997) → Criterios de 'inversión' del CIADI; Maffezini c. España (2000) → Efecto expansivo de la NMF; MTD c. Chile (2004) → TJE: expectativas legítimas; Metalclad c. México (2000) → TJE: denegación de tutela judicial; Tecmed c. México (2003) → TJE: acoso o presión; AAPL c. Sri Lanka (1990) → PPS: diligencia debida frente a la violencia",
+   "explicacion": "Cada concepto atado a su caso: es lo que más suma en un desarrollo.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-r02",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "matching",
+   "pregunta": "Relacioná cada institución con su año de creación.",
+   "pares": [
+    {
+     "a": "Comité de Basilea",
+     "b": "1974"
+    },
+    {
+     "a": "IOSCO",
+     "b": "1983"
+    },
+    {
+     "a": "GAFI",
+     "b": "1989"
+    },
+    {
+     "a": "IAIS",
+     "b": "1994"
+    },
+    {
+     "a": "Foro Conjunto sobre Conglomerados Financieros",
+     "b": "1996"
+    },
+    {
+     "a": "Foro de Estabilidad Financiera",
+     "b": "1999"
+    },
+    {
+     "a": "IASB",
+     "b": "2000"
+    },
+    {
+     "a": "Consejo de Estabilidad Financiera",
+     "b": "2009"
+    }
+   ],
+   "respuesta": "Comité de Basilea → 1974; IOSCO → 1983; GAFI → 1989; IAIS → 1994; Foro Conjunto sobre Conglomerados Financieros → 1996; Foro de Estabilidad Financiera → 1999; IASB → 2000; Consejo de Estabilidad Financiera → 2009",
+   "explicacion": "Ayuda para memorizar: bancos (74) → valores (83) → lavado (89) → seguros (94).",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "mnemotecnia"
+   ]
+  },
+  {
+   "id": "u07-r03",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "matching",
+   "pregunta": "Relacioná cada instrumento con su contenido.",
+   "pares": [
+    {
+     "a": "Fórmula Hull",
+     "b": "Indemnización pronta, adecuada y efectiva"
+    },
+    {
+     "a": "Res. AG 1803 (1962)",
+     "b": "Indemnización correspondiente"
+    },
+    {
+     "a": "Carta de Derechos y Deberes (1974)",
+     "b": "Compensación apropiada según la ley nacional"
+    },
+    {
+     "a": "Cláusula Calvo",
+     "b": "Tribunales locales y renuncia a la protección diplomática"
+    },
+    {
+     "a": "Art. VI.3 Convenio FMI",
+     "b": "Control de transferencias de capital"
+    },
+    {
+     "a": "Art. 64 TFUE",
+     "b": "Restricciones con terceros existentes a 1993"
+    },
+    {
+     "a": "Anexo E del CLMC",
+     "b": "Reciprocidad para IDE y establecimiento"
+    },
+    {
+     "a": "Art. 54 Convenio CIADI",
+     "b": "Ejecución del laudo como sentencia firme"
+    }
+   ],
+   "respuesta": "Fórmula Hull → Indemnización pronta, adecuada y efectiva; Res. AG 1803 (1962) → Indemnización correspondiente; Carta de Derechos y Deberes (1974) → Compensación apropiada según la ley nacional; Cláusula Calvo → Tribunales locales y renuncia a la protección diplomática; Art. VI.3 Convenio FMI → Control de transferencias de capital; Art. 64 TFUE → Restricciones con terceros existentes a 1993; Anexo E del CLMC → Reciprocidad para IDE y establecimiento; Art. 54 Convenio CIADI → Ejecución del laudo como sentencia firme",
+   "explicacion": "Calvo vs Hull vs 1803 vs 3281: el clásico de los confusables.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": [
+    "confusables"
+   ]
+  },
+  {
+   "id": "u07-t01",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "timeline",
+   "pregunta": "Ordená cronológicamente la evolución del derecho internacional sobre la inversión extranjera.",
+   "eventos": [
+    {
+     "fecha": "1868",
+     "texto": "Cláusula Calvo"
+    },
+    {
+     "fecha": "1926",
+     "texto": "North American Dredging"
+    },
+    {
+     "fecha": "1938-1943",
+     "texto": "Fórmula Hull (negociaciones con México)"
+    },
+    {
+     "fecha": "1962",
+     "texto": "Res. AG 1803: soberanía permanente"
+    },
+    {
+     "fecha": "1974",
+     "texto": "Carta de Derechos y Deberes Económicos (Res. 3281)"
+    },
+    {
+     "fecha": "Años 90",
+     "texto": "Visión positiva de la IED y proliferación de APPRI"
+    }
+   ],
+   "respuesta": "1868: Cláusula Calvo → 1926: North American Dredging → 1938-1943: Fórmula Hull (negociaciones con México) → 1962: Res. AG 1803: soberanía permanente → 1974: Carta de Derechos y Deberes Económicos (Res. 3281) → Años 90: Visión positiva de la IED y proliferación de APPRI",
+   "explicacion": "De la reacción latinoamericana al auge de los APPRI.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-t02",
+   "unidad": 7,
+   "tema": "Regulación internacional de la IED",
+   "tipo": "timeline",
+   "pregunta": "Ordená la creación de las instituciones financieras técnicas.",
+   "eventos": [
+    {
+     "fecha": "1974",
+     "texto": "Comité de Basilea"
+    },
+    {
+     "fecha": "1983",
+     "texto": "IOSCO"
+    },
+    {
+     "fecha": "1989",
+     "texto": "GAFI"
+    },
+    {
+     "fecha": "1994",
+     "texto": "IAIS"
+    },
+    {
+     "fecha": "1999",
+     "texto": "Foro de Estabilidad Financiera"
+    },
+    {
+     "fecha": "2000",
+     "texto": "IASB"
+    },
+    {
+     "fecha": "2009",
+     "texto": "Consejo de Estabilidad Financiera"
+    }
+   ],
+   "respuesta": "1974: Comité de Basilea → 1983: IOSCO → 1989: GAFI → 1994: IAIS → 1999: Foro de Estabilidad Financiera → 2000: IASB → 2009: Consejo de Estabilidad Financiera",
+   "explicacion": "Del G-10 al G-20.",
+   "fuente": "Hinojosa",
+   "dificultad": 2,
+   "etiquetas": []
+  },
+  {
+   "id": "u07-t03",
+   "unidad": 7,
+   "tema": "TBI/APPRI y cláusulas usuales",
+   "tipo": "timeline",
+   "pregunta": "Ordená cronológicamente los laudos y casos citados en la unidad.",
+   "eventos": [
+    {
+     "fecha": "1984",
+     "texto": "Luisi y Carbone (TJCE)"
+    },
+    {
+     "fecha": "1990",
+     "texto": "AAPL c. Sri Lanka"
+    },
+    {
+     "fecha": "1997",
+     "texto": "Fedax c. Venezuela"
+    },
+    {
+     "fecha": "2000",
+     "texto": "Maffezini c. España / Metalclad c. México"
+    },
+    {
+     "fecha": "2003",
+     "texto": "Tecmed c. México"
+    },
+    {
+     "fecha": "2004",
+     "texto": "MTD c. Chile / Waste Management c. México"
+    },
+    {
+     "fecha": "2005",
+     "texto": "Bayindir c. Pakistán / Gas Natural c. Argentina"
+    }
+   ],
+   "respuesta": "1984: Luisi y Carbone (TJCE) → 1990: AAPL c. Sri Lanka → 1997: Fedax c. Venezuela → 2000: Maffezini c. España / Metalclad c. México → 2003: Tecmed c. México → 2004: MTD c. Chile / Waste Management c. México → 2005: Bayindir c. Pakistán / Gas Natural c. Argentina",
+   "explicacion": "Útil para ubicar la jurisprudencia arbitral.",
+   "fuente": "Hinojosa",
+   "dificultad": 3,
+   "etiquetas": []
+  }
+ ]
+}

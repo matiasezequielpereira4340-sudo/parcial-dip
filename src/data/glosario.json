@@ -1,0 +1,289 @@
+[
+ {
+  "sigla": "APPRI",
+  "nombre": "Acuerdos de Promoción y Protección Recíproca de Inversiones",
+  "definicion": "Tratados entre Estados (Convención de Viena 1969) que protegen la inversión; según el texto (2010), más de 2.500. Sinónimo de TBI.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "TBI",
+  "nombre": "Tratado Bilateral de Inversión",
+  "definicion": "Sinónimo de APPRI. Antecedente: Tratados de amistad, comercio y navegación.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "CIADI",
+  "nombre": "Centro Internacional de Arreglo de Diferencias relativas a Inversiones",
+  "definicion": "Arbitraje inversor-Estado. Consentimiento irrevocable (art. 25(1)); laudo ejecutable como sentencia firme (art. 54), con el límite de la inmunidad de ejecución. Criterios de inversión: Fedax, Bayindir.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "CNUDMI",
+  "nombre": "Comisión de las Naciones Unidas para el Derecho Mercantil Internacional",
+  "definicion": "Arbitraje alternativo al CIADI en los APPRI. Sus laudos (no CIADI) se ejecutan por la Convención de Nueva York de 1958.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "TJE",
+  "nombre": "Trato justo y equitativo",
+  "definicion": "Concepto flexible y evolutivo (Waste Management); marco estable y predecible (Maffezini); se viola sin discriminación (MTD, Metalclad, Tecmed).",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "PPS",
+  "nombre": "Plena protección y seguridad",
+  "definicion": "Diligencia debida frente a la violencia (AAPL c. Sri Lanka 1990); versión ampliada frente a la arbitrariedad (Azurix c. Argentina).",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "NMF",
+  "nombre": "Nación más favorecida",
+  "definicion": "No discriminación entre extranjeros. Efecto expansivo: Maffezini c. España, Gas Natural c. Argentina (2005).",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "TN",
+  "nombre": "Trato nacional",
+  "definicion": "No discriminación frente a los nacionales. En la mayoría de los APPRI rige post-establecimiento; EE. UU./Canadá lo dan pre-establecimiento.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "IED / IDE",
+  "nombre": "Inversión extranjera directa",
+  "definicion": "Liberalización (CLMC): estricta, relación duradera + gestión o control. Protección (APPRI): amplia, 'todo tipo de haberes'.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "CLMC",
+  "nombre": "Código de Liberalización de los Movimientos de Capital (OCDE)",
+  "definicion": "Decisión obligatoria del Consejo de la OCDE; Listas A y B; derogaciones; reciprocidad (Anexo E); Comité de Inversiones.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "FMI",
+  "nombre": "Fondo Monetario Internacional",
+  "definicion": "Estabilidad cambiaria y sistema multilateral de pagos; libertad de pagos corrientes; control del capital permitido (art. VI.3).",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "GAFI",
+  "nombre": "Grupo de Acción Financiera Internacional",
+  "definicion": "1989, G-7 en París. 40 Recomendaciones contra el blanqueo + 9 Especiales contra la financiación del terrorismo; lista de países no cooperantes.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "IOSCO",
+  "nombre": "Organización Internacional de Comisiones de Valores",
+  "definicion": "Institución técnica de valores (1983).",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "IAIS",
+  "nombre": "Asociación Internacional de Supervisores de Seguros",
+  "definicion": "Institución técnica de seguros (1994).",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "IASB",
+  "nombre": "Consejo de Normas Internacionales de Contabilidad",
+  "definicion": "Fundación privada en Londres (2000) que dicta las NIIF.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "NIIF",
+  "nombre": "Normas Internacionales de Información Financiera",
+  "definicion": "Normas contables del IASB.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "CEF",
+  "nombre": "Consejo de Estabilidad Financiera",
+  "definicion": "Creado por el G-20 de Londres (2009); reemplazó al Foro de Estabilidad Financiera (1999, G-7).",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "BPI",
+  "nombre": "Banco de Pagos Internacionales",
+  "definicion": "Sede del Comité de Basilea.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "TFUE",
+  "nombre": "Tratado de Funcionamiento de la Unión Europea",
+  "definicion": "Art. 63: libre circulación de capitales (también frente a terceros); art. 64: restricciones a 1993; art. 66: salvaguardias.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "TJCE",
+  "nombre": "Tribunal de Justicia de las Comunidades Europeas",
+  "definicion": "Luisi y Carbone (1984): pagos corrientes vs movimientos de capital.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "MIC / TRIMs",
+  "nombre": "Acuerdo sobre las Medidas en materia de Inversiones relacionadas con el Comercio (OMC)",
+  "definicion": "Límite a los requisitos de desempeño permitidos por los APPRI.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "TLCAN",
+  "nombre": "Tratado de Libre Comercio de América del Norte",
+  "definicion": "Cap. 11: TN/NMF en el establecimiento (1102-1103), nivel mínimo (1105), requisitos de desempeño (1106), arbitraje (1115-1138). Nota interpretativa 2001.",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "NOEI",
+  "nombre": "Nuevo Orden Económico Internacional",
+  "definicion": "Marco de la Carta de Derechos y Deberes Económicos de los Estados (Res. 3281, 1974).",
+  "unidad": 7,
+  "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "AMGI",
+  "nombre": "Agencia Multilateral de Garantía de Inversiones",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "AII",
+  "nombre": "Acuerdos internacionales de inversión",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "ACR",
+  "nombre": "Acuerdos comerciales regionales",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "ZLC",
+  "nombre": "Zona de libre comercio",
+  "definicion": "Pendiente. Confusable con UA.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "UA",
+  "nombre": "Unión aduanera",
+  "definicion": "Pendiente. Confusable con ZLC.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "MC",
+  "nombre": "Mercado común",
+  "definicion": "Pendiente. Ojo: no confundir con el Mecanismo Complementario del CIADI.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "UEM",
+  "nombre": "Unión Económica y Monetaria",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "CACR",
+  "nombre": "Comité de Acuerdos Comerciales Regionales (OMC)",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "OSD",
+  "nombre": "Órgano de Solución de Diferencias (OMC)",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "AGCS",
+  "nombre": "Acuerdo General sobre el Comercio de Servicios",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "ACNUR",
+  "nombre": "Alto Comisionado de las Naciones Unidas para los Refugiados",
+  "definicion": "Pendiente. Confusable: asilo vs refugio.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "OIM",
+  "nombre": "Organización Internacional para las Migraciones",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "PNUMA",
+  "nombre": "Programa de las Naciones Unidas para el Medio Ambiente",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "CMNUCC",
+  "nombre": "Convención Marco de las Naciones Unidas sobre el Cambio Climático",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "CDB",
+  "nombre": "Convenio sobre la Diversidad Biológica",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "RCPD",
+  "nombre": "Responsabilidades comunes pero diferenciadas",
+  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "EIA",
+  "nombre": "Evaluación de impacto ambiental",
+  "definicion": "Pendiente. Vinculada a Plantas de Celulosa.",
+  "unidad": null,
+  "fuente": "Complemento"
+ },
+ {
+  "sigla": "CARU",
+  "nombre": "Comisión Administradora del Río Uruguay",
+  "definicion": "Pendiente. Vinculada a Plantas de Celulosa.",
+  "unidad": null,
+  "fuente": "Complemento"
+ }
+]

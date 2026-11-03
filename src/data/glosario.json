@@ -93,9 +93,9 @@
  {
   "sigla": "CARU",
   "nombre": "Comisión Administradora del Río Uruguay",
-  "definicion": "Pendiente. Vinculada a Plantas de Celulosa.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Creada por el Estatuto de 1975. Según la CIJ en Plantas de Celulosa (2010) tiene un rol central: informarla (art. 7) es la primera etapa del mecanismo procesal.",
+  "unidad": 10,
+  "fuente": "Mollar"
  },
  {
   "sigla": "CCI",
@@ -107,9 +107,9 @@
  {
   "sigla": "CDB",
   "nombre": "Convenio sobre la Diversidad Biológica",
-  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Adoptado en Río 1992. Recepta el no daño (art. 3), la prevención y la precaución; Protocolo de Cartagena sobre Seguridad de la Biotecnología (2000).",
+  "unidad": 10,
+  "fuente": "Mollar"
  },
  {
   "sigla": "CDN",
@@ -147,6 +147,13 @@
   "fuente": "Hinojosa"
  },
  {
+  "sigla": "CITES",
+  "nombre": "Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (1973)",
+  "definicion": "Sistema de cooperación para controlar el tráfico de especies; fue de los primeros en exigir informes anuales y bianuales.",
+  "unidad": 10,
+  "fuente": "Mollar"
+ },
+ {
   "sigla": "CLMC",
   "nombre": "Código de Liberalización de los Movimientos de Capital (OCDE)",
   "definicion": "Decisión obligatoria del Consejo de la OCDE; Listas A y B; derogaciones; reciprocidad (Anexo E); Comité de Inversiones.",
@@ -156,9 +163,9 @@
  {
   "sigla": "CMNUCC",
   "nombre": "Convención Marco de las Naciones Unidas sobre el Cambio Climático",
-  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Adoptada en Río 1992. Recepta el no daño (preámbulo), las RCPD y el desarrollo sostenible; COP como órgano supremo (art. 7.2) y mecanismo consultivo (art. 13). Protocolo de Kyoto (1997).",
+  "unidad": 10,
+  "fuente": "Mollar"
  },
  {
   "sigla": "CNUDMI",
@@ -191,9 +198,9 @@
  {
   "sigla": "EIA",
   "nombre": "Evaluación de impacto ambiental",
-  "definicion": "Pendiente. Vinculada a Plantas de Celulosa.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Procedimiento para identificar, predecir, valorar, comunicar y prevenir los impactos de un proyecto (Río, principio 17). Según la ILA forma parte del criterio de precaución.",
+  "unidad": 10,
+  "fuente": "Mollar"
  },
  {
   "sigla": "FMI",
@@ -303,9 +310,9 @@
  {
   "sigla": "PNUMA",
   "nombre": "Programa de las Naciones Unidas para el Medio Ambiente",
-  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Creado por la Res. AG 2997 (1972) tras Estocolmo. Órgano subsidiario de la AG con sede en Nairobi; Consejo de Administración de 58 países; se financia con el Fondo de la ONU para el Medio Ambiente.",
+  "unidad": 10,
+  "fuente": "Mollar"
  },
  {
   "sigla": "PPS",
@@ -317,9 +324,9 @@
  {
   "sigla": "RCPD",
   "nombre": "Responsabilidades comunes pero diferenciadas",
-  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "definicion": "Principio 7 de Río: responsabilidad común de proteger el ambiente, diferenciada según la contribución y la capacidad de cada Estado (anexo de Kyoto; Montreal art. 5).",
+  "unidad": 10,
+  "fuente": "Mollar"
  },
  {
   "sigla": "TBI",
@@ -334,6 +341,13 @@
   "definicion": "Art. 63: libre circulación de capitales (también frente a terceros); art. 64: restricciones a 1993; art. 66: salvaguardias.",
   "unidad": 7,
   "fuente": "Hinojosa"
+ },
+ {
+  "sigla": "TIDM",
+  "nombre": "Tribunal Internacional del Derecho del Mar",
+  "definicion": "Casos ambientales: Atún de Aleta Azul (1999) y Planta MOX (2001), sobre cooperación y 'prudencia y precaución'.",
+  "unidad": 10,
+  "fuente": "Mollar"
  },
  {
   "sigla": "TJCE",

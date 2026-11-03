@@ -14,3 +14,12 @@ Lo que figura acá **no se usó** en la app, o se usó solo en lo que se entend�
 ## U9-2 Juste Ruiz (Migraciones)
 - El texto dice «la Convención sobre los refugiados de **1949**» en un pasaje (p. 541), pero en el resto habla de la de 1951. Parece un error del original; en la app se usa 1951.
 - La nota 9 fecha la Convención contra la Tortura en **1948** y la nota 12 en **1984**. En la app no se dio el año de esa convención.
+
+## U10-1 Mollar (Medio ambiente)
+- **Principios 1 a 7 de la Declaración de Estocolmo (p. 865):** el texto literal está ilegible (columnas superpuestas). Se usó solo lo legible: el principio 1 como primera evidencia de un derecho a un medio ambiente sano, y los principios 2 a 7 en términos generales (preservar recursos, flora y fauna, no agotar los no renovables, evitar descargas tóxicas).
+- **Logros de Estocolmo (p. 866):** una frase sobre la «oposición absoluta hombre-naturaleza» está ilegible; no se usó.
+- **Nota 22 (asistentes a Estocolmo):** se usaron solo «seis mil personas» y «113 Estados»; el resto de la nota (ONG, periodistas) está ilegible.
+- **Nota 27:** ilegible (menciona Trail y el Canal de Corfú); no se usó.
+- **Nota 31 (catástrofes de los 80):** el nombre de la fábrica de plaguicidas aparece como «Unión Caribe» (probable Union Carbide). En la app figura como «fábrica estadounidense de plaguicidas», sin el país del accidente, porque el texto no lo dice.
+- **Acuerdos con cláusulas ambientales (p. 871):** la lista de tratados después del Acuerdo de Marrakech está mezclada; se usaron solo el TLCAN (1992) y el MERCOSUR (1991), y en la app no figuran.
+- **Reglamento de las COP (p. 876, nota 61):** las citas de la OC sobre armas nucleares están mezcladas; se usaron solo las legibles (Gabčíkovo § 145; Plantas de Celulosa § 266).

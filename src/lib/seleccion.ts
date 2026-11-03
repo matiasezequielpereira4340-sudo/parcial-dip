@@ -56,7 +56,7 @@ export function plan(cards: Cards, fechaParcial: string): DiaPlan[] {
   const asignadas = new Map(CARGADAS.map((u) => [u.unidad, 0]))
   let ayer: number[] = []
   for (let f = desde; diasEntre(f, repaso) >= 0; f = sumarDias(f, 1)) {
-    if (f === repaso) { dias.push({ fecha: f, unidades: CARGADAS.map((u) => u.unidad), nota: 'Repaso general: caja 5 + "Repasar mis errores" + un simulacro corto. Dormí bien.' }); continue }
+    if (f === repaso) { dias.push({ fecha: f, unidades: CARGADAS.map((u) => u.unidad), nota: 'Repaso general: caja 5 + "Repasar mis errores" + un Simulacro tipo parcial real. Dormí bien.' }); continue }
     const orden = CARGADAS.map((u) => u.unidad)
       .sort((a, b) => (peso.get(b)! / (1 + asignadas.get(b)!)) - (peso.get(a)! / (1 + asignadas.get(a)!)) || (ayer.includes(a) ? 1 : -1))
     const elegidas = orden.slice(0, Math.min(2, orden.length))
@@ -64,7 +64,7 @@ export function plan(cards: Cards, fechaParcial: string): DiaPlan[] {
     if (orden.length > 2 && elegidas.every((u) => ayer.includes(u))) elegidas[1] = orden[2]
     elegidas.forEach((u) => asignadas.set(u, asignadas.get(u)! + 1))
     ayer = elegidas
-    dias.push({ fecha: f, unidades: elegidas, nota: 'Sesión de hoy + Mezcla. Después, 1 desarrollo de cada unidad marcada.' })
+    dias.push({ fecha: f, unidades: elegidas, nota: 'Sesión de hoy + Mezcla. Después, 1 consigna de desarrollo de cada unidad marcada (o un Simulacro tipo parcial real).' })
   }
   return dias
 }

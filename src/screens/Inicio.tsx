@@ -19,6 +19,13 @@ export default function Inicio() {
         <p className="mt-3 text-sm">🔥 Racha: <b>{racha} día{racha === 1 ? '' : 's'}</b></p>
       </Tarjeta>
 
+      <Tarjeta className="border-2 border-amber-500!">
+        <p className="text-xs font-bold uppercase tracking-wide text-amber-700 dark:text-amber-400">★ Recomendado</p>
+        <h2 className="text-xl font-bold">Simulacro tipo parcial real</h2>
+        <p className="text-slate-600 dark:text-slate-400 mt-1">Como los parciales de la cátedra: 5 consignas de desarrollo, respondés 4, con timer. Después, respuesta modelo y checklist para autocorregirte.</p>
+        <Boton className="w-full mt-3 text-lg" onClick={() => ir('/parcial')}>Hacer un simulacro real</Boton>
+      </Tarjeta>
+
       <Tarjeta>
         <h2 className="text-xl font-bold">Sesión de hoy</h2>
         <p className="text-slate-600 dark:text-slate-400 mt-1">~25 preguntas (20-30 min): {venc} vencidas para repasar + nuevas, mezcladas entre unidades.</p>
@@ -51,7 +58,7 @@ export default function Inicio() {
       </Tarjeta>
 
       <div className="grid grid-cols-2 gap-2">
-        <Boton v="secundario" onClick={() => ir('/simulacro')}>📝 Simulacro</Boton>
+        <Boton v="secundario" onClick={() => ir('/practica-rapida')}>⚡ Práctica rápida</Boton>
         <Boton v="secundario" onClick={() => ir('/plan')}>📅 Plan de estudio</Boton>
       </div>
     </div>

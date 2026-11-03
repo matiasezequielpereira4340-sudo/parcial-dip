@@ -11,7 +11,7 @@ import Glosario from './screens/Glosario'
 import Ajustes from './screens/Ajustes'
 import Mas from './screens/Mas'
 
-const NAV = [['/', 'Inicio', '🏠'], ['/unidades', 'Unidades', '🗺'], ['/practicar', 'Practicar', '🎯'], ['/simulacro', 'Simulacro', '📝'], ['/mas', 'Más', '☰']] as const
+const NAV = [['/', 'Inicio', '🏠'], ['/unidades', 'Unidades', '🗺'], ['/practicar', 'Practicar', '🎯'], ['/parcial', 'Simulacro', '📝'], ['/mas', 'Más', '☰']] as const
 
 export default function App() {
   const ruta = useRuta()
@@ -23,14 +23,14 @@ export default function App() {
   else if (path.startsWith('/unidad/')) vista = <Mapa key={path} n={Number(path.split('/')[2])} />
   else if (path === '/practicar') vista = <Practicar />
   else if (path.startsWith('/run/')) vista = <Sesion key={ruta} modo={path.split('/')[2]} q={q} />
-  else if (path === '/simulacro') vista = <Simulacro />
-  else if (path === '/parcial') vista = <SimulacroReal />
+  else if (path === '/parcial' || path === '/simulacro') vista = <SimulacroReal />
+  else if (path === '/practica-rapida') vista = <Simulacro />
   else if (path === '/plan') vista = <Plan />
   else if (path === '/glosario') vista = <Glosario />
   else if (path === '/ajustes') vista = <Ajustes />
   else if (path === '/mas') vista = <Mas />
   else vista = <Inicio />
-  const activo = (h: string) => (h === '/' ? path === '/' : path.startsWith(h) || (h === '/practicar' && path.startsWith('/run')) || (h === '/unidades' && path.startsWith('/unidad')) || (h === '/mas' && ['/plan', '/glosario', '/ajustes'].includes(path)))
+  const activo = (h: string) => (h === '/' ? path === '/' : path.startsWith(h) || (h === '/practicar' && path.startsWith('/run')) || (h === '/unidades' && path.startsWith('/unidad')) || (h === '/parcial' && path === '/simulacro') || (h === '/practicar' && path === '/practica-rapida') || (h === '/mas' && ['/plan', '/glosario', '/ajustes'].includes(path)))
   return (
     <>
       <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:p-2 focus:bg-amber-300 focus:text-black">Saltar al contenido</a>

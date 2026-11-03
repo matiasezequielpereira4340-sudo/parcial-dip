@@ -64,7 +64,7 @@ export default function Simulacro() {
 
   if (fase === 'config') return (
     <div className="space-y-4">
-      <Titulo sub="Mezcla de opción múltiple, V/F justificado, 1 caso y 2 preguntas de desarrollo. Sin feedback hasta el final, como en el parcial.">Simulacro de parcial</Titulo>
+      <Titulo sub="Opción múltiple, V/F justificado, 1 caso y 2 de desarrollo, con feedback al final. Para repasar rápido; el formato real del parcial es el Simulacro tipo parcial real.">Práctica rápida</Titulo>
       <Tarjeta className="space-y-4">
         <fieldset><legend className="font-semibold mb-2">Unidades</legend>
           <div className="flex flex-wrap gap-3">{CARGADAS.map((u) => <label key={u.unidad} className="flex items-center gap-2 min-h-10"><input type="checkbox" className="size-5" checked={us.includes(u.unidad)} onChange={() => setUs(us.includes(u.unidad) ? us.filter((x) => x !== u.unidad) : [...us, u.unidad])} />U{u.unidad}</label>)}</div>
@@ -73,7 +73,7 @@ export default function Simulacro() {
           <div className="grid grid-cols-3 gap-2">{[60, 90, 120].map((m) => <Boton key={m} v={min === m ? 'primario' : 'secundario'} onClick={() => setMin(m)} aria-pressed={min === m}>{m} min</Boton>)}</div>
           <p className="text-xs text-slate-500 mt-2">{COMPOSICION[min].mcq} opción múltiple · {COMPOSICION[min].vf} V/F · 1 caso · 2 desarrollo</p>
         </fieldset>
-        <Boton className="w-full" disabled={!us.length} onClick={() => { setItems(armar(us, min)); setResp({}); setI(0); setFin(Date.now() + min * 60000); setAhora(Date.now()); setFase('examen') }}>Empezar simulacro</Boton>
+        <Boton className="w-full" disabled={!us.length} onClick={() => { setItems(armar(us, min)); setResp({}); setI(0); setFin(Date.now() + min * 60000); setAhora(Date.now()); setFase('examen') }}>Empezar práctica rápida</Boton>
       </Tarjeta>
     </div>
   )
@@ -150,7 +150,7 @@ export default function Simulacro() {
   const inf = informe!
   return (
     <div className="space-y-4">
-      <Titulo>Informe del simulacro</Titulo>
+      <Titulo>Informe de la práctica rápida</Titulo>
       <Tarjeta className="text-center"><p className="text-5xl font-black">{inf.pct}%</p><p className="text-slate-600 dark:text-slate-400">Puntaje ponderado (los casos y el desarrollo pesan más)</p></Tarjeta>
       <Tarjeta>
         <h2 className="font-bold text-lg mb-2">Errores por tema</h2>
@@ -168,7 +168,7 @@ export default function Simulacro() {
           <div className="text-sm"><Explicacion texto={it.explicacion} /></div>
         </Tarjeta>
       ))}
-      <Boton v="secundario" className="w-full" onClick={() => setFase('config')}>Nuevo simulacro</Boton>
+      <Boton v="secundario" className="w-full" onClick={() => setFase('config')}>Otra práctica rápida</Boton>
     </div>
   )
 }

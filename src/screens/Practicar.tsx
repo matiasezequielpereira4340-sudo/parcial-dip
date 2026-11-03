@@ -31,6 +31,11 @@ export default function Practicar() {
         </div>
       </Tarjeta>
       <Tarjeta>
+        <h2 className="font-bold text-lg">⚡ Práctica rápida</h2>
+        <p className="text-sm text-slate-600 dark:text-slate-400 mb-3">Opción múltiple, V/F, un caso y dos de desarrollo, con timer e informe de errores por tema.</p>
+        <Boton v="secundario" className="w-full" onClick={() => ir('/practica-rapida')}>Hacer una práctica rápida</Boton>
+      </Tarjeta>
+      <Tarjeta>
         <h2 className="font-bold text-lg mb-2">Por tipo de ejercicio</h2>
         <fieldset className="flex flex-wrap gap-3 mb-3"><legend className="text-sm font-medium mb-1">Unidades:</legend>
           {CARGADAS.map((u) => <label key={u.unidad} className="flex items-center gap-2 min-h-10"><input type="checkbox" className="size-5" checked={us.includes(u.unidad)} onChange={() => t(u.unidad)} />U{u.unidad}</label>)}

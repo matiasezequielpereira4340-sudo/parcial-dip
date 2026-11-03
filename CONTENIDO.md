@@ -1,6 +1,6 @@
 # Cómo cargar contenido (sin programar)
 
-Cada unidad es un archivo en `src/data/` (`u05.json` … `u10.json`). La app los detecta sola.
+Cada unidad es un archivo en `src/data/` (`u07.json` … `u10.json`); el banco de consignas tipo parcial está en `consignas.json`. La app los detecta solos.
 
 ## Pasos para activar una unidad pendiente
 1. Abrí `src/data/uNN.json`.

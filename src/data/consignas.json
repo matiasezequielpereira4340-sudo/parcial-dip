@@ -1,0 +1,362 @@
+[
+ {
+  "id": "k01",
+  "unidades": [
+   7
+  ],
+  "titulo": "Movimientos de capital",
+  "consigna": "Defina operación financiera y operación monetaria, y distinga pagos corrientes de movimientos de capital según la jurisprudencia del TJCE. Explique el régimen del FMI sobre ambos. Desarrolle un ejemplo de un Estado miembro del FMI que, ante una crisis, restringe operaciones con el exterior, y conteste: a) ¿qué medidas son compatibles con el Convenio del FMI?; b) ¿qué límite tiene el control de capitales?",
+  "respuesta": "Las operaciones financieras son transacciones de las que derivan cobros o pagos con el exterior; las monetarias, el cambio de divisas; pueden darse por separado. En Luisi y Carbone (TJCE, 1984), los pagos corrientes son transferencias que constituyen la contraprestación de una transacción subyacente (pagar un bien o un servicio), y los movimientos de capital son operaciones cuyo fin es colocar o invertir el monto; la inversión es un tipo de movimiento de capital. El FMI busca la estabilidad cambiaria y un sistema multilateral de pagos: los miembros garantizan la libertad de los pagos corrientes (art. VIII.2.b) y pueden controlar las transferencias de capital (art. VI.3), sin un poder general de control del FMI salvo la condicionalidad. Ejemplo: el Estado Z prohíbe a sus residentes comprar acciones en el exterior y además bloquea el pago de importaciones ya recibidas. a) La prohibición de comprar acciones es un control de capital, permitido por el art. VI.3; el bloqueo del pago de importaciones afecta pagos corrientes y es incompatible. b) El límite es que el control del capital no puede obstaculizar los pagos corrientes.",
+  "puntosClave": [
+   "Financiera vs monetaria",
+   "Luisi y Carbone (1984): criterio de la contraprestación",
+   "La inversión como movimiento de capital",
+   "FMI: libertad de pagos corrientes (art. VIII.2.b)",
+   "Control del capital permitido (art. VI.3)",
+   "Ejemplo calificado correctamente",
+   "Límite: no obstaculizar los pagos corrientes"
+  ],
+  "fuentes": [
+   "Hinojosa"
+  ]
+ },
+ {
+  "id": "k02",
+  "unidades": [
+   7
+  ],
+  "titulo": "Derecho internacional general de las inversiones",
+  "consigna": "Explique la Cláusula Calvo y su alcance según North American Dredging. Compare la fórmula Hull, la Res. AG 1803 (1962) y la Carta de Derechos y Deberes Económicos de los Estados (1974) en materia de indemnización por expropiación. Desarrolle un ejemplo de expropiación sin indemnización a un inversor con contrato que contiene una Cláusula Calvo, y conteste: a) ¿puede el Estado del inversor ejercer la protección diplomática?; b) ¿qué estándar de indemnización invocaría cada parte?",
+  "respuesta": "La Cláusula Calvo (Carlos Calvo, 1868) dispone, en contratos entre un Estado y un inversor extranjero, que las controversias van a los tribunales locales y que el inversor renuncia a la protección diplomática; surgió como reacción a las intervenciones armadas de EE. UU. en América Latina. North American Dredging (1926): no impide la protección diplomática si hay un ilícito internacional, porque esa protección es un derecho del Estado. Comparación: la fórmula Hull (EE. UU. frente a México, 1938-1943) exige una indemnización 'rápida (pronta), adecuada y efectiva', y México nunca aceptó su vigencia; la Res. 1803 consagra la soberanía permanente sobre los recursos y una 'indemnización correspondiente' según el Estado que expropia y el derecho internacional; la Carta 3281 (NOEI) prevé una 'compensación apropiada' según la ley del Estado que nacionaliza, con oposición de los exportadores de capital y una incidencia modesta. Bottini agrega que el intercambio de 1938 enfrentó el trato nacional (México) con el estándar mínimo (EE. UU.). Ejemplo: el Estado A confisca sin pagar los equipos de una empresa de B, y sus tribunales rechazan las acciones. a) Sí: hay un ilícito internacional (medida confiscatoria contraria al estándar mínimo), y la renuncia del inversor no alcanza un derecho del Estado. b) B invocaría Hull o el estándar mínimo; A, la 1803 o la Carta de 1974 y la ley nacional; desde los 90, la compensación apropiada puede considerar la capacidad de pago.",
+  "puntosClave": [
+   "Cláusula Calvo: contenido y contexto (1868)",
+   "North American Dredging (1926)",
+   "Fórmula Hull y la postura de México",
+   "Res. 1803: indemnización correspondiente",
+   "Carta 3281: compensación apropiada (NOEI)",
+   "Trato nacional vs estándar mínimo (Bottini)",
+   "Ejemplo aplicado: protección diplomática procedente",
+   "Estándar invocado por cada parte"
+  ],
+  "fuentes": [
+   "Hinojosa",
+   "Bottini"
+  ]
+ },
+ {
+  "id": "k03",
+  "unidades": [
+   7
+  ],
+  "titulo": "Tratados bilaterales de inversión",
+  "consigna": "Defina APPRI/TBI y explique sus ámbitos de aplicación. Clasifique sus estándares de protección usuales. Compare la definición de inversión de los instrumentos de liberalización con la de los APPRI, y la admisión pre y post establecimiento. Desarrolle un ejemplo de inversor que sufre un cambio sorpresivo del marco regulatorio y hostigamiento, y conteste: a) ¿qué estándar invocaría y con qué casos?; b) ¿importa que no haya habido discriminación?",
+  "respuesta": "Los APPRI son tratados entre Estados (Convención de Viena de 1969) para proteger a los nacionales de una parte que invierten en la otra; su antecedente son los Tratados de amistad, comercio y navegación. Había más de 2.500 según Hinojosa (2010) y más de 2.860 TBI según Bottini (2011). Ámbitos: material (inversión), personal (inversor: persona física por nacionalidad, a veces efectiva; jurídica por constitución + sede o control), temporal y territorial. Estándares: trato justo y equitativo, plena protección y seguridad, no discriminación (TN y NMF), expropiación lícita (interés general, no discriminación, debido proceso, compensación; directa o indirecta), transferencias y cláusula paraguas. Definición: estricta en los instrumentos de liberalización (CLMC, relación duradera con gestión o control) y amplia en los APPRI ('todo tipo de haberes', incluida la cartera). Admisión: la mayoría remite al derecho interno (TN/NMF post-establecimiento); EE. UU. y Canadá dan TN/NMF pre-establecimiento. Ejemplo: tras autorizar una planta, el Estado cambia las reglas de forma sorpresiva y hace inspecciones para presionar. a) El TJE: concepto flexible (Waste Management), marco estable y predecible (Maffezini), expectativas legítimas (MTD c. Chile), acoso (Tecmed). b) No: el TJE puede violarse sin discriminación. Bottini advierte que conceptos como las 'expectativas legítimas' tienen poca práctica estatal y que el estándar mínimo exige un umbral alto (Neer, Glamis).",
+  "puntosClave": [
+   "Definición y naturaleza de los APPRI",
+   "Ámbitos: material, personal, temporal, territorial",
+   "Estándares de protección enumerados",
+   "Definición estricta vs amplia de inversión",
+   "Admisión pre vs post establecimiento",
+   "TJE con casos (Maffezini, MTD, Tecmed)",
+   "No requiere discriminación",
+   "Crítica de Bottini / umbral de Neer"
+  ],
+  "fuentes": [
+   "Hinojosa",
+   "Bottini"
+  ]
+ },
+ {
+  "id": "k04",
+  "unidades": [
+   7
+  ],
+  "titulo": "Solución de controversias inversor-Estado",
+  "consigna": "Explique cómo se forma el consentimiento al arbitraje inversor-Estado y cuáles son los requisitos de jurisdicción del CIADI. Compare el arbitraje CIADI, el del Mecanismo Complementario y el del Reglamento CNUDMI en cuanto a anulación y ejecución de laudos. Desarrolle un ejemplo de laudo CIADI que el Estado condenado pretende revisar ante sus tribunales, y conteste: a) ¿qué vía tiene y con qué causales?; b) ¿qué ocurre si no cumple el laudo?",
+  "respuesta": "Consentimiento (Pérez Aznar): por contrato, por ley nacional (oferta aceptada por escrito, por ejemplo la Ley de El Salvador de 1999) o por tratado (el AII es la oferta y el inversor la acepta al demandar). Una vez dado, no puede retirarse (art. 25.1), y ratificar el Convenio no equivale a consentir. Jurisdicción: diferencia de naturaleza jurídica que surja directamente de una inversión ('directamente' califica a la diferencia: Fedax), entre un Estado contratante y un nacional de otro (persona jurídica con otra nacionalidad en la fecha del consentimiento, salvo control extranjero, art. 25.2.b); doble examen de la inversión (CSOB, Salini: aporte, duración, riesgo, rendimiento, desarrollo). Comparación: el laudo CIADI es obligatorio, sin apelación, con anulación propia y ejecución como sentencia firme (art. 54), con el límite de la inmunidad de ejecución. El del Mecanismo Complementario (1978, cuando una parte no es contratante; muy usado en el TLCAN) y el de la CNUDMI (Reglamento de 1976, revisado en 2010, sin institución) se anulan ante los tribunales de la sede y se ejecutan por la Convención de Nueva York de 1958. Ejemplo: el Estado Z alega que un árbitro tenía un conflicto encubierto y que se valoró mal la prueba. a) No puede ir a sus tribunales: debe pedir la anulación al CIADI por las cinco causales taxativas (constitución incorrecta, extralimitación manifiesta, corrupción, quebrantamiento grave del procedimiento, falta de motivos); la mala valoración de la prueba no es causal; si se anula, puede ir a un nuevo tribunal. b) El Estado del inversor recupera la protección diplomática (art. 27.1).",
+  "puntosClave": [
+   "Tres vías de consentimiento",
+   "Irrevocabilidad (art. 25.1); la ratificación no basta",
+   "Diferencia jurídica e inversión (Fedax, Salini, doble examen)",
+   "Ratione personae (art. 25.2.b)",
+   "CIADI: art. 54 e inmunidad de ejecución",
+   "Mecanismo Complementario y CNUDMI: Nueva York y tribunales de la sede",
+   "Cinco causales de anulación",
+   "Incumplimiento: art. 27.1"
+  ],
+  "fuentes": [
+   "Hinojosa",
+   "Pérez Aznar"
+  ]
+ },
+ {
+  "id": "k05",
+  "unidades": [
+   8
+  ],
+  "titulo": "Regionalismo comercial",
+  "consigna": "Explique las fases del regionalismo y los efectos de creación y desviación de comercio. Clasifique las formas de integración económica. Compare el regionalismo con la regla de la nación más favorecida: ¿los ACR son 'elementos básicos' o 'escollos' del sistema multilateral? Desarrolle un ejemplo de tres Estados que eliminan aranceles entre sí, y conteste: a) ¿qué forma de integración es y cuál sería la siguiente?; b) ¿qué norma de la OMC los ampara?",
+  "respuesta": "Al crear el GATT los ACR se veían positivamente (art. XXIV), pero Viner distinguió la creación de la desviación de comercio, y la doctrina mayoritaria cree hoy que desvían más de lo que crean. Dos tercios del comercio mundial son preferenciales y solo un tercio va por la NMF. Segunda ola en los 90 (UE-Este, TLCAN, MERCOSUR, ASEAN, regionalismo aditivo) y nuevo regionalismo con proliferación (230 ACR en vigor en 2008, según el texto) y regionalismo 'spaghetti'. Formas (Balassa): ZLC (elimina aranceles internos), UA (+ arancel externo común), MC (+ libre circulación de personas, servicios y capitales) y UEM (+ competencias económicas y monetarias, moneda común). Debate (Sutherland): a favor, su efecto combinado se acerca a la plena liberalización (Deardoff y Stern); en contra, erosionan la NMF, generan regímenes que restan transparencia y seguridad, y conflictos normativos que se resuelven con el derecho internacional general. Ejemplo: A, B y C eliminan aranceles y cada uno mantiene el suyo frente a terceros. a) Es una ZLC (requiere reglas de origen); la siguiente es la UA, con arancel externo común. b) El art. XXIV del GATT (también el art. V del GATS para servicios y la Cláusula de Habilitación entre PVD), con notificación y un plazo razonable de 10 años.",
+  "puntosClave": [
+   "Viner: creación vs desviación",
+   "Dos tercios del comercio preferencial",
+   "Fases y nuevo regionalismo",
+   "Formas de Balassa (ZLC, UA, MC, UEM)",
+   "Bloques o escollos: argumentos",
+   "Erosión de la NMF",
+   "Ejemplo calificado (ZLC → UA)",
+   "Art. XXIV / GATS V / Habilitación"
+  ],
+  "fuentes": [
+   "Segura Serrano"
+  ]
+ },
+ {
+  "id": "k06",
+  "unidades": [
+   8
+  ],
+  "titulo": "Regulación multilateral de los ACR",
+  "consigna": "Explique los requisitos materiales y procesales del art. XXIV del GATT. Compare el control del CACR con el del OSD. Desarrolle un ejemplo de miembro que, al formar una unión aduanera, impone restricciones a textiles de terceros, y conteste: a) ¿puede justificarse en el art. XXIV y con qué condiciones?; b) ¿qué vías más flexibles existen para homologar un ACR?",
+  "respuesta": "Criterios materiales, de inspiración vineriana: párr. 5 (los derechos y reglamentaciones frente a terceros no deben ser, en conjunto, de incidencia general más elevada; el Entendimiento toma los 'tipos aplicados') y párr. 8 (eliminarlos en 'lo esencial de los intercambios': 80 % y sin excluir sectores enteros; Turquía-Textiles; la lista de 'demás reglamentaciones' no es exhaustiva, según Argentina-Calzado). Requisito procesal: notificación previa con plan y programa en plazo razonable, de 10 años (Entendimiento, párr. 3). Control: el CACR (desde 1996) no logró consenso; la UE y EE. UU. evitaron una evaluación económica; la práctica es notificar ex post facto, y sin decisión rige una presunción de validez. El OSD puede revisar los ACR (se rechazó la tesis de India de que no son justiciables), con riesgo de choque con el CACR; Doha agregó el Mecanismo de Transparencia (2006). Ejemplo: Turquía y la UE. a) Según Turquía-Textiles, solo si 1) la medida se introdujo al formar una UA que cumple los párrs. 8.a y 5.a, y 2) sin ella se impediría la UA; ambas condiciones son acumulativas y debe probarlas quien invoca la defensa. b) El art. V del GATS (más flexible para PVD) y la Cláusula de Habilitación (1979), preferida, como en el MERCOSUR.",
+  "puntosClave": [
+   "Párr. 5: incidencia general frente a terceros",
+   "Párr. 8: lo esencial de los intercambios (80 %)",
+   "Requisito procesal y 10 años",
+   "CACR: falta de consenso, presunción de validez",
+   "OSD y la tesis de India",
+   "Turquía-Textiles: dos condiciones",
+   "GATS V y Cláusula de Habilitación",
+   "Mecanismo de Transparencia 2006"
+  ],
+  "fuentes": [
+   "Segura Serrano"
+  ]
+ },
+ {
+  "id": "k07",
+  "unidades": [
+   8
+  ],
+  "titulo": "Modelos de integración",
+  "consigna": "Describa los objetivos e instrumentos del mercado interior de la Unión Europea. Compare la UE con el TLCAN como modelos de integración. Desarrolle un ejemplo de un producto legalmente comercializado en un Estado miembro de la UE que otro Estado prohíbe, y conteste: a) ¿qué principio y caso se aplican?; b) ¿cuándo podría mantenerse la prohibición?",
+  "respuesta": "La UE es el ACR más avanzado (el Tratado de Roma fue el primero notificado al GATT), con tres núcleos: mercado común, UEM (euro y BCE; la unión económica es más bien intergubernamental) y cohesión (fondos estructurales). El mercado interior (art. 26 TFUE) es un espacio sin fronteras interiores con las cuatro libertades, más la política comercial común. Mercancías: UA, efecto equivalente interpretado ampliamente. Personas: movilidad e igualdad. Servicios: establecimiento vs libre prestación. Capitales: la última libertad, hoy completa (Directiva 88/361). Técnicas: negativa (prohibición y efecto directo), positiva (armonización; tras el Acta Única, mínimos y mayoría) y reconocimiento mutuo. El TLCAN (1/01/1994) es una ZLC muy ambiciosa, sin integración más allá: TN en mercancías, reglas de origen, servicios (1202-1210), inversiones (cap. XI, art. 1105), PI, acuerdos paralelos y controversias desarrolladas; solo permite la entrada temporal de personas. Ejemplo: una bebida legalmente vendida en un Estado es prohibida en otro por su graduación. a) Reconocimiento mutuo, Cassis de Dijon (TJUE, 1979): todo producto legalmente producido y comercializado en un Estado miembro debe admitirse en los demás. b) Si hay un motivo de interés general (salud, consumidores, ambiente) y el Estado de origen no lo protege de forma equivalente.",
+  "puntosClave": [
+   "UE: tres núcleos de competencias",
+   "Art. 26 TFUE y cuatro libertades",
+   "Técnicas: negativa, armonización, reconocimiento mutuo",
+   "TLCAN: ZLC sin integración",
+   "Contraste UE vs TLCAN (personas, UA, institucionalidad)",
+   "Cassis de Dijon",
+   "Excepción por interés general y equivalencia"
+  ],
+  "fuentes": [
+   "Segura Serrano"
+  ]
+ },
+ {
+  "id": "k08",
+  "unidades": [
+   9
+  ],
+  "titulo": "Nacionalidad",
+  "consigna": "Defina nacionalidad y distíngala de ciudadanía. ¿Quién la regula y con qué límites internacionales? Desarrolle la doctrina del vínculo efectivo. Desarrolle un ejemplo de persona que se naturaliza en un Estado neutral con el que no tiene arraigo para sustituir su nacionalidad de un Estado beligerante, y conteste: a) ¿puede el nuevo Estado ejercer la protección diplomática?; b) ¿qué regla rige si la persona es binacional y reclama contra uno de sus Estados?",
+  "respuesta": "Nacionalidad: vínculo jurídico entre una persona y un Estado, del que derivan derechos y deberes determinados primariamente por el derecho interno (Oyarzábal); para la CIJ en Nottebohm, un vínculo basado en un hecho social de adhesión y una conexión genuina; para la Corte IDH (OC-4/84), también un derecho humano (art. 20 CADH: derecho a tenerla y protección frente a la privación arbitraria). La ciudadanía es la titularidad de derechos políticos; para el derecho internacional la nacionalidad es unitaria (nacionales vs extranjeros). La regula cada Estado (jus soli, jus sanguinis, naturalización) con límites: no privarla arbitrariamente, derecho a una nacionalidad y a cambiarla, no discriminar por sexo y evitar la apatridia. Vínculo efectivo: para oponerse internacionalmente debe ser genuina (residencia habitual, centro de intereses, familia, vida pública). Ejemplo: Nottebohm. a) No: la CIJ declaró inadmisible el reclamo de Liechtenstein contra Guatemala, que no debía reconocer esa nacionalidad; la afirmación de un Estado no es prueba concluyente. b) En principio no hay protección contra el otro Estado de la nacionalidad (igualdad soberana, La Haya 1930 art. 4), salvo prioridad de la nacionalidad efectiva si puede elegirse (Mergé); frente a terceros rige la inoponibilidad (Salem, Flegenheimer).",
+  "puntosClave": [
+   "Definición (Oyarzábal / Nottebohm)",
+   "Corte IDH OC-4/84 y art. 20 CADH",
+   "Nacionalidad vs ciudadanía",
+   "Competencia estatal y límites",
+   "Vínculo efectivo y sus factores",
+   "Nottebohm: reclamo inadmisible",
+   "Doble nacionalidad: igualdad soberana y nacionalidad efectiva",
+   "Inoponibilidad frente a terceros"
+  ],
+  "fuentes": [
+   "Oyarzábal"
+  ]
+ },
+ {
+  "id": "k09",
+  "unidades": [
+   9
+  ],
+  "titulo": "Asilo y refugio",
+  "consigna": "Defina asilo territorial, asilo diplomático y refugio. Compare sus fuentes y naturaleza jurídica. Explique el principio de non-refoulement y su alcance. Desarrolle un ejemplo de opositor político que ingresa a una embajada extranjera, y conteste: a) ¿quién califica el delito y qué obligaciones tienen ambos Estados si son parte de la Convención de Caracas?; b) ¿qué pasa si el Estado territorial no reconoce el asilo diplomático?",
+  "respuesta": "Asilo territorial: protección en el territorio del Estado; DUDH art. 14 (no aplicable a delitos comunes); la Declaración de 1967 (Res. 2312) lo estructura como un derecho del Estado, de concesión graciable, que los demás deben respetar, con exclusiones (crímenes contra la paz, de guerra o contra la humanidad) y limitado por la no devolución; no es costumbre universal, salvo probablemente en América. Asilo diplomático: en los locales inviolables de una misión, para perseguidos políticos; institución regional latinoamericana (Montevideo 1889, La Habana 1928, Montevideo 1939, Caracas 1954). Refugio: estatuto convencional (Convención de 1951 y Protocolo de 1967), con trato nacional o de NMF, ampliado por Cartagena (1984) y supervisado por el ACNUR. Non-refoulement (art. 33.1): no devolver a donde peligren la vida o la libertad por raza, religión, nacionalidad, grupo social u opinión política; excepción del art. 33.2; consuetudinario (Juste Ruiz); alcanza a quienes huyen de conflictos, no a los migrantes económicos ni ecológicos; ante los requisitos, el Estado debe reconocer el estatuto. Ejemplo: un dirigente perseguido entra a la embajada del Estado B en A. a) Califica el asilante (art. 4); procede por urgencia (art. 5); B comunica a A, y A debe dar el salvoconducto (arts. 11-13); B elige el destino (art. 16). b) Haya de la Torre (CIJ, 1950): el asilo diplomático deroga la soberanía territorial y requiere un sustento legal; sin él, el asilado debería ser entregado, pero no puede sacárselo por la fuerza de una embajada inviolable (Assange, 2012).",
+  "puntosClave": [
+   "Asilo territorial: DUDH 14 y Declaración 1967",
+   "Derecho del Estado y acto graciable",
+   "Asilo diplomático: regional; Caracas 1954",
+   "Refugio: Convención 1951/Protocolo 1967; Cartagena",
+   "Non-refoulement: art. 33 y excepción",
+   "Alcance (excluye migrantes económicos/ecológicos)",
+   "Caracas: calificación, salvoconducto",
+   "Haya de la Torre y caso Assange"
+  ],
+  "fuentes": [
+   "Oyarzábal",
+   "Juste Ruiz"
+  ]
+ },
+ {
+  "id": "k10",
+  "unidades": [
+   9
+  ],
+  "titulo": "Migraciones",
+  "consigna": "Explique por qué el régimen internacional de las migraciones es insuficiente según Juste Ruiz. Compare el Pacto Mundial sobre los Refugiados con el Pacto Mundial para la Migración Segura, Ordenada y Regular. Desarrolle un ejemplo de rescate en el mar de personas con distintas motivaciones, y conteste: a) ¿a quiénes protege el non-refoulement?; b) ¿qué normas rigen el rescate y qué problema queda sin resolver?",
+  "respuesta": "El régimen se ubica entre el derecho a moverse a través de las fronteras y el derecho del Estado a rechazar la entrada. El derecho a salir está reconocido (DUDH 13.2, PIDCP 12, OG 27, que incluye obtener el pasaporte), pero el Estado de destino decide la admisión: hay derecho a emigrar, no a inmigrar (el absurdo de Scovazzi). Errores de planteamiento: soluciones nacionales para un problema internacional, unilateralismo cuando todos son Estados de origen, tránsito y destino, una colisión que siempre gana el Estado (Cançado Trindade), regulación de aspectos aislados, falta de un corpus y una OIM débil; resultado: un círculo vicioso de migración irregular. Pactos: el de Refugiados lo preparó el ACNUR, no es vinculante, tiene 4 objetivos (aliviar a los países de acogida, autosuficiencia, terceros países, retorno seguro), Marco de Respuesta Integral y Programa de Acción, y se aprobó el 17/12/2018 (181-2-3). El de Migración se negoció entre 2016 y 2018, no es vinculante, tiene 10 principios rectores y 23 objetivos, pasó por Marrakech y la AG lo hizo suyo el 19/12/2018 (152-5-12), tras la salida de EE. UU. Ejemplo: una ONG rescata a perseguidos, a personas que huyen de un conflicto, de la pobreza y de una sequía. a) A los perseguidos (Convención de 1951) y a quienes huyen de conflictos o de otras persecuciones; no a los migrantes económicos ni ecológicos. b) CONVEMAR art. 98, SOLAS, SAR y las Directrices de la OMI (2004), que son soft law; el desembarco en un lugar seguro sigue sin resolverse, y las garantías del DIDH rigen recién en el territorio.",
+  "puntosClave": [
+   "Antagonismo emigrar/inmigrar",
+   "Derecho a salir: PIDCP 12 y OG 27",
+   "Errores de planteamiento",
+   "Pacto de Refugiados: ACNUR, objetivos, votación",
+   "Pacto de Migración: 23 objetivos, Marrakech, votación",
+   "Ambos no vinculantes / falta de consenso",
+   "Alcance del non-refoulement",
+   "Rescate: CONVEMAR 98, SOLAS, SAR, OMI soft law"
+  ],
+  "fuentes": [
+   "Juste Ruiz"
+  ]
+ },
+ {
+  "id": "k11",
+  "unidades": [
+   10
+  ],
+  "titulo": "Evolución del derecho internacional ambiental",
+  "consigna": "Defina el derecho internacional ambiental y describa su evolución histórico-normativa. Compare las Conferencias de Estocolmo (1972), Río (1992) y Johannesburgo (2002). Desarrolle un ejemplo de fundición que contamina a un Estado vecino, y conteste: a) ¿qué principio se viola y qué caso lo respalda?; b) ¿qué deber tenía el Estado de origen antes del daño?",
+  "respuesta": "El DIA es el conjunto de normas y principios internacionales que protegen el medio ambiente (Mollar); el ambiente tiene una faceta natural y una cultural (Barberis). Evolución: 1) de fines del siglo XIX a 1960, tratados sectoriales y utilitaristas (aves de 1902, focas de 1911, Aguas Fronterizas de 1909) sin principios comunes; 2) protección ambiental: Club de Roma (1972), ambientalismo moderado y antropocéntrico, Estocolmo y el PNUMA; Carta Mundial de la Naturaleza (1982); 3) desarrollo sostenible: Brundtland (1987), Río, Johannesburgo, Río+20 (2012, economía verde); sin un tratado general codificador. Comparación: Estocolmo, Declaración (carta fundacional, principio 21) + Plan de Acción de 109 recomendaciones + PNUMA; Río, Declaración de 27 principios (2, 7, 10, 15, 16), Agenda 21, CMNUCC, CDB y Bosques; Johannesburgo, Declaración de aspiraciones con tres pilares y Plan de Aplicación. Ejemplo: Trail Smelter (1941). a) La prohibición del daño transfronterizo (sic utere tuo ut alienum non laedas; Estocolmo 21 / Río 2): ningún Estado puede usar su territorio para causar perjuicio grave a otro, probado con pruebas claras y convincentes; reiterado en el Canal de Corfú y el Lago Lanoux, y consuetudinario (OC de 1996). b) La prevención: diligencia debida (legislación, EIA, licencias, monitoreo, notificación) frente al riesgo cierto.",
+  "puntosClave": [
+   "Definición del DIA y facetas del ambiente",
+   "Etapa sectorial y utilitarista",
+   "Estocolmo: Declaración, Plan, PNUMA",
+   "Río: principios, Agenda 21, convenciones",
+   "Johannesburgo: tres pilares",
+   "Trail Smelter y no daño transfronterizo",
+   "Corfú/Lanoux; carácter consuetudinario",
+   "Prevención como diligencia debida"
+  ],
+  "fuentes": [
+   "Mollar"
+  ]
+ },
+ {
+  "id": "k12",
+  "unidades": [
+   10
+  ],
+  "titulo": "Principios del derecho internacional ambiental",
+  "consigna": "Defina los principios de prevención y de precaución y compárelos. Explique el principio de responsabilidades comunes pero diferenciadas y el de contaminador pagador. Desarrolle un ejemplo de actividad nueva cuyos efectos sobre el ambiente son científicamente inciertos pero potencialmente graves, y conteste: a) ¿qué principio se aplica y cuáles son sus elementos?; b) ¿es una norma consuetudinaria?",
+  "respuesta": "Prevención: basada en la buena fe, el no abuso del derecho y la responsabilidad; es diligencia debida (no un deber absoluto) frente a un riesgo CIERTO; medidas: aparato jurídico y material, EIA, licencias, tecnologías limpias, monitoreo y notificación; es costumbre (Trail, Corfú; Gabčíkovo: daños irreversibles; Plantas de Celulosa: el art. 41 exige vigilancia de los operadores). Precaución (Río 15): ante peligro de daño grave e irreversible, la falta de certeza no justifica postergar medidas; enfrenta un riesgo INCIERTO; parte de la doctrina la ve como un enfoque. RCPD (Río 7): responsabilidad común de proteger, diferenciada según la contribución y la capacidad, fundada en la equidad; anexo de Kyoto, Montreal art. 5. Contaminador pagador (Río 16): los costos los soporta quien contamina; viene de la CEE y la OCDE en los 70; criticado como no ético. Ejemplo: liberar un organismo genéticamente modificado con efectos inciertos. a) Precaución; elementos: incertidumbre científica, riesgo de daño y daño grave e irreversible; incluye la EIA (ILA). b) Está en tratados (CDB, Protocolo de Cartagena 2000, Viena, CMNUCC) y Weeramantry habló de invertir la carga de la prueba, pero la CIJ no la reconoció como costumbre en Gabčíkovo y el TIDM solo habló de 'prudencia y precaución': su carácter consuetudinario no está demostrado (Mollar).",
+  "puntosClave": [
+   "Prevención: fundamento, diligencia debida, riesgo cierto",
+   "Prevención consuetudinaria (Gabčíkovo, Celulosa)",
+   "Precaución: Río 15, riesgo incierto",
+   "Tres elementos de la precaución",
+   "RCPD: Río 7 y Kyoto",
+   "Contaminador pagador: origen y crítica",
+   "Ejemplo aplicado correctamente",
+   "Estatus dudoso de la precaución"
+  ],
+  "fuentes": [
+   "Mollar"
+  ]
+ },
+ {
+  "id": "k13",
+  "unidades": [
+   10
+  ],
+  "titulo": "Mecanismos de protección ambiental",
+  "consigna": "Explique los mecanismos de protección internacional del medio ambiente y sus características. Compare el rol del PNUMA, las conferencias de partes y los organismos creados por tratados. Desarrolle un ejemplo de dos Estados ribereños con una comisión binacional, donde uno autoriza obras sin informar a la comisión, y conteste: a) ¿qué obligaciones incumplió?; b) ¿qué valor tiene la comisión según la jurisprudencia?",
+  "respuesta": "Los mecanismos incluyen los de control previstos en los tratados y los procedimientos que aseguran el cumplimiento. Desde los 90 son cooperativos: ejecución colectiva, cooperación, prevención y asistencia en lugar de sanción. Técnicas: informes periódicos (CITES), pedidos de información, mecanismo consultivo (CMNUCC art. 13), monitoreo entre Estados (Basilea), supervisión del Estado del puerto (CONVEMAR 218) y solución de controversias (diplomática, arbitral o judicial; los Estados son reacios a litigar: la sala ambiental de la CIJ de 1993 nunca actuó). PNUMA: órgano subsidiario de la AG (Nairobi), catalizador de la cooperación, con un Consejo de 58 países y un Fondo voluntario. COP: órganos supremos con facultades de enmienda y supervisión (CMNUCC art. 7.2). Organismos creados: la CARU (Estatuto de 1975). Ejemplo: Plantas de Celulosa (Argentina c. Uruguay, CIJ, 2010). a) Las obligaciones procesales del art. 7: informar a la CARU (primera etapa) y notificar a través de ella antes de autorizar; Uruguay notificó por otras vías y después; además, la prevención (art. 41) es de diligencia debida, y el art. 27 expresa el desarrollo sostenible. b) La CARU tiene un rol central, no facultativo; el mecanismo no puede modificarse unilateralmente y las partes deben seguir cooperando por ella.",
+  "puntosClave": [
+   "Concepto de mecanismos",
+   "Cuatro características cooperativas",
+   "Técnicas de control",
+   "PNUMA: naturaleza y estructura",
+   "COP: facultades",
+   "Solución de controversias y reticencia judicial",
+   "Plantas de Celulosa: art. 7 incumplido",
+   "Rol central de la CARU"
+  ],
+  "fuentes": [
+   "Mollar"
+  ]
+ },
+ {
+  "id": "k14",
+  "unidades": [
+   7,
+   9
+  ],
+  "titulo": "Protección del inversor y del individuo",
+  "consigna": "Explique la protección diplomática y sus requisitos. Compare la protección del inversor extranjero por vía diplomática con el arbitraje inversor-Estado del CIADI, y con la jurisdicción de la Corte Internacional de Justicia en materia de inversiones. Desarrolle un ejemplo de inversor binacional afectado por un Estado, y conteste: a) ¿qué vía conviene y por qué?; b) ¿qué rol juega la nacionalidad efectiva?",
+  "respuesta": "Protección diplomática: el Estado de la nacionalidad reclama por el ilícito cometido contra su nacional; requiere nacionalidad y agotamiento de los recursos internos, y es un derecho discrecional del Estado (Pérez Aznar; North American Dredging). CIADI: el inversor demanda directamente, sustrae el caso de los tribunales locales a cambio de renunciar a pedir la protección diplomática (art. 27.1), que se recupera si el Estado incumple el laudo; laudos obligatorios con anulación limitada y ejecución del art. 54. CIJ: papel limitado, porque solo resuelve controversias entre Estados (protección diplomática de sociedades), requiere consentimiento y es lenta (Anglo-Iranian, Barcelona Traction, ELSI); en Barcelona Traction (1970) dijo que las inversiones son propiedad protegida por el derecho internacional, y no admite el reclamo de accionistas, que los tribunales arbitrales sí admiten (CMS, Azurix). Ejemplo: un inversor con nacionalidad de A y del Estado receptor B. a) El arbitraje CIADI, si hay consentimiento y se cumple el art. 25: es directo y vinculante, aunque hay que verificar la nacionalidad que exigen el art. 25 y el TBI. b) Para la protección diplomática entre los Estados de sus nacionalidades rige la igualdad soberana, salvo prioridad de la efectiva (Oyarzábal); en los APPRI algunos tratados exigen nacionalidad efectiva, en la línea de Nottebohm (Hinojosa).",
+  "puntosClave": [
+   "Protección diplomática: requisitos y discrecionalidad",
+   "CIADI: acceso directo y art. 27.1",
+   "CIJ: solo entre Estados; casos",
+   "Barcelona Traction y reclamos de accionistas",
+   "Comparación de eficacia",
+   "Problema del binacional en el CIADI",
+   "Nacionalidad efectiva (Nottebohm; APPRI)"
+  ],
+  "fuentes": [
+   "Pérez Aznar",
+   "Hinojosa",
+   "Oyarzábal"
+  ]
+ },
+ {
+  "id": "k15",
+  "unidades": [
+   7,
+   8
+  ],
+  "titulo": "Inversiones en los acuerdos regionales",
+  "consigna": "Explique cómo regulan las inversiones los acuerdos regionales. Compare el capítulo 11 del TLCAN con el Protocolo de Colonia del MERCOSUR. Explique la discusión sobre el nivel mínimo de trato del art. 1105 del TLCAN. Desarrolle un ejemplo de inversor del TLCAN al que el Estado exige exportar un porcentaje de su producción, y conteste: a) ¿es lícito?; b) ¿qué vía de reclamo tiene?",
+  "respuesta": "Los acuerdos regionales se centran más en suprimir obstáculos a la IED que en proteger al inversor (Hinojosa). TLCAN cap. 11 (Hinojosa y Segura Serrano): definición relativamente amplia con exclusiones financieras (art. 1139); TN y NMF en todo el ciclo, incluido el establecimiento (1102-1103), con reservas (1108); prohibición de requisitos de desempeño por listas negativas (1106), aunque admite condicionar incentivos; nivel mínimo (1105); arbitraje inversor-Estado (1115-1138, sección B). Protocolo de Colonia (1994): definición amplia (títulos de crédito, PI, concesiones; art. 1.1), TN y NMF en el establecimiento (art. 2), arbitraje CIADI o CNUDMI (art. 9), prohibición de requisitos de exportación y consumo local (art. 3.4), libre transferencia (art. 5). Art. 1105: la Nota interpretativa de la Comisión de Libre Comercio (2001) dice que el TJE y la PPS no exigen más que el mínimo consuetudinario; Bottini repasa S.D. Myers (piso alto), Pope & Talbot (sin umbral), Waste Management II (arbitrario, notoriamente injusto, idiosincrático), Glamis (Neer como piso) y critica Merrill & Ring. Ejemplo: México exige exportar el 30 %. a) No: el art. 1106 prohíbe los requisitos de desempeño (salvo como condición para un incentivo). b) El arbitraje inversor-Estado del cap. 11, sección B; si el Estado no era parte del Convenio CIADI, se usaba el Mecanismo Complementario (Pérez Aznar).",
+  "puntosClave": [
+   "Enfoque de los acuerdos regionales",
+   "TLCAN cap. 11: artículos clave",
+   "Protocolo de Colonia: contenido",
+   "Nota interpretativa 2001",
+   "Jurisprudencia del art. 1105 (Bottini)",
+   "Prohibición del art. 1106",
+   "Arbitraje sección B / Mecanismo Complementario"
+  ],
+  "fuentes": [
+   "Hinojosa",
+   "Segura Serrano",
+   "Bottini",
+   "Pérez Aznar"
+  ]
+ },
+ {
+  "id": "k16",
+  "unidades": [
+   7,
+   10
+  ],
+  "titulo": "Soberanía sobre los recursos naturales",
+  "consigna": "Explique el principio de soberanía permanente sobre los recursos naturales y sus fuentes. Compare su función en el derecho de las inversiones (indemnización por expropiación) y en el derecho ambiental (límite del daño transfronterizo). Desarrolle un ejemplo de Estado que nacionaliza una explotación minera contaminante, y conteste: a) ¿qué estándar de indemnización se discutiría?; b) ¿qué límites ambientales tiene su soberanía?",
+  "respuesta": "La Res. AG 1803 (14/12/1962) afirma la soberanía permanente de los pueblos sobre sus recursos naturales, en interés del desarrollo nacional, y la expropiación por utilidad pública con 'indemnización correspondiente' (Hinojosa); la Carta 3281 (1974) reafirma la soberanía plena y la 'compensación apropiada' según la ley nacional. En inversiones: tensión con la fórmula Hull (rápida, adecuada y efectiva) y los APPRI (expropiación lícita: interés general, no discriminación, debido proceso, compensación; directa o indirecta). En el ambiente (Mollar): el derecho soberano a explotar los propios recursos viene de la Res. 1803 y está en Estocolmo 21 / Río 2, pero tiene el límite del sic utere tuo ut alienum non laedas: no causar daño a otros Estados o a zonas fuera de la jurisdicción; la Carta 3281 (art. 30) también lo recoge. Ejemplo: el Estado X nacionaliza una mina extranjera que contamina un río compartido. a) Si hay APPRI, la expropiación debe cumplir sus requisitos y compensar; el inversor invocaría Hull o el TBI y el Estado, la 1803 o la Carta, con una compensación apropiada que puede considerar la capacidad de pago. b) No dañar al vecino (Trail Smelter), prevenir con diligencia debida, cooperar e informar (Plantas de Celulosa), y la precaución ante la incertidumbre.",
+  "puntosClave": [
+   "Res. 1803 y Carta 3281",
+   "Función en inversiones: indemnización",
+   "Hull vs compensación correspondiente/apropiada",
+   "Requisitos de la expropiación lícita (APPRI)",
+   "Función ambiental: Estocolmo 21 / Río 2",
+   "Límite sic utere tuo / Trail Smelter",
+   "Prevención, cooperación e información"
+  ],
+  "fuentes": [
+   "Hinojosa",
+   "Mollar"
+  ]
+ }
+]

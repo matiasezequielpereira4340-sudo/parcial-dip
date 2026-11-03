@@ -5,6 +5,7 @@ import Mapa from './screens/Mapa'
 import Practicar from './screens/Practicar'
 import Sesion from './screens/Sesion'
 import Simulacro from './screens/Simulacro'
+import SimulacroReal from './screens/SimulacroReal'
 import Plan from './screens/Plan'
 import Glosario from './screens/Glosario'
 import Ajustes from './screens/Ajustes'
@@ -23,6 +24,7 @@ export default function App() {
   else if (path === '/practicar') vista = <Practicar />
   else if (path.startsWith('/run/')) vista = <Sesion key={ruta} modo={path.split('/')[2]} q={q} />
   else if (path === '/simulacro') vista = <Simulacro />
+  else if (path === '/parcial') vista = <SimulacroReal />
   else if (path === '/plan') vista = <Plan />
   else if (path === '/glosario') vista = <Glosario />
   else if (path === '/ajustes') vista = <Ajustes />

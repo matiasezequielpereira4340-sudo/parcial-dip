@@ -89,6 +89,21 @@ try {
   }
 } catch (e) { err(`glosario.json: ${e.message}`) }
 
+try {
+  const k = JSON.parse(readFileSync(join(DIR, 'consignas.json'), 'utf8'))
+  if (k.length < 15) err(`consignas.json: hay ${k.length}; el mínimo es 15`)
+  const ks = new Set()
+  for (const c of k) {
+    if (ks.has(c.id)) err(`consignas: id duplicado ${c.id}`); ks.add(c.id)
+    for (const f of ['titulo', 'consigna', 'respuesta']) if (vacio(c[f])) err(`consignas ${c.id}: falta ${f}`)
+    if (!(c.puntosClave?.length >= 5)) err(`consignas ${c.id}: necesita al menos 5 puntosClave`)
+    if (!c.unidades?.length || c.unidades.some((u) => u < 7 || u > 10)) err(`consignas ${c.id}: unidades fuera de U7-U10`)
+    if (!c.fuentes?.length || c.fuentes.some((f) => !FUENTES.includes(f))) err(`consignas ${c.id}: fuente inválida`)
+  }
+  for (const u of [7, 8, 9, 10]) if (k.filter((c) => c.unidades.length === 1 && c.unidades[0] === u).length < 3) err(`consignas: menos de 3 consignas propias de U${u}`)
+  console.log(`consignas: ${k.length} (cruzadas: ${k.filter((c) => c.unidades.length > 1).length})`)
+} catch (e) { err(`consignas.json: ${e.message}`) }
+
 avisos.forEach((a) => console.log('  aviso: ' + a))
 if (errores.length) { console.error(`\n✗ ${errores.length} error(es):`); errores.forEach((e) => console.error('  - ' + e)); process.exit(1) }
 console.log('\n✓ Contenido válido.')

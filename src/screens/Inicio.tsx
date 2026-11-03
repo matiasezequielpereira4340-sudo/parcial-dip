@@ -1,4 +1,4 @@
-import { CARGADAS, UNIDADES } from '../data'
+import { UNIDADES } from '../data'
 import { Barra, Boton, Chip, Tarjeta } from '../components/ui'
 import { diasAlParcial, useProgreso } from '../lib/progreso'
 import { contarVencidas, dominio } from '../lib/seleccion'
@@ -13,7 +13,7 @@ export default function Inicio() {
   return (
     <div className="space-y-4">
       <Tarjeta className="bg-blue-900! text-white border-0!">
-        <p className="text-sm opacity-90">Segundo parcial · Unidades 5 a 10</p>
+        <p className="text-sm opacity-90">Segundo parcial · Unidades 7 a 10</p>
         <p className="text-4xl font-black mt-1">{d > 0 ? `Faltan ${d} día${d === 1 ? '' : 's'}` : d === 0 ? '¡Es hoy!' : 'Parcial pasado'}</p>
         <p className="opacity-90 first-letter:uppercase">{fecha}</p>
         <p className="mt-3 text-sm">🔥 Racha: <b>{racha} día{racha === 1 ? '' : 's'}</b></p>
@@ -48,7 +48,6 @@ export default function Inicio() {
             )
           })}
         </ul>
-        {CARGADAS.length < UNIDADES.length && <p className="text-xs mt-3 text-slate-500">Las unidades pendientes se activan solas cuando se carga su archivo JSON.</p>}
       </Tarjeta>
 
       <div className="grid grid-cols-2 gap-2">

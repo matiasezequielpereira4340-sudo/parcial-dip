@@ -15,7 +15,7 @@ export default defineConfig({
       manifest: {
         name: 'Segundo Parcial DIP · UNTREF',
         short_name: 'Parcial DIP',
-        description: 'Práctica activa para el segundo parcial (Unidades 5 a 10).',
+        description: 'Práctica activa para el segundo parcial (Unidades 7 a 10).',
         lang: 'es-AR',
         start_url: './',
         scope: './',

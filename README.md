@@ -13,4 +13,4 @@ npm run build      # valida + compila a dist/
 - **Progreso**: localStorage del navegador (exportar/importar desde Ajustes).
 - **Deploy**: Vercel (detecta `vercel.json`) o GitHub Pages (workflow en `.github/workflows/pages.yml`; activar Pages → Source: GitHub Actions). Usa base relativa y router por hash, así que funciona en subcarpetas.
 
-Estado del contenido: U7 cargada (Hinojosa, cap. XII). U5, U6, U8, U9 y U10 están pendientes de carga.
+Estado del contenido: U7 cargada (Hinojosa, cap. XIII, contrastada con el PDF completo). U5, U6, U8, U9 y U10 están pendientes de carga.

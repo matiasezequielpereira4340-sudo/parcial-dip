@@ -29,10 +29,10 @@
  },
  {
   "sigla": "AII",
-  "nombre": "Acuerdos internacionales de inversión",
-  "definicion": "Pendiente: se completa cuando se cargue la unidad correspondiente.",
-  "unidad": null,
-  "fuente": "Complemento"
+  "nombre": "Acuerdos internacionales en materia de inversiones",
+  "definicion": "Incluyen los TBI y los tratados regionales o de libre comercio con disposiciones de inversión; más de 3.100 a fines de 2011 (más de 2.860 TBI), según Bottini (2011).",
+  "unidad": 7,
+  "fuente": "Bottini"
  },
  {
   "sigla": "AMGI",
@@ -201,6 +201,13 @@
   "definicion": "Creada por la Ley 26.165; resuelve sobre el reconocimiento de la condición de refugiado.",
   "unidad": 9,
   "fuente": "Oyarzábal"
+ },
+ {
+  "sigla": "CPA / TPA",
+  "nombre": "Corte (Tribunal) Permanente de Arbitraje",
+  "definicion": "La Haya, 1899. No es un tribunal: administra arbitrajes, conciliaciones y determinación de hechos, también de inversiones (Pérez Aznar la llama CPA; Hinojosa, TPA).",
+  "unidad": 7,
+  "fuente": "Pérez Aznar"
  },
  {
   "sigla": "DUDH",
@@ -388,13 +395,6 @@
   "sigla": "TN",
   "nombre": "Trato nacional",
   "definicion": "No discriminación frente a los nacionales. En la mayoría de los APPRI rige post-establecimiento; EE. UU./Canadá lo dan pre-establecimiento.",
-  "unidad": 7,
-  "fuente": "Hinojosa"
- },
- {
-  "sigla": "TPA",
-  "nombre": "Tribunal Permanente de Arbitraje",
-  "definicion": "Convenios de La Haya de 1899 y 1907. No es un órgano jurisdiccional sino una lista de árbitros con Secretaría; su Secretario General es autoridad nominadora en el Reglamento CNUDMI.",
   "unidad": 7,
   "fuente": "Hinojosa"
  },

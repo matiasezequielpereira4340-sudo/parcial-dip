@@ -33,3 +33,11 @@ Lo que figura acá **no se usó** en la app, o se usó solo en lo que se entend�
 - **MERCOSUR (pp. 240-241):** faltan en el texto recibido (salta de la p. 239 a la 242). Solo se usó lo del § 22.
 - **ASEAN § 36:** la lista de miembros originales está mezclada (se leen Indonesia, Malasia, Filipinas, Singapur y Tailandia); no se usó la lista. **§ 40:** el año del Acuerdo Comprensivo de Inversiones aparece como «200_»; no se usó.
 - **TLCAN § 30:** la lista de personas del Anexo 1603 está ilegible; solo se usó «entrada temporal».
+
+## U7-2 Bottini (Protección de las inversiones extranjeras)
+- **Faltan páginas en el texto recibido:** después de la p. 946 (comienzo del TJE, punto 3.2.b) el texto salta a la p. 947 a mitad de frase (punto e, no discriminación y arbitrariedad). **No se cargaron** los puntos c) y d) de los estándares de protección (probablemente PPS y trato nacional) ni el inicio de la sección 4 (conclusión). Revisá el PDF.
+- La p. 932 empieza con el final del capítulo anterior (protección consular: La Grand y Avena); no se usó porque no es de Bottini.
+
+## U7-3 Pérez Aznar (Solución de controversias)
+- Las notas al pie de las pp. 960-965 (jurisdicción ratione personae y temporis) están mezcladas con el cuerpo; se usaron solo las reglas legibles (art. 25.2.b, fecha del consentimiento, tres vías de consentimiento).
+- El diagrama del procedimiento arbitral CIADI (p. 966) salió como texto corrido; no se reprodujo.
